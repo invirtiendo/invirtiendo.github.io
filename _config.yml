@@ -163,7 +163,7 @@ defaults:
   - scope:
       path: "_analysis"
     values:
-      layout: analysis
+      layout: article
       author_profile: false
       share: true
       comments: true

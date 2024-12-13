@@ -10,7 +10,7 @@
         {% include navbar.html %}
         {% include /tweaks/back_to_top.html %}  
 
-        {% if page.updates %}
+        {% if page.updates or site.updates %}
             {% include updates.html %}
         {% endif %}
 

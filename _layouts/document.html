@@ -4,11 +4,11 @@ layout: default
 
 <div data-bs-spy="scroll" data-bs-target="#TableOfContents" class="container-fluid my-3">
 
-    <div class="container-xxl bd-gutter mt-3 my-md-4">
+    <div class="bd-gutter mt-3 my-md-4">
 
         <main class="d-md-flex">
             <!-- DOCUMENTATION NAVIGATION -->
-            <aside class="bd-toc offcanvas-lg offcanvas-start" tabindex="-1" id="bdSidebar" aria-labelledby="bdSidebarOffcanvasLabel">
+            <aside class="bd-toc d-flex flex-column flex-shrink-0 offcanvas-lg offcanvas-start" tabindex="-1" id="bdSidebar" aria-labelledby="bdSidebarOffcanvasLabel">
                 <div class="offcanvas-header border-bottom">
                     <h5 class="offcanvas-title py-2" id="bdSidebarOffcanvasLabel">Secciones</h5>
                     <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close" data-bs-target="#bdSidebar"></button>
@@ -38,22 +38,7 @@ layout: default
                 </div>
             </aside>
 
-            <!-- TOC -->
-            <div class="bd-toc text-body-secondary offcanvas-md offcanvas-end" tabindex="-1" id="tocContents" aria-labelledby="tocContentsOffcanvasLabel">
-                <div class="offcanvas-header border-bottom">
-                    <h5 class="offcanvas-title py-2" id="tocContentsOffcanvasLabel">Índice</h5>
-                    <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close" data-bs-target="#tocContents"></button>
-                </div>
-                <strong class="d-none d-md-block h6 my-2 ms-3 px-2">Índice</strong>
-                <hr class="d-none d-md-block my-2 ms-3">
-                <div class="offcanvas-body"id="tocContents">
-                    <nav id="TableOfContents">
-                        <ul>
-                            {% include toc.html sanitize=true html=content h_min=1 h_max=6 class="toc__menu" skip_no_ids=true %}                
-                        </ul>
-                    </nav>
-                </div>
-            </div>
+            
 
             <div class="d-flex flex-column flex-fill">
                 <!-- INTRO -->
@@ -75,6 +60,25 @@ layout: default
                     {{ content }}
                 </div>
             </div>
+
+            {% if page.toc %}
+            <!-- TOC -->
+            <div class="bd-toc d-flex flex-column flex-shrink-0 text-body-secondary offcanvas-md offcanvas-end" tabindex="-1" id="tocContents" aria-labelledby="tocContentsOffcanvasLabel">
+                <div class="offcanvas-header border-bottom">
+                    <h5 class="offcanvas-title py-2" id="tocContentsOffcanvasLabel">Índice</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close" data-bs-target="#tocContents"></button>
+                </div>
+                <strong class="d-none d-md-block h6 my-2 ms-3 px-2">Índice</strong>
+                <hr class="d-none d-md-block my-2 ms-3">
+                <div class="offcanvas-body"id="tocContents">
+                    <nav id="TableOfContents">
+                        <ul>
+                            {% include toc.html sanitize=true html=content h_min=1 h_max=6 class="toc__menu" skip_no_ids=true %}                
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+            {% endif %}
         </main>
     </div>
 </div>
