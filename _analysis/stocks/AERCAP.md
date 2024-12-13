@@ -73,7 +73,7 @@ Ver info mas detallada en el análisis del [transporte aéreo comercial](../sect
 
 - Escala
     - Logra una alta eficiencia en el uso de los activos de la compañía
-![alt text](../../assets/images/analysis/stocks/aercap/2019-eficiencia-uso-activos.png)
+![alt text](../assets/images/analysis/stocks/aercap/2019-eficiencia-uso-activos.png)
     - Coste de la deuda relativamente barato (High Investment Grade de BBB+ [S&P Global](https://disclosure.spglobal.com/ratings/en/regulatory/article/-/view/type/HTML/id/3202628), [Fitch](https://www.fitchratings.com/entity/aercap-holdings-nv-88041757#ratings), [resumen](https://www.aercap.com/investors/fixed-income-investors))
     - Dada su poca sensibilidad tiene acceso a deuda incluso en épocas de crisis
     - Facilidad para la compra de nuevos aviones 
