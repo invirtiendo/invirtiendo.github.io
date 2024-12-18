@@ -1,3 +1,7 @@
+---
+layout: page
+---
+
 <main class="d-md-flex">
     <div class="col-md-9 d-flex flex-column flex-fill">
         {% include archive.html type="docs" no_taxonomy=true %}
