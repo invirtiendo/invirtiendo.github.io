@@ -20,6 +20,12 @@
             {% include comments.html %}
         {% endif %}
 
+        {% if site.search == true %}
+            <div class="search-content">
+                {% include search/search_form.html %}
+            </div>
+        {% endif %}
+
         {% include footer.html %}
 
         <!-- delay scripts load until cookies are accepted -->
