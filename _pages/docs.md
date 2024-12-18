@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /docs
 ---
 
 <main class="d-md-flex">
