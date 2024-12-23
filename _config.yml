@@ -18,12 +18,14 @@
 # Travis bundles all gems in the vendor directory on its build servers, which Jekyll will mistakenly read and explode on.
 # https://jekyllrb.com/docs/continuous-integration/
 
-name: Invirtiendo
-title: Invirtiendo
-description: Invirtiendo
+name: Tovarlogic
+title: Tovarlogic
+description: Tovarlogic
+
+logo: "/assets/images/TovarLogic.png"
 
 author:
-  name: Invirtiendo
+  name: Tovarlogic
   email: 
 
 url: https://Invirtiendo.github.io
@@ -129,6 +131,9 @@ collections:
   analysis:
     output: true
     permalink: /:collection/:path/
+  recipes:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -176,6 +181,15 @@ defaults:
       path: "_analysis"
     values:
       layout: article
+      author_profile: false
+      share: true
+      comments: true
+      related: false
+  
+  - scope:
+      path: "_recipes"
+    values:
+      layout: recipe
       author_profile: false
       share: true
       comments: true

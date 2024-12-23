@@ -6,15 +6,26 @@
     {% endif %}
     {% assign grouped_data = grouped_data | sort: 'size' | reverse %}
 
-    <div class="mb-3" style="background: #f3f3f3;">
+        <div class="mb-3" style="background: #f3f3f3;">
         <ul class="row taxonomy__index">
         {% for list in grouped_data %}
+            {% assign list-size = list.size %}
+            {% if include.type == "docs" %}
+                {% for item in list.items %}
+                    {% assign deepness = item.url | split:"/" | size %}
+                    {% if deepness > 3 %}
+                        {% assign list-size = list-size | minus: 1 %}
+                    {% endif %}
+                {% endfor %}
+            {% endif %}
+            {% if list-size > 0 %}
             <li class="col-sm">
             <a href="#{{ list.name | slugify }}">
                 <strong>{{ list.name | capitalize }}</strong> 
-                <span class="taxonomy__count">{{ list.size }}</span> 
+                <span class="taxonomy__count">{{ list-size }}</span> 
             </a> 
             </li>
+            {% endif %}
         {% endfor %}
         </ul> 
     </div>
@@ -42,9 +53,20 @@
             <div class="row d-flex list">
                 
                 {% for item in list.items %}
+                    {% if include.type == "docs" %}
+                        {% assign deepness = item.url | split:"/" | size %}
+                        {% if deepness > 3 %}
+                            {% continue %}
+                        {% endif %}
+                    {% endif %}
                     <div class="col-md-6 flex-column flex-fill my-2">
                         <div class="list-text">
+                        {% if include.type == "docs" %}
+                            {% assign title = item.url | split:"/" %}
+                            <a href="{{ item.url}}" target="_blank">{{ title[2]}}</a>
+                        {% else %}
                             <a href="{{ item.url}}" target="_blank">{{ item.title}}</a>
+                        {% endif %}
                         </div>
 
                         {% if item.stars %}
@@ -128,10 +150,10 @@
                 {% endif %}
                 <div class="flex-fill flex-wrap">
                     {% if include.type == "docs" %}
-                    {% assign title = item.url | split:"/" %}
-                    <h6 class="mb-0 pe-2">{{ title[2] | capitalize | truncatewords: 10 }} </h6>
-                    {% else %}
-                    <h6 class="mb-0 pe-2">{{ item.title | capitalize | truncatewords: 10 }} </h6>
+                        {% assign title = item.url | split:"/" %}
+                        <h6 class="mb-0 pe-2">{{ title[2] | capitalize | truncatewords: 10 }} </h6>
+                        {% else %}
+                        <h6 class="mb-0 pe-2">{{ item.title | capitalize | truncatewords: 10 }} </h6>
                     {% endif %}
                     {% if item.type %} <small class="text-dark text-nowrap"> <i class="fa-fw far fa-file-code" aria-hidden="true"></i> {{item.type }}</small>{% endif %}  
                     {% if item.date %} <small class="text-body-secondary"> {{item.date | date: "%-d %B %Y" }} </small> {% endif %}

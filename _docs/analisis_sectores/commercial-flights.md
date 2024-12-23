@@ -1,6 +1,6 @@
 ---
 date: 2024-11-13
-title: AERCAP
+category: inversion
 stock: NYSE:AER
 sectors: 
 industries: 

@@ -1,8 +1,1448 @@
-- id: 1
-  type: web
-  title: Arte de invertir
-  url: https://artedeinvertir.com/
-  consulted_date: 2024-10-01
+- title: From the Earth to the Moon and Round the Moon
+  authors: Jules Verne
+  type: book
+  id: 9781592242429
+  date: 2007-08-01
+  stars: 5
+  tags:
+  - Ficción
+  - Ciencia-ficción
+  status: read
+
+- title: Round the Moon
+  authors: Jules Verne
+  type: book
+  id: 9781557423740
+  date: 2007-08-01
+  stars: 5
+  tags:
+  - Ficción
+  - Ciencia-ficción
+  status: read
+
+- title: 'The Tibetan Book of Living and Dying: The Spiritual Classic & International
+  Bestseller: Revised and Updated Edition'
+  authors: Sogyal Rinpoche
+  type: book
+  id: 9780944993781
+  date: 2008-08-01
+  stars: 4
+  tags:
+  - Ensayo 
+  - Filosofía
+  status: read
+
+- title: 'An Appeal to Reason: A Cool Look at Global Warming'
+  authors: Nigel Lawson
+  type: book
+  id: 9781590200841
+  date: 2009-04-01
+  stars: 4
+  tags:
+  - Ensayo
+  - Medioambiente
+  tags: Cambio climático
+  status: read
+
+- title: 'The Revenge of Gaia: Earth''s Climate Crisis & The Fate of Humanity'
+  authors: James Lovelock
+  type: book
+  id: 9780465041695
+  date: 2009-02-01
+  stars: 4 
+  tags:
+  - Ensayo
+  - Medioambiente
+  tags: Cambio climático
+  status: read
+
+- title: The Looming Tower
+  authors: Lawrence Wright
+  type: book
+  id: 9780375414862
+  date: 2010-06-01
+  stars: 4
+  tags:
+  - Ensayo
+  - Historia
+  - Política
+  status: read
+
+- title: Globalization and Its Discontents
+  authors: Joseph E. Stiglitz
+  type: book
+  id: 0393051242
+  date: 2011-09-01
   stars: 3
-  tags: [Formación]
+  tags:
+  - Ensayo
+  - Política
+  - Economía
+  tags:
+  - Globalización
+  status: read
+
+- title: Confessions of an Economic Hit Man
+  authors: John Perkins
+  type: book
+  id: 0452287081
+  date: 2011-03-01
+  stars: 4
+  tags:
+  - Ensayo
+  - Política
+  - Economía
+  status: read
+
+- title: The Autobiography of Benjamin Franklin
+  authors: Benjamin Franklin
+  type: book
+  id: 1566193931
+  date: 2012-10-01
+  stars: 4
+  tags:
+  - Ensayo 
+  - Biografía
+  status: read
+
+- title: Winter of the World
+  authors: Ken Follett
+  type: book
+  id: 9780525952923
+  date: 2013-02-01
+  stars: 3
+  tags:
+  - Ficción 
+  - Historia
+  status: read
+
+- title: Harpo Speaks! About new York
+  authors: Harpo Marx, Rowland Barber
+  type: book
+  id: 0879100362
+  date: 2013-12-01
+  stars: 4
+  tags:
+  - Ensayo
+  - Biografía
+  status: read
+
+- title: 'The Blood Pressure Cure: 8 Weeks to Lower Blood Pressure without Prescription
+  Drugs'
+  authors: Robert E. Kowalski
+  type: book
+  id: 9780470124161
+  date: 2014-01-01
+  stars: 3
+  tags:
+  - Ensayo
+  - Salud
+  status: read
+
+- title: 'New Ideas from Dead Economists: An Introduction to Modern Economic Thought'
+  authors: Todd G. Buchholz
+  type: book
+  id: 0453006884
+  date: 2016-02-01
+  stars: 3
+  tags:
+  - Ensayo
+  - Economía
+  status: read
+
+- title: '7 Habits of highly effective people '
+  authors: Stephen R. Covey
+  type: book
+  id: 0743250974
+  date: 2017-05-07
+  stars: 4
+  tags:
+  - Ensayo
+  - Crecimiento personal
+  review: 7-habitos-gente-eficaz
+  status: read
+
+- title: 'Sapiens: A Brief History of Humankind'
+  authors: Yuval Noah Harari
+  type: book
+  id: 9781846558245
+  date: 2018-08-01
+  stars: 4
+  tags:
+  - Ensayo 
+  - Sociología
+  status: read
+
+- title: 'Merchants of Doubt: How a Handful of Scientists Obscured the Truth on Issues
+  from Tobacco Smoke to Global Warming'
+  authors: Naomi Oreskes
+  type: book
+  id: 9781596916104
+  date: 2019-04-01
+  stars: 4
+  tags:
+  - Ensayo
+  - Medioambiente
+  - Política
+  tags: Cambio climático
+  status: read
+  
+- title: 'The Little Book of Stoicism: Timeless Wisdom to Gain Resilience, Confidence,
+  and Calmness'
+  authors: Jonas Salzgeber
+  type: book
+  id: 9783952506905
+  date: 2020-02-01
+  stars: 4
+  tags:
+  - Ensayo
+  - Filosofía
+  status: read
+  
+- title: Notes on Nationalism
+  authors: George Orwell
+  type: book
+  id: 9780241339565
+  tags:
+  - Ensayo
+  - Política
+  - Sociología
+  date: 2021-06-16
+  stars: 3
+  format: audiobook
+  status: read
+
+- title: 'The Precipice: Existential Risk and the Future of Humanity'
+  authors: Toby Ord
+  type: book
+  id: 9780316484916
+  tags:
+  - Ensayo
+  - Riesgos existenciales
+  date: 2021-06-28
+  stars: 4
+  format: audiobook
+  review: the-precipice
+  status: read
+
+- title: 'The War that Ended Peace: How Europe abandoned peace for the First World War'
+  authors: Margaret MacMillan
+  type: book
+  id: 9781846682735
+  tags:
+  - Ensayo
+  - Historia
+  tags: 
+  - Primera-guerra-mundial
+  date: 2022-11-02
+  stars: 3
+  format: kindle
+  status: read
+
+- title: The Hitchhiker's Guide to the Galaxy
+  authors: Douglas Adams
+  type: book
+  id: 9780671527211
+  date: 2021-02-20
+  stars: 4
+  tags:
+  - Ficción
+  - Ciencia-ficción
+  status: read
+
+- title: 'Blockchain Revolution: How the Technology Behind Bitcoin and Other Cryptocurrencies
+  is Changing the World'
+  authors: Don Tapscott
+  type: book
+  id: 9780241237854
+  date: 2018-10-01
+  stars: 4
+  tags:
+  - Ensayo
+  - Tecnología
+  status: read
+
+- title: 'Prisoners of Geography: Ten Maps That Tell You Everything You Need To Know
+  About Global Politics'
+  authors: Tim Marshall
+  type: book
+  id: 9781783961412
+  date: 2019-06-01
+  stars: 4
+  tags:
+  - Ensayo
+  - Geopolítica
+  status: read
+
+- title: Comfortably unaware - what we choose to eat is killing us and our planet
+  authors: Richard A. Oppenlander
+  type: book
+  id: 9780825306860
+  tags:
+  - Ensayo
+  - Medioambiente
+  date: 2021-11-10
+  stars: 2
+  format: kindle
+  review: Comfortably-unaware
+  status: read
+
+- title: 'Breve historia del tiempo: Del big bang a los agujeros negros'
+  authors: Stephen Hawking
+  type: book
+  id: 9684063563
+  date: 2004-06-01
+  stars: 5
+  tags:
+  - Ensayo
+  - Astrofísica
+  status: read
+
+- title: 'Doom: The Politics of Catastrophe'
+  authors: Niall Ferguson
+  type: book
+  id: 0593297377
+  date: 2021-05-18
+  tags:
+  - Ensayo
+  - Política
+  - Riesgos existenciales
+  review: doom
+  status: not-read
+  stars: 3
+
+- title: La Ilíada
+  authors: Homero
+  type: book
+  id: 9788497942270
+  date: 2021-06-15
+  stars: 3
+  format: kindle
+  tags:
+  - Ficción
+  - Historia
+  status: read
+
+- title: La Odisea
+  authors: Homero
+  type: book
+  id: 8496412180
+  date: 2021-06-15
+  stars: 3
+  format: ebook
+  tags:
+  - Ficción
+  - Historia
+  status: read
+
+- title: 'Respira: La nueva ciencia de un arte olvidado'
+  authors: James Nestor
+  type: book
+  id: 9788408237228
+  tags:
+  - Ensayo
+  - Salud
+  date: 2021-09-21
+  stars: 3
+  format: kindle
+  review: respira
+  status: read
+
+- title: El libro del Tao
+  authors: Lao Tse
+  type: book
+  id: 8447323366
+  date: 2020-03-01
+  stars: 3
+  tags:
+  - Ensayo
+  - Filosofía
+
+- title: La primera guerra mundial contada para escepticos
+  authors: Juan Eslava Galán
+  type: book
+  id: 9788408124535
+  tags:
+  - Ensayo
+  - Historia
+  date: 2022-01-10
+  stars: 3
+  format: kindle
+  status: read
+
+- title: Tropic of Capricorn
+  authors: Henry Miller
+  type: book
+  id: 9780007204458
+  date: 2012-08-01
+  stars: 2
+  tags:
+  - Ficción
+  status: abandoned
+
+- title:  A Short History of Nearly Everything 
+  authors: Bill Bryson
+  stars: 3
+  type: book
+  id: 9780767908184
+  tags:
+  - Ensayo
+  - Historia
+  - Ciencia
+  status: read
+  date: 2012-05-11
+
+- title: The Enzyme Factor
+  authors: Hiromi Shinya
+  type: book
+  id: 9781571782090
+  date: 2014-12-01
+  stars: 4
+  tags:
+  - Ensayo
+  - Salud
+  tags: Salud
+  status: read
+
+- title: 'Lifespan: Why We Age – and Why We Don’t Have To'
+  authors: David Sinclair
+  type: book
+  id: 9780008380328
+  date: 2020-10-01
+  stars: 3
+  tags:
+  - Ensayo
+  - Salud
+  tags: Salud
+  status: read
+
+- title:  "The World Is Flat: A Brief History of the Twenty-first Century" 
+  authors: Thomas L. Friedman
+  stars: 3
+  type: book
+  id: 9780141022727
+  tags:
+  - Ensayo
+  - Historia
+  - Ciencia
+  status: read
+  date: 2010-05-11
+
+- title: 'The european union: A very short introduction'
+  authors: Simon Usherwood
+  type: book
+  id: 9780199681693
+  tags:
+  - Ensayo
+  - Política
+  tags: Unión-europea
+  date: 2022-05-26
+  stars: 3
+  format: kindle
+  status: reading
+
+- title: 'Nudge: Improving Decisions About Health, Wealth and Happiness'
+  authors: Richard H. Thaler y Cass R. Sunstein
+  type: book
+  id: 9780300122237
+  date: 2020-12-28
+  stars: 4
+  top: true
+  tags:
+  - Ensayo
+  - Crecimiento personal
+  - Economía
+  - Sociología
+  - Psicología
+  - Política
+  review: arquitectura-decisiones
+  status: read
+
+- title: El arte de la Guerra
+  authors: Sun Tzu
+  type: book
+  id: 9781592650002
+  date: 2008-06-01
+  stars: 3
+  tags:
+  - Ensayo
+  - Filosofía
+  tags:
+  - China
+  status: read
+
+- title: 'Homo Deus: A Brief History of Tomorrow'
+  authors: Yuval Noah Harari
+  type: book
+  id: 9780062464347
+  date: 2018-10-01
+  stars: 3
+  tags:
+  - Ensayo
+  - Sociología
+  status: read
+
+- title: Las reglas del método sociológico
+  authors: Émile Durkheim
+  type: book
+  id: 9789681624453
+  tags:
+  - Ensayo
+  - Sociología
+  date: 2022-03-07
+  stars: 4
+  format: papel
+  status: read
+  review: reglas-metodo-sociologico
+
+- title: 'Candide: Or Optimism'
+  authors: Voltaire
+  type: book
+  id: 9780140440041
+  date: 2009-12-01
+  stars: 4
+  tags:
+  - Ficción
+  - Sociología
+  tags: [Sociología, Política]
+  status: read
+
+- title: "Freakonomics: A Rogue Economist Explores the Hidden Side of Everything"
+  authors: Steven D. Levitt, Stephen J. Dubner
+  type: book
+  id: 9780061234002
+  date: 2010-05-01
+  stars: 3
+  tags:
+  - Ensayo
+  - Economía
+  status: read
+
+- title: ¿Quién se ha llevado mi queso?
+  authors: Spencer Johnson
+  type: book
+  id: 9788495787095
+  date: 2007-06-01
+  stars: 3
+  tags:
+  - Ensayo
+  - Economía
+  status: read
+
+- title: 'Nuclear Renaissance: Technologies and Policies for the Future of Nuclear Power'
+  authors: W.J. Nuttall
+  type: book
+  id: 9780750309363
+  date: 2009-06-01
+  stars: 3
+  tags:
+  - Ensayo
+  - Energía
+  tags: Energía-nuclear
+  status: read
+
+- title: '¡Que vienen los lobbies!: El opaco negocio de la influencia en España'
+  authors: Juan Francés
+  type: book
+  id: 9788423346271
+  date: 2014-06-01
+  stars: 4
+  tags:
+  - Ensayo
+  - Economía
+  - Política
+  status: read
+
+- title: En el enjambre
+  authors: Byung-Chul Han
+  type: book
+  id: 9788425433689
+  date: 2020-08-01
+  stars: 3
+  tags:
+  - Ensayo
+  - Filosofía
+  status: read
+
+- title: 'The Future Is Asian: Global Order in the Twenty-first Century'
+  authors: Parag Khanna
+  type: book
+  id: 9781508282730
+  date: 2019-11-01
+  stars: 3
+  tags:
+  - Ensayo
+  - Geopolítica
+  status: read
+
+- title: The Grand Design
+  authors: Stephen Hawking
+  type: book
+  id: 9780553384666
+  date: 2014-10-01
+  stars: 3
+  tags:
+  - Ensayo
+  - Ciencia
+  tags: Astrofísica
+  status: read
+
+- title: 'The Shock Doctrine: The Rise of Disaster Capitalism'
+  authors: Naomi Klein
+  type: book
+  id: 9780805079838
+  date: 2011-11-01
+  stars: 4
+  tags:
+  - Ensayo
+  - Política
+  - Sociología
+  - Economía
+  status: read
+
+- title: '1984'
+  authors: George Orwell
+  type: book
+  id: 9780451524935
+  tags:
+  - Ensayo
+  - Ciencia-ficción
+  date: 2021-07-01
+  stars: 4
+  format: audiobook
+  status: read
+
+- title: The Call of the Wild
+  authors: Jack London
+  type: book
+  id: 9780760727935
+  date: 2010-03-01
+  stars: 5
+  tags:
+  - Ficción
+  status: read
+
+- title: 'Utopia for Realists: And How We Can Get There'
+  authors: Rutger Bregman
+  type: book
+  id: 9789082520309
+  date: 2018-06-01
+  stars: 4
+  tags:
+  - Ensayo
+  - Sociología
+  tags: Utopía
+  status: read
+
+- title: Los pilares de la tierra
+  authors: Ken Follett
+  type: book
+  id: 9788483465813
+  date: 2008-10-01
+  stars: 5
+  tags:
+  - Ficción 
+  - Historia
+  status: read
+
+- title: The Relaxation Response
+  authors: Herbert Benson M.D., Miriam Z. Klipper
+  type: book
+  id: 0380815958
+  tags:
+  - Ensayo
+  - Salud
+  - Crecimiento personal
+  tags: Salud
+  date: 2021-11-10
+  stars: 3
+  format: kindle
+  status: read
+
+- title: España sin democracia
+  authors: Jesús Neira
+  type: book
+  id: 9788484608332
+  date: 2012-12-01
+  stars: 4
+  tags:
+  - Ensayo
+  - Política
+  status: read
+
+- title: 'Too Big to Fail: The Inside Story of How Wall Street and Washington Fought
+  to Save the Financial System--and Themselves'
+  authors: Andrew Ross Sorkin
+  type: book
+  id: 9780670021253
+  date: 2014-08-01
+  stars: 3
+  tags:
+  - Ensayo
+  - Economía
+  - Política
+  status: read
+
+- title: 'La Banque: Comment Golden Sachs dirige le monde'
+  authors: Marc Roche
+  type: book
+  id: 9782226206268
+  date: 2012-06-01
+  stars: 4
+  tags:
+  - Ensayo
+  - Economía
+  status: read
+
+- title: Nadie es mas que nadie
+  authors: Miguel Ángel Revilla
+  type: book
+  id: 9788467006681
+  date: 2013-04-01
+  stars: 2
+  tags:
+  - Ensayo
+  - Política
+  status: read
+
+- title: Vacas, cerdos, guerras y brujas
+  authors: Marvin Harris
+  type: book
+  id: 9788420674391
+  date: 2013-06-01
+  stars: 4
+  tags:
+  - Ensayo
+  - Sociología
+  - Historia
+  status: read
+
+- title: 'Good to Great: Why Some Companies Make the Leap...And Others Don''t'
+  authors: Jim Collins
+  type: book
+  id: 0066620996
+  date: 2012-04-01
+  stars: 3
+  tags:
+  - Ensayo
+  - Economía
+  status: read
+
+- title: 'Count Down: How Our Modern World Is Threatening Sperm Counts, Altering Male
+  and Female Reproductive Development, and Imperiling the Future of the Human Race'
+  authors: Shanna H. Swan, PhD y Stacey Colino
+  type: book
+  id: 9781797114613
+  date: 2021-05-18
+  tags:
+  - Ensayo
+  - Salud
+  - Riesgos existenciales
+  review: count-down
+  status: not-read
+  stars: 3
+
+- title: 'Connectography: Mapping the Global Network Revolutions'
+  authors: Parag Khanna
+  type: book
+  id: 9780399589379
+  date: 2019-09-01
+  stars: 3
+  tags:
+  - Ensayo
+  - Geopolítica
+  status: read
+
+- title: Sobre el Anarquismo
+  authors: Noam Chomsky
+  type: book
+  id: 9781904859956
+  tags:
+  - Ensayo
+  - Política
+  status: read
+  stars: 3
+  date: 2022-08-26
+
+- title: Introducción a la sociología
+  authors: Theodor W. Adorno
+  type: book
+  id: 9788474325669
+  date: 2023-01-03
+  stars: 4
+  tags:
+  - Ensayo
+  - Sociología
+  status: read
+  review: introduccion-sociologia
+
+- title: Ficciones
+  authors: Jorge Luis Borges
+  type: book
+  id: 9788499089508
+  date: 2023-01-20
+  stars: 3
+  tags:
+  - Ficción
+  - Cuentos cortos
+  status: read
+
+- title: Masa y Poder
+  authors: Elias Canetti
+  type: book
+  id: 9788420637518
+  date: 2023-03-20
+  stars: 4
+  tags:
+  - Ensayo
+  - Sociología
+  status: reading
+  review: masa-poder
+
+- title: Einstein`s Dreams
+  authors: Alan Lightman
+  type: book
+  id: 0747518599
+  date: 2023-05-14
+  stars: 3
+  tags:
+  - Ensayo
+  - Ciencia-ficción
+  status: read
+
+- title: Los peligros de la Moralidad
+  authors: Pablo Malo
+  type: book
+  id: 9788423432837
+  date: 2023-06-05
+  stars: 4
+  tags:
+  - Ensayo
+  - Sociología
+  status: read
+  review: peligros-moralidad
+
+- title: La tolerancia
+  authors: Claude Sahel y otros
+  type: book
+  id: 9782020337885
+  date: 2023-06-16
+  stars: 3
+  tags:
+  - Ensayo
+  - Psicología
+  - Filosofía
+  - Sociología
+  tags:
+  -  Tolerancia
+  status: read
+
+- title: Ira
+  authors: Rafael Narbona
+  type: book
+  id: 9788428839433
+  date: 2023-06-22
+  stars: 3
+  tags:
+  - Ensayo 
+  - Psicología
+  - Filosofía
+  - Sociología
+  status: read
+
+- title: El problema de los tres cuerpos
+  type: book
+  id: 9788466659734
+  tags:
+  - Ficción
+  - Ciencia-ficción
+  authors: Cixin Liu
+  stars: 4
+  status: read
+  date: 2023-10-01
+
+- title: I will teach you to be rich
+  type: book
+  id: 9780761147480
+  tags:
+  - Ensayo 
+  - Economía
+  authors: Ramit Sethi
+  stars: 3
+  status: reading
+  date: 2023-09-25
+
+- title: El bosque oscuro
+  type: book
+  id: 9788466660921
+  tags:
+  - Ficción
+  - Ciencia-ficción
+  authors: Cixin Liu
+  stars: 3
+  status: read
+  date: 2023-10-11
+
+- title: El fin de la muerte
+  type: book
+  id: 9788417347017
+  tags:
+  - Ficción
+  - Ciencia-ficción
+  authors: Cixin liu
+  stars: 4
+  status: read
+  date: 2023-10-28
+
+- title: Fundación
+  type: book
+  id: 8401929210
+  tags:
+  - Ficción
+  - Ciencia-ficción
+  authors: Isaac Asimov
+  stars: 4
+  status: read
+  date: 2023-11-28
+
+- title: Fundación e imperio
+  type: book
+  id: 8482809539
+  tags:
+  - Ficción
+  - Ciencia-ficción
+  authors: Isaac Asimov
+  stars: 4
+  status: read
+  date: 2023-12-08
+
+- title: Segunda fundación
+  type: book
+  id: 8401929237
+  tags:
+  - Ficción
+  - Ciencia-ficción
+  authors: Isaac Asimov
+  stars: 4
+  status: read
+  date: 2023-12-20
+
+- title: Los límites de la fundación
+  type: book
+  id: 8401929245
+  tags:
+  - Ficción
+  - Ciencia-ficción
+  authors: Isaac Asimov
+  stars: 4
+  status: read
+  date: 2023-12-30
+
+- title: Fundación y tierra
+  type: book
+  id: 8401929335
+  tags:
+  - Ficción
+  - Ciencia-ficción
+  authors: Isaac Asimov
+  stars: 4
+  status: read
+  date: 2024-01-02
+
+- title: El sabueso de los Baskerville
+  authors: Arthur Conan Doyle
+  type: book
+  id: 9788420665689
+  tags:
+  - Ficción
+  stars: 3
+  status: read
+  date: 2024-01-04
+
+- title: Sin energía
+  authors: Antonio Turiel
+  type: book
+  id: 9788417951320
+  tags:
+  - Ensayo
+  - Medioambiente
+  tags: Cambio climático
+  stars: 3
+  status: read
+  date: 2024-01-10
+
+- title: Poyecto Hail Mary
+  authors: Andy Weir
+  type: book
+  id: 9788418037016
+  tags:
+  - Ficción
+  - Ciencia-ficción
+  stars: 4
+  status: read
+  date: 2024-01-08
+
+- title: Scary Smart
+  authors: Mo Gawdat
+  type: book
+  id: 9781529077186
+  tags:
+  - Ensayo
+  - Tecnología
+  stars: 3
+  status: read
+  date: 2024-02-08
+
+- title: The zero marginal cost society
+  authors: Jeremy Rifkin
+  type: book
+  id: 9781137278463
+  tags:
+  - Ensayo
+  - Tecnología
+  - Sociología
+  - Economía
+  stars: 4
+  status: read
+  date: 2024-03-06
+
+- title: El mundo de sofía
+  authors: Jostein Gaarder
+  type: book
+  id: 9788478443222
+  tags:
+  - Ficción
+  - Filosofía
+  stars: 4
+  status: read
+  date: 2024-05-11
+
+- title: El banquero anarquista y otros cuentos de raciocinio
+  authors: Fernando Pessoa
+  stars: 5
+  type: book
+  id: 8420601586
+  tags:
+  - Ficción
+  - Cuentos cortos
+  status: read
+  date: 2024-05-11
+
+- title: Historia de las ideas políticas
+  authors: Jean Touchard
+  stars: 3
+  type: book
+  id: 9788430907342
+  tags:
+  - Ensayo
+  - Historia
+  - Filosofía
+  - Política
+  status: reading
+  date: 2024-05-11
+
+- title: The long march
+  authors: sun shuyun
+  stars: 4
+  type: book
+  id: 9780007194797
+  tags:
+  - Ensayo
+  - Historia
+  status: read
+  date: 2008-05-11
+
+- title: Filosofías del Underground
+  authors: Luis racionero
+  stars: 4
+  type: book
+  id: 8433912046
+  tags:
+  - Ensayo
+  - Filosofía
+  status: read
+  date: 2024-05-29
+
+- title: 'Africanus: El hijo del Cónsul'
+  authors: Santiago posteguillo
+  stars: 3
+  type: book
+  id: 9788466639323
+  tags:
+  - Ficción
+  - Historia
+  status: read
+  date: 2024-06-16
+
+- title: Las legiones malditas
+  authors: Santiago posteguillo
+  stars: 3
+  type: book
+  id: 9788466637688
+  tags:
+  - Ficción 
+  - Historia
+  status: read
+  date: 2024-06-19
+
+- title: La traición de Roma
+  authors: Santiago posteguillo
+  stars: 3
+  type: book
+  id: 9788498725421
+  tags:
+  - Ficción 
+  - Historia
+  status: read
+  date: 2024-07-21
+
+- title: Utopía
+  authors: Tomás Moro
+  stars: 3
+  type: book
+  id: 8484034267
+  tags:
+  - Ensayo
+  - Filosofía
+  - Clásicos
+  status: read
+  date: 2024-07-26
+
+- title: Alejandro Magno
+  authors: Mary Renault
+  stars: 4
+  type: book
+  id: 9788408072683
+  tags:
+  - Ensayo
+  - Historia
+  status: read
+  date: 2024-08-10
+
+- title: Vidas paralelas
+  authors: Plutarco
+  stars: 3
+  type: book
+  id: 9798570077416
+  tags:
+  - Ensayo
+  - Biografía
+  - Historia
+  status: reading
+  date: 2024-08-10
+  
+- id: 69434687
+  type: media
+  title: Why have sperm counts more than halved in the past 40 years?
+  platform: ivoox
+  show: Today in Focus
+  speakers: [Shanna H. Swan]
+  consulted_date: 2021-05-18
+  stars: 3
+  tags: [Fertilidad, Contaminación, Factores ambientales]
   added_by: carlos
+
+- title: FIRST Human Age-Reversal Trial REPLICATED! This Groundbreaking Treatment Holds the Key to YOUTH?
+  type: media 
+  platform: youtube
+  id: 7Wz1zpKy62k
+  show: Reverse Aging Revolution
+  published_year: 2024
+  consulted_date: 2024-08-08
+  stars: 4
+  tags: [Envejecimiento, Cáncer, HGH, DHEA, Metformina, Timo]
+  added_by: carlos
+
+- title: 'Epigenetic-based age acceleration in a representative sample of older Americans: Associations with aging-related morbidity and mortality'
+  type: paper
+  url: https://www.pnas.org/doi/10.1073/pnas.2215840120
+  id: 10.1073/pnas.2215840120 #DOI
+  stars: 4
+  tags: [Envejecimiento, Epigenética]
+  published_year: 2023
+  consulted_date: 2024-08-08
+  added_by: carlos
+  status: pending
+
+- title: The Wahls Protocol
+  authors: [Terry Wahls]
+  type: book
+  id: 9781583335215 #ISBN
+  stars: 4
+  tags: [Ensayo, Salud]
+  status: reading 
+  published_year: 2014
+  consulted_date: 2024-07-01
+  added_by: nestor
+
+- title: Anti Cáncer
+  authors: [David Servan-Schreiber]
+  type: book
+  id: 9780670020348 #ISBN
+  stars: 4
+  tags: [Ensayo, Salud]
+  status: read #read, reading, pending (indica el estado de lectura)
+  published_year: 2008
+  consulted_date: 2023-03-16
+  added_by: carlos
+
+- title: Outlive
+  authors: Dr. Peter Attia
+  type: book
+  stars: 3
+  id: 9781785044540 #ISBN
+  tags:
+  - Ensayo
+  - Salud
+  status: reading
+  published_year: 2023
+  consulted_date: 2024-08-10
+  added_by: carlos
+
+- title: Debate - Síndrome post-covid, una enfermedad inflamatoria no resuelta
+  type: media 
+  platform: youtube
+  id: Xr23O4wzNMs
+  show: Fundación Areces
+  published_year: 2021
+  consulted_date: 2024-09-04
+  stars: 2
+  tags: [COVID, Inflamación, SPMs, Omega-3]
+  added_by: carlos
+  timing: [26-46]
+
+- id: 10.1038/nri.2015.4 
+  title: "Specialized pro-resolving mediators: endogenous regulators of infection and inflammation"
+  type: paper
+  authors: [Maria C Basil, Bruce D Levy]
+  tags: [Inflamación, SPMs, Omega-3]
+  published_year: 2016
+  consulted_date: 2024-09-04
+  stars: 4
+  added_by: carlos
+
+- id: 10.1097/MCO.0000000000000353
+  title: "Resolving inflammation by using nutrition therapy roles for specialized proresolving mediators"
+  type: paper
+  authors: [Norling Lucy V., Ly Lucy, Dalli Jesmond]
+  tags: [Inflamación, SPMs, Omega-3]
+  published_year: 2017
+  consulted_date: 2024-09-04
+  stars: 4
+  added_by: carlos
+
+- id: 10.1038/nature13479
+  title: "Pro-resolving lipid mediators are leads for resolution physiology"
+  type: paper
+  authors: [Charles N Serhan]
+  tags: [Inflamación, SPMs, Omega-3]
+  published_year: 2014
+  consulted_date: 2024-09-04
+  stars: 4
+  added_by: carlos
+
+- type: article
+  title: Omega-3 Fatty Acids - Fact Sheet for Health Professionals
+  id: https://ods.od.nih.gov/factsheets/Omega3FattyAcids-HealthProfessional/
+  authors: nih.gov
+  tags: [Alimentación, Omega-3]
+  published_year: 2022
+  consulted_date: 2024-09-08
+  stars: 4
+  added_by: carlos
+
+- id: 10.1021/cr100396c
+  title: Resolvins and Protectins in Inflammation Resolution
+  type: paper
+  authors: [Charles N. Serhan, Nicos A. Petasis]
+  tags: [Inflamación, SPMs, Omega-3]
+  published_year: 2011
+  consulted_date: 2024-09-09
+  stars: 4
+  added_by: carlos
+
+- type: article
+  id: https://www.cancer.gov/espanol/cancer/causas-prevencion/riesgo/germenes-infecciosos/vph-y-cancer
+  title: El virus del papiloma humano (VPH) y el cáncer
+  authors: cancer.gov
+  tags: [VPH, Cáncer]
+  published_year: 2023
+  consulted_date: 2024-06-08
+  added_by: carlos
+
+- type: paper
+  id: 10.1016/j.conctc.2020.100534
+  url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7083756/
+  title: Efficacy of AV2-Salicylic acid combination therapy for cutaneous warts
+  authors: [Nina Redzic, Ina Benoy, Davy Vanden Broeck, Johannes.P. Bogers]
+  tags: [Ácido salicícilo, VPH, Omnivirol, Terpenos]
+  published_year: 2020
+  consulted_date: 2024-07-09
+  added_by: carlos
+  stars: 2
+
+- type: paper
+  id: 10.12892/EJGO3436.2017
+  url: https://oss.ejgo.net/files/article/20220524-806/pdf/EJGO3436.pdf
+  title: A preliminary study for the treatment of cervical colposcopic lesions with the biological compound AV2
+  tags: [Ácido salicícilo, VPH, Omnivirol, Terpenos]
+  stars: 2
+  added_by: carlos
+  published_year: 2017
+  consulted_date: 2024-09-19
+
+- id: EwM9CuGcBgI
+  type: media 
+  title: Western liberal democracy would be wrong for China
+  platform: youtube
+  show: Intelligence-Squared
+  speakers: []
+  date: 2023-01-24
+  stars: 4
+  category: [Política]
+  tags: [democracia]
+  posts: [otras-formas-gobierno]
+
+- id: w06x8Q_hdMU
+  type: media 
+  title: "One Size Doesn't Fit All: Democracy is Not Always the Best Form of Government"
+  platform: youtube
+  show: Intelligence-Squared
+  speakers: []
+  date: 2023-01-20
+  stars: 3
+  category: [Política]
+  tags: [democracia]
+  posts: [otras-formas-gobierno]
+
+- id: 78555823
+  type: media
+  title: Building Africa’s Great Green Wall Project
+  platform: ivoox
+  show: Intelligence Squared
+  speakers: [speaker]
+  date: 2021-05-18
+  stars: 3
+  category: [Medioambiente]
+  tags: [reforestacion]
+  posts: [2021-05-18-reglas-oro-reforestacion]
+    
+- id: 76599303
+  type: media
+  title: The Battle Over Free Speech and trigger warnings
+  platform: ivoox
+  show: Intelligence Squared
+  speakers: [speaker]
+  date: 2021-11-01
+  stars: 4
+  category: [sociologia]
+  tags: [debate, libertad-expresión, censura, plataformas, redes-sociales]
+
+- id: 65324888
+  type: media
+  title: Will electric vehicles make our roads greener?
+  platform: ivoox
+  show: Intelligence Squared
+  speakers: [speaker]
+  date: 2021-05-18
+  stars: 4
+  category: [Medioambiente]
+  tags: [debate, transporte, movilidad, vehiculos-electricos]
+
+- id: 69434687
+  type: media
+  title: Why have sperm counts more than halved in the past 40 years?
+  platform: ivoox
+  show: Today in Focus
+  speakers: [Shanna H. Swan]
+  date: 2021-05-18
+  stars: 3
+  category: [Medioambiente]
+  tags: [libros, infertilidad, contaminacion]
+
+- id: 69929408
+  type: media
+  title: Niall Ferguson on the Politics of Catastrophe
+  platform: ivoox
+  show: Intelligence Squared
+  speakers: [Niall Ferguson]
+  date: 2021-05-18
+  stars: 3
+  category: [Medioambiente]
+  tags: [libros, riesgos, cambio-climatico, pandemias, infertilidad, contaminacion]
+
+- id: 49203422
+  type: media
+  title: Why we need worst-case thinking to prevent pandemics
+  platform: ivoox
+  show: The audio long read
+  speakers: [Toby Ord]
+  date: 2021-06-21
+  stars: 4
+  category: [Medioambiente]
+  tags: [libros, riesgos, cambio-climatico, pandemias, infertilidad, contaminacion]
+
+- id: 68109264
+  type: media
+  title: Máster en justicia - Derechos de los ciudadanos ante la justicia
+  platform: ivoox
+  show: Máster en justicia
+  speakers: [Manuela Carmena]
+  date: 2021-06-04
+  stars: 3
+  category: [Derecho]
+  tags: [derechos-humanos]
+
+- id: 59905384
+  type: media
+  title: "Unit 74455: Russian hackers 'wanted by the FBI'"
+  platform: ivoox
+  show: Sky News Radio - Daily
+  date: 2021-05-18
+  stars: 3
+  category: []
+  tags: []
+
+- id: 76599303
+  type: media
+  title: The Battle Over Free Speech and trigger warnings
+  platform: ivoox
+  show: Intelligence Squared
+  speakers: [speaker]
+  date: 2021-11-01
+  stars: 4
+  category: [sociologia]
+  tags: [debate, libertad-expresión, censura, plataformas, redes-sociales]
+
+- title: 'Sustainable development: mapping different approaches.'
+  type: 'paper'
+  id: 10.1002/sd.244
+  categories: Política
+  tags: [Análisis programas electorales, Desarrollo sostenible]
+  published_date: '2005'
+  authors: 'Bill Hopwood, Mary Mellor, Geoff O’Brien'
+
+- title: Análisis comparativo y propuesta metodológica para el análisis del contenido de programas electorales para estimar la posición política en relación al Desarrollo Sostenible
+  type: article
+  id: 'https://riunet.upv.es/handle/10251/52032'
+  categories: Política
+  tags: [Análisis programas electorales, Desarrollo sostenible]
+  published_date: '2015'
+  authors: 'Diego Álvarez Sánchez, José Félix Lozano Aguilar'
+  
+- title: Diseño de una metodología de análisis de programas electorales en relación al Desarrollo Sostenible en el marco de la política europea.
+  type: article
+  id: https://fdocuments.ec/document/metodologia-analisis-programas-electoralespdf.html
+  categories: Política
+  tags: [Análisis programas electorales, Desarrollo sostenible]
+  published_date: ''
+  authors: 'Diego Álvarez Sánchez, José Félix Lozano Aguilar'
+
+- title: Towards a New Methodology of Estimating Party Policy Positions
+  type: paper
+  id: '10.1023/A:1014380123135'
+  url: ''
+  categories: Política
+  tags: Análisis programas electorales
+  published_date: '2002'
+  authors: 'Hans Keman, Paul Pennings'

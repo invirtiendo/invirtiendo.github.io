@@ -26,7 +26,8 @@
             </li>
         {% endfor %}
     {% else %}
-        {% for recent in site.[include.type] limit: 5 %}
+        {% assign items = site.[include.type] | reverse %}
+        {% for recent in items limit: 5 %}
             {% if include.type == "docs" %}
                 {% assign deepness = recent.url | split:"/" | size %}
                 {% if deepness > 3 %}
