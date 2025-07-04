@@ -83,6 +83,10 @@
   border-radius: .25rem;
 }
 
+h1, h2, h3, h4, h5, h6 {
+  scroll-margin-top: 60px; /* o la altura máxima del navbar */
+}
+
 .summary {
   position: relative;
   text-align: justify;
