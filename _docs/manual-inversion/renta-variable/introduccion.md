@@ -2,8 +2,8 @@
 title: Introducción
 lastmod: 2025-07-03T18:09:27.237Z
 ---
-
 ## Introducción
+
 El presente manual tiene un objetivo educativo, de adquisición de los conocimientos básicos.  Buscamos con esto acelerar el proceso de aprendizaje proveyendo al lector de “píldoras” (información muy sintetizada) que le ayude a:
 
 - Crear rápidamente una visión general del mundo de la inversión
@@ -28,27 +28,22 @@ Hay dos maneras bien diferenciadas de invertir en bolsa:
 
 - **Inversión pasiva** → es una estrategia en la que se busca replicar el rendimiento de un índice o mercado en lugar de intentar superarlo, generalmente mediante la compra y mantenimiento de activos a largo plazo. Se caracteriza por una gestión más sencilla, con menor inversión de tiempo y esfuerzo por parte del inversor. Para ello se invierte en ETFs, índices y fondos.
 
-  <u>Ventajas</u>
 
-  - Menor esfuerzo y conocimientos.
-  - Mayor diversificación.
-  - Menor riesgo.
-  - Mayor facilidad de gestión
-    {: .text-left}
+| Ventajas                       | Desventajas                                                                                      | col3 |
+| -------------------------------- | -------------------------------------------------------------------------------------------------- | :----- |
+| Menor esfuerzo y conocimientos | La rentabilidad está limitada al rendimiento del índice que se está replicando.               |      |
+| Mayor diversificación         | Puede no superar la rentabilidad de las estrategias activas en momentos de crecimiento acelerado |      |
+| Menor riesgo                   |                                                                                                  |      |
+| Mayor facilidad de gestión    |                                                                                                  |      |
 
-  <u>Desventajas</u>
-
-  - La rentabilidad está limitada al rendimiento del índice que se está replicando.
-  - Puede no superar la rentabilidad de las estrategias activas en momentos de crecimiento acelerado
-    {: .text-right}
 - **Inversión activa** → es una estrategia en la que un inversor, o un gestor de inversiones, toma decisiones de compra y venta de activos con el objetivo de superar el rendimiento de un índice de referencia o del mercado en general. Implica una gestión dinámica de la cartera, donde se analizan constantemente las tendencias del mercado, el desempeño de las empresas y otros factores para tomar decisiones de inversión con la esperanza de obtener mayores rendimientos que los que se obtendrían con una estrategia pasiva.
 
-| Ventajas                                                                                                 | Desventajas                                                       |
-| :------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
-| Menores costos que la inversión pasiva si no se emplean intermediarios ni fondos gestionados activamente | puede implicar mayores costos debido a comisiones de los gestores |
-| Posibilidad de mayores retornos                                                                          | Mayor riesgo                                                      |
-|                                                                                                          | Mayor esfuerzo si se invierte directamente                        |
 
+| Ventajas                                                                                                    | Desventajas                                                         |
+| :------------------------------------------------------------------------------------------------------------ | :-------------------------------------------------------------------- |
+| - Menores costos que la inversión pasiva si no se emplean intermediarios ni fondos gestionados activamente | - puede implicar mayores costos debido a comisiones de los gestores |
+| - Posibilidad de mayores retornos                                                                           | - Mayor riesgo                                                      |
+|                                                                                                             | - Mayor esfuerzo si se invierte directamente                        |
 
 Si en algún momento se considera la opción de invertir directa y activamente es recomendable adquirir los conocimientos necesarios, para maximizar las posibilidades de éxito. En este caso caben distintos tipos de estrategias, que pueden o no combinarse, esto es:
 
@@ -133,7 +128,6 @@ El trabajo de investigación y análisis a llevar a cabo (tanto del negocio como
 Esta es una distinción teórica. En la práctica ambas cosas están relacionadas y el estudio se realiza paralelamente, tratando de obtener una visión holística de la situación.
 
 ## Value Investing
-
 
 Empleando una definición muy somera Value Investing o inversión en valor, es una filosofía de inversión que **se basa en la compra de activos a bajo precio**, se buscan gangas.
 
@@ -290,7 +284,6 @@ En cuanto a elementos externos:
 * Existencia de catalizadores de crecimiento
 * Ausencia de disruptores (o ventaja en caso de existir)
 
-
 ## Riesgo vs Volatilidad
 
 Cabe aclarar que RIESGO y VOLATILIDAD **son conceptos diferentes**, especialmente cuando nuestra actividad principal es la inversión y no la especulación a corto plazo.
@@ -306,24 +299,25 @@ Ambos casos son ejemplos de comportamientos irracionales e irresponsables que se
 
 Si la volatilidad aumenta por un rally, entonces lo más probable es que las oportunidades de compra se vean reducidas, mientras que puede generar una oportunidad para recoger beneficios en aquellos activos sobrevalorados que poseamos.
 
-
 ## Gestión del riesgo
 
 * Mantener una **actitud conservadora** sobre nuestro capital:
+
   * Suponer que el coste de oportunidad es elevado y no invertir más cantidad de lo que podemos asumir como ilíquido durante un periodo de tiempo mínimo de 12 meses.
   * Limitar las posiciones especulativas a una cantidad inferior a lo que estamos dispuestos a perder.
   * Limitar el apalancamiento de las operaciones que realicemos. Generalmente, a mayor apalancamiento, mayor es la potencial ganancia, pero también la pérdida. El problema del apalancamiento es que podemos llegar a perder cantidades de capital superiores a lo invertido y a lo que disponemos en nuestras cuentas bancarias.
-
-
 * Mantener la **disciplina**
+
   * Siguiendo fielmente la estrategia y metodología elegida
   * Evitar actuar motivado por las emociones, especialmente:
     * Evitar que la impaciencia afecte a las decisiones. Solo invertir si hay fuerte convicción del análisis
     * Evitar actuar en periodos de mercados bajistas a causa del miedo. Sólo actuar si consideramos que existe un riesgo real como un cambio profundo en los fundamentales de la empresa o del sector
     * Evitar el contagio positivo en mercados irracionalmente alcistas, como en burbujas. A mayor valoración de un activo en el momento de entrada, mayor probabilidad que exista una regresión a la media. Cabe la excepción de que se identifique un cambio fundamental en la empresa o sector que lo fundamente.
 * Establecer estrategia de **Hedging** para proteger nuestra cartera
+
   * Resulta muy complicado prever cómo se comportará el mercado a corto plazo. No obstante, a largo plazo su comportamiento suele parecerse al pasado. Sabiendo esto, podemos tomar medidas que sabemos habrían servido en situaciones que se han dado en el pasado y probablemente se vuelvan a dar.
 * Mantener una elevada **agilidad táctica en la gestión de la cartera**
+
   * puede ayudarnos en la optimización cuando las condiciones del mercado empeoran. No obstante como se dijo anteriormente, esto resulta muy complicado e incluso puede resultar contraproducente.
 
 Si se invierte en empresas/activos similares hay que ser consciente que hay un componente de riesgo compartido al emplear modelos de negocio similares y pertenecer al mismo sector.
@@ -332,31 +326,26 @@ Si se invierte en empresas/activos similares hay que ser consciente que hay un c
 ## Estrategia de cartera
 
 Normalmente solemos hacer referencia a la **rotación de cartera** entendiendo indistintamente como:
+
 * la frecuencia con la que se entra y sale de las posiciones en cartera (comprar y vender por completo)
 * la frecuencia de operaciones dentro de una misma posición (comprar y vender parcialmente)
 
-Evidentemente son cosas diferentes. Lo primero implica, probablemente, una mayor variedad de inversiones (acciones distintas); Lo segundo, por su parte, tiene más que ver al ajuste que se hace de los pesos de cada posición en cartera en base a las fluctuaciones del precio (volatilidad). 
+Evidentemente son cosas diferentes. Lo primero implica, probablemente, una mayor variedad de inversiones (acciones distintas); Lo segundo, por su parte, tiene más que ver al ajuste que se hace de los pesos de cada posición en cartera en base a las fluctuaciones del precio (volatilidad).
 
-Ambos tipos de operativa son necesarios para mantener una **gestión de cartera ágil** que se adapte al cambio de circunstancias para gestionar el riesgo y/o realizar beneficios. 
+Ambos tipos de operativa son necesarios para mantener una **gestión de cartera ágil** que se adapte al cambio de circunstancias para gestionar el riesgo y/o realizar beneficios.
 
-Por tanto, cuando nos referimos a la **concentración de cartera** esto no implica una alta o baja rotación (en las dos variantes). 
+Por tanto, cuando nos referimos a la **concentración de cartera** esto no implica una alta o baja rotación (en las dos variantes).
 
 Lo que significa es que el peso relativo de cada posición es bajo o elevado con respecto al total del capital invertido.
 
 En cuanto a la evaluación del **desempeño o retorno de la inversión** hay distintas metodologías, que se verán más adelante.
 Hablamos de retorno (pérdidas o ganancias reales) si ha existido una venta, si no, hasta entonces, hablamos de pérdidas o ganancias no realizadas (potenciales).
-Lo útil no es tanto conocer el retorno de la inversión (ROI) como esa misma medida anualizada (CAGR). Esto es así porque es mucho mejor obtener una rentabilidad del 15% en un día que en un año. 
-Una rentabilidad del 3% en un mes equivale a un 43% anualizado; mientras que otra del 50% en dos años equivale a un 22% anualizado. 
+Lo útil no es tanto conocer el retorno de la inversión (ROI) como esa misma medida anualizada (CAGR). Esto es así porque es mucho mejor obtener una rentabilidad del 15% en un día que en un año.
+Una rentabilidad del 3% en un mes equivale a un 43% anualizado; mientras que otra del 50% en dos años equivale a un 22% anualizado.
 Otros aspectos a tener en cuenta en la rentabilidad real son:
-* la inflación (la reducción del valor del dinero con el paso del tiempo). 
+
+* la inflación (la reducción del valor del dinero con el paso del tiempo).
 * Impuestos sobre beneficios realizados
 * Comisiones de gestión y operación
-Por eso, a la hora de establecer un objetivo de beneficios, previamente deberemos saber a groso modo los impuestos que pagaríamos, la tasa de inflación y una estimación de costes.
-Si hemos obtenido un beneficio de 1000€ con una rentabilidad anual del 15%, hemos de ajustarlo a la inflación (-3% de media), los impuestos (19% sobre beneficios que equivale a -2%) y comisiones (estimando al 1%)→ la rentabilidad real es del 15% -5% -1% = 9% 
-
-
-
-
-
-
-
+  Por eso, a la hora de establecer un objetivo de beneficios, previamente deberemos saber a groso modo los impuestos que pagaríamos, la tasa de inflación y una estimación de costes.
+  Si hemos obtenido un beneficio de 1000€ con una rentabilidad anual del 15%, hemos de ajustarlo a la inflación (-3% de media), los impuestos (19% sobre beneficios que equivale a -2%) y comisiones (estimando al 1%)→ la rentabilidad real es del 15% -5% -1% = 9%
