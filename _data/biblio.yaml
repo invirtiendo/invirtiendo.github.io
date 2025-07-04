@@ -1199,14 +1199,16 @@
   consulted_date: 2024-08-10
   added_by: carlos
 
-- title: MegaThreats
+- id: 9781529373783
+  title: MegaThreats
   type: book
   authors: Nouriel Roubini
   stars: 4
-  isbn: 9781529373783
   tags: [Ensayo, Economía]
   status: reading
-  date: 2025-05-15
+  published_year: 2022
+  consulted_date: 2025-05-15
+  added_by: carlos
 
 - title: Debate - Síndrome post-covid, una enfermedad inflamatoria no resuelta
   type: media 
