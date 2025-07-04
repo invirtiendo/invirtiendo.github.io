@@ -21,14 +21,14 @@ layout: default
 
         <div class="d-md-flex">
             <div class="d-flex flex-column flex-fill">
-                {% if page.toc == true %}
-                    {% include table-of-contents.html %}
-                {% endif %}
 
                 <div class="bd-content ps-lg-2">
                     {{ content }}
                 </div>
             </div>
+            {% if page.toc == true %}
+                {% include table-of-contents.html %}
+            {% endif %}
         </div>
     </main>
 </div>
