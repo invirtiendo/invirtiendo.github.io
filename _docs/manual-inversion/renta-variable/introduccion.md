@@ -14,7 +14,7 @@ La perseverancia, constancia, sistematización y mejora continua son, en nuestra
 
 La sistematización nos ayuda a crear planes de ejecución (cuanto más simples mejor), a evaluar el desempeño y, con ello, a aprender eficazmente de nuestra experiencia.
 
-Por eso, mostramos de manera esquemática un ejemplo de los pasos que toda persona debería seguir en su aventura de inversión, partiendo desde cero. Sigue una secuencia Top-down (de arriba a abajo), desde lo general a lo concreto.  ![alt text](/assets/images/invest/manual/pasos_inversion.png){: .align-right}
+Por eso, mostramos de manera esquemática un ejemplo de los pasos que toda persona debería seguir en su aventura de inversión, partiendo desde cero. Sigue una secuencia Top-down (de arriba a abajo), desde lo general a lo concreto.  ![alt text](/assets/images/manual-inversion/pasos_inversion.png){: .align-right}
 
 Este manual, no obstante, no sigue el mismo orden porque no es la manera más eficaz de aprender.
 
