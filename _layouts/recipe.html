@@ -14,7 +14,7 @@ layout: default
   {% if page.date %}<meta itemprop="datePublished" content="{{ page.date | date_to_xmlschema }}">{% endif %}
   {% if page.lastmod %}<meta itemprop="dateModified" content="{{ page.lastmod | date_to_xmlschema }}">{% endif %}
 
-  <div class="container-xxl bd-gutter mt-3 my-md-4">
+  <div class="container-xxl">
     {% unless page.header.overlay_color or page.header.overlay_image %}
       <header>
         {% if page.title %}
