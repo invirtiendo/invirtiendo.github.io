@@ -62,7 +62,7 @@
         {% assign title = d.title | split:"." %}
         {% assign tsize = title | size | minus: 1 %}
         {% assign title = title[tsize] | join: " " | capitalize %}
-        <li class="list-unstyled"> 
+        <li class="list-unstyled ps-3"> 
             <a href="{{ d.url }}" class="d-inline-block {{status}}" aria-current="page">{{ title }}</a>
         </li>
     {% endif %}  
