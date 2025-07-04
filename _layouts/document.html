@@ -9,13 +9,13 @@ layout: default
 
     <main class="bd-main order-1">
         <div class="bd-intro pt-2 ps-lg-2">
-            <div>
-                <h1 class="bd-title mb-0" id="content"> {{ page.title}} </h1>
-            </div>
             {% if page.subtitle %}
-            <div class="bd-subtitle"> 
-                <p> {{ page.subtitle }} </p>
-            </div>
+                <div>
+                    <h1 class="bd-title mb-0" id="content"> {{ page.title}} </h1>
+                </div>
+                <div class="bd-subtitle"> 
+                    <p> {{ page.subtitle }} </p>
+                </div>
             {% endif %}
         </div>
 
