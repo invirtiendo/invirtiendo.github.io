@@ -16,7 +16,7 @@ Esta recopilación, más o menos exhaustiva, se elabora con la intención de jus
 El 15 de octubre de 1978 se proclama, en la sede de la [UNESCO](https://es.unesco.org/) de París, la [Declaración Universal de los Derechos del Animal](https://www.filosofia.org/cod/c1977ani.htm) (DUDA) por parte de la Liga Internacional de los Derechos del Animal (LIDA), las Ligas Nacionales afiliadas y las personas físicas asociadas a ellas. Su objetivo era concienciar a la sociedad acerca del cuidado y el respeto hacia los animales. 
 
 **Nota:** Diversas fuentes afirman que la declaración fue aprobada/ratificada tanto por la [UNESCO](https://es.unesco.org/) como por la [ONU](https://www.un.org/es/). Sin embargo, en sus páginas web, donde se pueden consultar las declaraciones firmadas no existe referencia alguna a este asunto. Es decir, la declaración no tiene validez legal. Es una «mera» declaración de valores éticos, aunque algunos de los derechos recogidos ya forman parte de la legislación de muchos países [^paper2].
-{: .notice--info}
+{: .notice-info}
 
 No hay que confundir la DUDA con la Declaración Universal de Bienestar Animal (DUBA), que es una propuesta inespecífica - aún sin un contenido determinado - por parte de la Sociedad Mundial para Protección Animal (WSPA) que a partir de mediados de 2014 pasó a llamarse Protección Animal Mundial ([WAP](https://www.worldanimalprotection.org)). Esta organización, como decíamos ha promovido la conocida promueve la adopción intergubernamental de un código por definir que reconozca a los animales como seres capaces de sentir y sufrir, que tienen unas necesidades de bienestar que deben ser respetadas y que la crueldad hacia ellos debe terminar. 
 
