@@ -19,14 +19,13 @@ layout: default
             {% endif %}
         </div>
 
-        <div class="bd-content ps-lg-2">
-            {{ content }}
-        </div>
-
         {% if page.toc == true %}
             {% include table-of-contents.html %}
         {% endif %}
 
+        <div class="bd-content ps-lg-2">
+            {{ content }}
+        </div>
         
     </main>
 </div>
