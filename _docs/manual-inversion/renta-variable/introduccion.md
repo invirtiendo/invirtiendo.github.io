@@ -1,6 +1,7 @@
+---
 title: Introducción
 lastmod: 2025-07-03T18:09:27.237Z
----------------------------------
+---
 
 ## Introducción
 
@@ -27,7 +28,6 @@ Luego, mostramos una metodología para obtener una visión más completa, tenien
 Hay dos maneras bien diferenciadas de invertir en bolsa:
 
 - **Inversión pasiva** → es una estrategia en la que se busca replicar el rendimiento de un índice o mercado en lugar de intentar superarlo, generalmente mediante la compra y mantenimiento de activos a largo plazo. Se caracteriza por una gestión más sencilla, con menor inversión de tiempo y esfuerzo por parte del inversor. Para ello se invierte en ETFs, índices y fondos.
-
 
   | Ventajas                       | Desventajas                                                                                      |
   | -------------------------------- | -------------------------------------------------------------------------------------------------- |
