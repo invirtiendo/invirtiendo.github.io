@@ -42,14 +42,24 @@
 }
 
 .bd-sidebar {
-  position: sticky;
-  top: 4rem;
-}
+    position: sticky;
+    top: 5rem;
+    display: block !important;
+    height: calc(100vh - 6rem);
+    overflow-y: auto;
+    padding-left: .25rem;
+    margin-left: -.25rem;
+  }
 
-.bd-tocS {
-  position: sticky;
-  top: 4rem;
-}
+  .bd-toc {
+    position: sticky;
+    top: 5rem;
+    display: block !important;
+    height: calc(100vh - 6rem);
+    overflow-y: auto;
+    padding-right: .25rem;
+    margin-right: -.25rem;
+  }
 
 .summary {
   position: relative;
