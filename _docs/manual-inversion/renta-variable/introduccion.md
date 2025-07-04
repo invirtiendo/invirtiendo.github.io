@@ -1,7 +1,7 @@
----
 title: Introducción
 lastmod: 2025-07-03T18:09:27.237Z
----
+---------------------------------
+
 ## Introducción
 
 El presente manual tiene un objetivo educativo, de adquisición de los conocimientos básicos.  Buscamos con esto acelerar el proceso de aprendizaje proveyendo al lector de “píldoras” (información muy sintetizada) que le ayude a:
@@ -14,7 +14,7 @@ La perseverancia, constancia, sistematización y mejora continua son, en nuestra
 
 La sistematización nos ayuda a crear planes de ejecución (cuanto más simples mejor), a evaluar el desempeño y, con ello, a aprender eficazmente de nuestra experiencia.
 
-Por eso, mostramos de manera esquemática un ejemplo de los pasos que toda persona debería seguir en su aventura de inversión, partiendo desde cero. Sigue una secuencia Top-down (de arriba a abajo), desde lo general a lo concreto.  ![alt text](/assets/images/manual-inversion/pasos_inversion.png){: .align-right}
+Por eso, mostramos de manera esquemática un ejemplo de los pasos que toda persona debería seguir en su aventura de inversión, partiendo desde cero. Sigue una secuencia Top-down (de arriba a abajo), desde lo general a lo concreto.  ![alt text](/assets/images/manual-inversion/pasos_inversion.png){: .image-right}
 
 Este manual, no obstante, no sigue el mismo orden porque no es la manera más eficaz de aprender.
 
@@ -29,21 +29,20 @@ Hay dos maneras bien diferenciadas de invertir en bolsa:
 - **Inversión pasiva** → es una estrategia en la que se busca replicar el rendimiento de un índice o mercado en lugar de intentar superarlo, generalmente mediante la compra y mantenimiento de activos a largo plazo. Se caracteriza por una gestión más sencilla, con menor inversión de tiempo y esfuerzo por parte del inversor. Para ello se invierte en ETFs, índices y fondos.
 
 
-| Ventajas                       | Desventajas                                                                                      | col3 |
-| -------------------------------- | -------------------------------------------------------------------------------------------------- | :----- |
-| Menor esfuerzo y conocimientos | La rentabilidad está limitada al rendimiento del índice que se está replicando.               |      |
-| Mayor diversificación         | Puede no superar la rentabilidad de las estrategias activas en momentos de crecimiento acelerado |      |
-| Menor riesgo                   |                                                                                                  |      |
-| Mayor facilidad de gestión    |                                                                                                  |      |
-
+  | Ventajas                       | Desventajas                                                                                      |
+  | -------------------------------- | -------------------------------------------------------------------------------------------------- |
+  | Menor esfuerzo y conocimientos | La rentabilidad está limitada al rendimiento del índice que se está replicando.               |
+  | Mayor diversificación         | Puede no superar la rentabilidad de las estrategias activas en momentos de crecimiento acelerado |
+  | Menor riesgo                   |                                                                                                  |
+  | Mayor facilidad de gestión    |                                                                                                  |
 - **Inversión activa** → es una estrategia en la que un inversor, o un gestor de inversiones, toma decisiones de compra y venta de activos con el objetivo de superar el rendimiento de un índice de referencia o del mercado en general. Implica una gestión dinámica de la cartera, donde se analizan constantemente las tendencias del mercado, el desempeño de las empresas y otros factores para tomar decisiones de inversión con la esperanza de obtener mayores rendimientos que los que se obtendrían con una estrategia pasiva.
 
 
   | Ventajas                                                                                                    | Desventajas                                                         |
-| :------------------------------------------------------------------------------------------------------------ | :-------------------------------------------------------------------- |
-| - Menores costos que la inversión pasiva si no se emplean intermediarios ni fondos gestionados activamente | - puede implicar mayores costos debido a comisiones de los gestores |
-| - Posibilidad de mayores retornos                                                                           | - Mayor riesgo                                                      |
-|                                                                                                             | - Mayor esfuerzo si se invierte directamente                        |
+  | :------------------------------------------------------------------------------------------------------------ | :-------------------------------------------------------------------- |
+  | - Menores costos que la inversión pasiva si no se emplean intermediarios ni fondos gestionados activamente | - puede implicar mayores costos debido a comisiones de los gestores |
+  | - Posibilidad de mayores retornos                                                                           | - Mayor riesgo                                                      |
+  |                                                                                                             | - Mayor esfuerzo si se invierte directamente                        |
 
 Si en algún momento se considera la opción de invertir directa y activamente es recomendable adquirir los conocimientos necesarios, para maximizar las posibilidades de éxito. En este caso caben distintos tipos de estrategias, que pueden o no combinarse, esto es:
 
