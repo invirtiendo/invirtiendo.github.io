@@ -24,11 +24,6 @@ $(function() {
     
 });
 
-const scrollSpy = new bootstrap.ScrollSpy(document.body, {
-  target: '#TableOfContents',
-  offset: 24
-});
-
 
 
 
