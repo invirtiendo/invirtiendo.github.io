@@ -8,12 +8,6 @@ categories:
 tags:
   - Independentismo
   - Cataluña
-references:
-  - id: 1
-    platform: youtube
-    title: pipo
-    description: bla bla bla
-    url: x.com
 bibliography:
   - title: "Parlamento de Cataluña: Histórico de resultados electorales en cataluña"
     url: https://www.parlament.cat/pcat/parlament/que-es-el-parlament/resultats-electorals/
@@ -659,7 +653,7 @@ Quizás aún sea demasiado pronto para entrar en valoraciones sobre la convenien
 
 ## Referencias
 
-**Nota:** Para aquellas referencias en catalán u otros idiomas se puede emplear el [Traductor de Google](https://translate.google.es/?hl=es&sl=auto&tl=es&op=docs) tanto para traducir extractos de texto como documentos completos. Por otro lado, todas aquellas Referencias y documentos bibliográficos son suceptibles de desaparecer eventualmente. En tal caso, es recomendable el uso de [WebArchive](https://web.archive.org) para recuperar el contenido aunque haya dejado de estar accesible en la web original. 
+**Nota:** Para aquellas referencias en catalán u otros idiomas se puede emplear el [Traductor de Google](https://translate.google.es/?hl=es&sl=auto&tl=es&op=docs) tanto para traducir extractos de texto como documentos completos. Por otro lado, todas aquellas Referencias y documentos bibliográficos son suceptibles de desaparecer eventualmente. En tal caso, es recomendable el uso de [WebArchive](https://web.archive.org) para recuperar el contenido aunque haya dejado de estar accesible en la web original. [^]
 {: .notice--info}
 
 [^cat_resultados_electorales]: [Histórico de resultados electorales en cataluña](https://www.parlament.cat/pcat/parlament/que-es-el-parlament/resultats-electorals/)
@@ -691,4 +685,3 @@ Quizás aún sea demasiado pronto para entrar en valoraciones sobre la convenien
 [^libro_blanco_CATN]:[Libro blanco de la Transición Nacional de Cataluña](https://presidencia.gencat.cat/ca/ambits_d_actuacio/desenvolupament_autogovern/institut-destudis-autogovern/estudis-i-informes/llibre-blanc-de-la-transicio-nacional-de-catalunya/index.html)
 [^libro_blanco_CATN_sintesis]: [Libro blanco de la Transición Nacional de Cataluña (Síntesis)](https://presidencia.gencat.cat/web/.content/ambits_actuacio/desenvolupament_autogovern/iea/observatori_autogovern/01_estudis-i-informes/informes-externs/catn/informes/llibre_blanc_castella.pdf)
 [^debate_ley_10_2014]: [Debate parlamentario de la Propuesta de Ley catalana de consultas populares (19/09/2014)](https://www.parlament.cat/ext/f?p=700:15:0:::15,RR,RIR,CIR:P15_ID_VIDEO,P15_ID_AGRUPACIO:7160780,17488)
-[^{{page.bibliography[1].title}}]
