@@ -39,7 +39,7 @@ Hay dos maneras bien diferenciadas de invertir en bolsa:
 - **Inversión activa** → es una estrategia en la que un inversor, o un gestor de inversiones, toma decisiones de compra y venta de activos con el objetivo de superar el rendimiento de un índice de referencia o del mercado en general. Implica una gestión dinámica de la cartera, donde se analizan constantemente las tendencias del mercado, el desempeño de las empresas y otros factores para tomar decisiones de inversión con la esperanza de obtener mayores rendimientos que los que se obtendrían con una estrategia pasiva.
 
 
-| Ventajas                                                                                                    | Desventajas                                                         |
+  | Ventajas                                                                                                    | Desventajas                                                         |
 | :------------------------------------------------------------------------------------------------------------ | :-------------------------------------------------------------------- |
 | - Menores costos que la inversión pasiva si no se emplean intermediarios ni fondos gestionados activamente | - puede implicar mayores costos debido a comisiones de los gestores |
 | - Posibilidad de mayores retornos                                                                           | - Mayor riesgo                                                      |
