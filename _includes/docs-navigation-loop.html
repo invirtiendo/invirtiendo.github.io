@@ -21,7 +21,7 @@
     {% else %}
         {% if forloop.index > prev_folders %}
             {% unless forloop.last %} 
-                <li class="ps-3">
+                <li class="list-unstyled ps-3">
                     {% assign title = current[pos] | split:"." %}
                     {% assign tsize = title | size | minus: 1 %}
                     {% assign title = title[tsize] | join: " " | capitalize %}
@@ -33,7 +33,7 @@
                     {% else %}
                         {{title}}
                     {% endif %}
-                    <ul >
+                    <ul class="list-unstyled">
             {% endunless %}
         {% else %}
             {% if forloop.index > current_folders %}
@@ -41,7 +41,7 @@
             {% else %}
                 </ul>
                 </li>
-                <li class="ps-3">
+                <li class="list-unstyled ps-3">
                     {% assign title = current[pos] | split:"." %}
                     {% assign tsize = title | size | minus: 1 %}
                     {% assign title = title[tsize] | join: " " | capitalize %}
@@ -53,7 +53,7 @@
                     {% else %}
                         {{title}}
                     {% endif %}
-                    <ul>
+                    <ul class="list-unstyled">
             {% endif %}
         {% endif %}
     {% endif %}
@@ -62,7 +62,7 @@
         {% assign title = d.title | split:"." %}
         {% assign tsize = title | size | minus: 1 %}
         {% assign title = title[tsize] | join: " " | capitalize %}
-        <li> 
+        <li class="list-unstyled"> 
             <a href="{{ d.url }}" class="d-inline-block {{status}}" aria-current="page">{{ title }}</a>
         </li>
     {% endif %}  

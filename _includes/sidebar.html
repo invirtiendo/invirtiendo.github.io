@@ -6,6 +6,8 @@
         </div>
         <div class="offcanvas-body">
             <nav class="bd-links w-100" id="bd-docs-nav" aria-label="Docs navigation">
+                <strong class="d-none d-md-block h6 my-2 px-2">INDICE</strong>
+                <hr class="d-none d-md-block my-2">
                 <ul class="bd-links-nav list-unstyled mb-0 pb-3 pb-md-2 pe-lg-2">
                     {% assign doc = page.relative_path | split:'/' %}
                     {% assign doc_id = doc[0] | append: "/" | append: doc[1] | append: "/" %}
