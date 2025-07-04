@@ -119,7 +119,7 @@ Por otro lado, su faceta de hormona esteroide tiene efecto directo en el sistema
  Para la mayoría de la población 20.000 IU, una vez a la semana es suficiente. Para su mejor absorción mejor tomarla junto con grasas. Valores plasmáticos adecuados son los que se encuentran en torno 30 y 50 ng/mL.[^3]
 
 **Precaución:** Por regla general, en lo que respecta a las hormonas, existe una curva tipo U que también aplica a la vitamina D. Hay que evitar estar en ambos extremos. El inferior implica mala salud ósea y ansiedad; el superior un mayor riesgo de calcificaciones, especialmente en las arterias, y tanto bajos niveles de energía como mayor riesgo de depresión.
-{: .notice--warning}
+{: .notice-warning}
 
 ## Magnesio
 ### Descripción general
@@ -128,7 +128,7 @@ Las técnicas intensivitas de la agricultura moderna han llevado a la degradaci�
 > De acuerdo a Mª Dolores Raigón y en línea con los resultados en distintas investigaciones investigaciones de la Universidad de Málaga, la Universidad de Murcia y el CSIC: "[...] los alimentos de origen ecológico, si incorporan fertilizaciones de materia orgánica, trabajan variedades locales, se recolectan en el momento adecuado y son de proximidad, poseen concentraciones vitamínicas y minerales más altas que las de los alimentos de la producción convencional”. De un 20 hasta un 60% más dependiendo de la fruta o verdura comparada.
 
 **Info:** Hay que tener en cuenta además que los distintos métodos de preparación y cocción de los alimentos influye en la disponibilidad de dichos micronutrientes.
-{: .notice--warning}
+{: .notice-warning}
 ### Beneficios
 ### Dosis
 

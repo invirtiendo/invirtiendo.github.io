@@ -40,7 +40,7 @@ The habits which form a large part of our actions are direct results of those pa
 
 
 Since they are the core of our character, paradigms are the key to making any change. If we want to change ourselves, we have to change our fundamental principles first. Only in this way can we change our subjective reality, and with it our behavior.
-{: .notice--info}
+{: .notice-info}
 
 You also need to be conscious of your own paradigms. If you want to overcome ingrained habits, such as procrastination, self-centeredness or impatience, you first have to recognize the fundamental principle which forms this habit.
 If you want to achieve true effectiveness, it is useful to align your personal paradigms with larger, universal principles – values such as fairness, honesty and integrity.
@@ -50,7 +50,7 @@ It is possible to measure all human behavior against these universal principles.
 #### Como obtener resultados
 
 Visualize the outcome of every action as clearly as possible before doing it.
-{: .notice--info}
+{: .notice-info}
 
 All actions are in fact carried out twice: first when we visualize the action as a mental picture, and then when we actually do it.
 The more exact and realistic the mental picture of the action is, the better its execution will be – and, hence, the better the results.
@@ -181,7 +181,7 @@ The results are almost impossible to predict, and synergetic work can often come
 ## Final summary
 The key message of this book:
 Being truly effective means being clear about what it is you want to achieve, and being proactive in putting your goals into action. This is best achieved by striving to synergize with others, to invest in lasting relationships and to maintain a balanced lifestyle.
-{: .notice--info}
+{: .notice-info}
 
 How can you make lasting changes to yourself and stay productive on a long-term basis?
 

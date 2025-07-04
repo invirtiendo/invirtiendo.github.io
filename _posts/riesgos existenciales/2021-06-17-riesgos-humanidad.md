@@ -20,7 +20,7 @@ Hay que dejar bien claro que cuando nos referimos a "riesgos para la humanidad" 
 
 - **Colapso de nuestra civilización**. Esto, en cierto modo, ya ha ocurrido anteriormente en la historia de la humanidad. A priori, suele ir de la mano con una reducción de población importante, que no necesariamente pone en riesgo nuestra supervivencia como especie, y un retroceso en el desarrollo cultural y tecnológico. De nuevo, existe un abanico de posibilidades que suponen una graduación del riesgo por tener consecuencias más o menos importantes. Diría que en el caso más extremo, se puede entender el colapso como un paso previo a la extinción. Otro caso extremo, aunque no tanto, nos podría relegar a una existencia de mera supervivencia, en cierto modo, devolviendonos a un modo animal.
 
-{:.notice--warning}
+{:.notice-warning}
 **Nota:** Es posible, incluso probable, que un cambio de paradigma en nuestras sociedades y civilización resulte a largo plazo beneficioso. La cuestión importante es si dicho cambio se realiza paulatinamente o incluso traumáticamente pero de tal modo que permite la progresión; o si por el contrario, se da de tal manera que la civilización cae en un estado de involución, pérdida de conocimiento y capacidad de supervivencia.
 
 ## Evaluación del riesgo
@@ -37,14 +37,14 @@ Dichas valoraciones dependen directamente de dos (2) factores principales, a sab
 	- Un riesgo alto, por tanto, implica mayor capacidad para poner en riesgo nuestra supervivencia como especie o el mantenimiento de una civilización humana.
 	- Nuestra capacidad de mitigación de los efectos supone un factor de minoración del riesgo. Es decir, si en caso de darse el caso, fuéramos capaces de mitigar fácilmente las consecuencias, el riesgo resultante sería más bajo.
 
-	{:.notice--info}
+	{:.notice-info}
 	**Ejemplo:** Antigüamente el virus de la gripe suponía un alto riesgo para nuestra supervivencia. Con los desarrolos científicos y médicos, en la actualidad, salvo en algunas poblaciones sin acceso a medicamentos, el riesgo es muy bajo.
 
 2. **La probabilidad de ocurrencia**
 	- Dicho nivel de riesgo puede además graduarse en cuanto a las probabilidades de que se den los posibles efectos adversos. A igualdad del efecto o consecuencias (capacidad para destruirnos) consideraríamos más importantes los riesgos con mayor probabilidad de ocurrencia. Esta graduación nos permite afinar en las estrategias priorizando las medidas de control de los distintos riesgos. No obstante, si sus consecuencias son graves, en caso de materializarse el resultado sería el mismo, es decir, la desaparición de nuestra civilización o la humanidad como especie.
 	- Si nuestra capacidad de detección es alta, aumentamos la posibilidades de detección temprana y puesta en marcha medidas mitigadoras de los efectos o de eliminación del riesgo. Esta capacidad de detección, sin embargo, no reduciría necesariamente valoración del riesgo pues depende de si somos capaces de mitigar los efectos o eliminar por completo el riesgo dentro de la "ventana de oportunidad". Sólo en ese caso afirmativo, la capacidad de detección debería suponer una reducción de la valoración del riesgo.
 
-	{:.notice--warning}
+	{:.notice-warning}
 	**Nota:** En cualquier caso, estrategias de detección temprana son siempre deseables. En algunos casos, puede darnos margen suficiente para esforzarnos en desarrollar la tecnología que nos permita mitigar los efectos si el periodo o ventana de oportunidad es suficientemente amplio y nuestro esfuerzo suficientemente agresivo. Esto es precisamente lo que ha ocurrido con el cambio climático, auqnue aún está por ver si nuestros esfuerzos serán suficientes y si llegarán a tiempo. 
 
 En definitiva el riesgo percibido será más alto a mayor capacidad para destruirnos, más probable sea su ocurrencia y menor nuestra capacidad para mitigar sus efectos.
@@ -90,7 +90,7 @@ Por un lado hay que asegurarse que los procesos de mejora contínua son eficaces
 
 Por el otro, hay que tener en cuenta que existen riesgos que aunque la actuación de un estado sea eficaz, la eficacia o ineficacia de la actuación de sus vecinos puede tener influencia directa en los resultados locales y globales.
 
-{:.notice--info}
+{:.notice-info}
 **Ejemplo:** En el caso del COVID-19 la mayoría de países fallaron en dar una respuesta adecuada. Como resultado, a comienzos de 2021 ya habían muerto en torno a 3,5 millones de personas. Países como Corea si tuvieron éxito por las lecciones aprendidas durante una crisis previa, la del SARS en 2003, el resto fallaron a la hora de incorporar la experiencia en sus planes de gestión de emergencias. China por su lado, origen del COVID-19 no tuvo un sistema de alarma ágil ni transparente, lo que imposibilitó a otros paises actuar a tiempo. La mayoría de países occidentales fallaron también en el uso de tecnologías de seguimiento que podrían haber puesto en cuarentena a posibles fuentes transmisoras en fases iniciales de la pandemia (cosa que si supo hacer corea o china). Las medidas globales no se coordinaron ni eran homogeneas, poniendo en peligro unos paises a sus vecinos. 
 
 Si bien la evidencia científica es la fuente más rigurosa de información, en ciertos casos no debe ser la única. En casos de urgencia, quizás no sea viable que las decisiones vayan por detrás de la creación de suficiente información para que se considere como evidencia clara por parte del colectivo científico. Los líderes políticos y sus consejeros necesitan convertir toda la información disponible en acciones. Si la evidencia aun no es clara, pero la urgencia si, los planes de acción se tendran que decidir en base a tendencias y datos incompletos, posiblemente sin comprender completamente las consecuencias y efectos a los que se enfrentan ni de las medidas a llevar a cabo. Cuanto más información y capacidad de actuación probada tengamos al inicio de una emergencia, menor será la incertidumbre y mayor debería ser la eficacia de las decisiones.
@@ -133,7 +133,7 @@ Una evaluación objetiva de riesgos es parte necesaria de un sistema integral de
 
 - **Efecto espectador**: Cuanto más gente esté cerca, menos probable es que ayudemos a una víctima. En la psicología de grupo resulta vital tenerlo en cuenta. En mi opinión la infantilización de la población es consecuencia de este efecto. Al final existe poco compromiso con un problema que todos piensan es importante porque estan a la espera de que el gobierno lo solucione por ellos, nos limitamos a quejarnos sin actuar. 
 
-{:.notice--info}
+{:.notice-info}
 **Ejemplo:** hoy en día todo el mundo es consciente de que el cambio climático es un grave problema, pero pocos varían sus hábitos. Esperamos que los gobiernos solucionen el problema, sin nosotros sacrificar su comodidad.
 
 - **sesgo optimista**: A veces somos demasiado optimistas sobre los buenos resultados. Pocas veces los planes salen como esperamos precisamente por esto. En cuestiones de alto riesgo para la humanidad siempre hay que ponerse en "el peor caso posible".

@@ -44,7 +44,7 @@ Al periodo comprendido entre 1820 y 1823 se le conoce como el **"Trienio Liberal
 Posteriormente, tras varios periodos adicionales de desamortizaciones, en 1845 se aprobó por parte del **Partido Moderado** en concomitancia con la reina Isabel II la *Ley de Donación de Culto y Clero* que restituía a la Iglesia católica en los bienes desamortizados y no vendidos [^9] [^10] . Luego, en 1851 se firmaría el Concordato de 1851 por el que el Estado español reconocía a la Iglesia católica como la única de la nación española, así como sus derechos a poseer bienes [^8].
 
 **Nota:* En la mayoría de los casos de desamortizaciones que buscaban un fin social y de reforma agraria no lograron sus objetivos pues entre manipulaciones de los municipios en unos casos, y los elevados precios o cánones en otros, la población más pobre no tuvo oportunidad real de participar en las subastas. La consecuencia fue la acumulación de bienes por parte de la nobleza y burguesía, que continuaría aplicando los arrendamientos preexistentes y en muchos casos incluso aumentando su precio.
-{: .notice--info}
+{: .notice-info}
 
 
 

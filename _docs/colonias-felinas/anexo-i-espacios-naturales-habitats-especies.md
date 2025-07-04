@@ -655,7 +655,7 @@ Fuentes:
 
 **Aclaración**
 Por **Afinidad** se entiende por la probabilidad de existencia de especímenes en todas las localizaciones de un hábitat particular.
-{: .notice--info}
+{: .notice-info}
 
 
 ### Matorrales suculentos canarios (cardonal-tabaibal) (cod. 5330)
@@ -705,7 +705,7 @@ Fuentes:
 
 **Aclaración:**
 Por **Afinidad** se entiende a la probabilidad de existencia de especímenes en todas las localizaciones de un hábitat particular.
-{: .notice--info}
+{: .notice-info}
 
 [^IUCN]: [IUCN: Lista roja de especies amenazadas](https://www.iucnredlist.org/)
 
@@ -1228,7 +1228,7 @@ Elaboración propia. Fuentes: CCEP, LESRPE
 
 **Nota:** Las últimas revisiones oficiales de las fuentes que habían tenido lugar en el momento de consulta de los listados son las siguientes:
 CCEP (Julio de 2020), LESRPE (Septiembre 2021)
-{: .notice--info}
+{: .notice-info}
 
 ### Especies desprotegidas
 

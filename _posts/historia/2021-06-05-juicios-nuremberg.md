@@ -70,7 +70,7 @@ Por otro lado, visto que los tribunales estaba únicamente formados por los pais
 		- **Pertenencia a organización criminal** en su caso la SS, por parte de algunos de sus ejecutivos.
 	- 13 condenas de prisión entre 18 meses y 8 años. Todos ellos fueron posteriormente puestos en libertad prematuramente y volvieron a puestos directivos de las empresas. Algunos incluso recivieron posteriormente la medalla de honor.
 
-{: .notice--info}
+{: .notice-info}
 **Nota:** Existen claras evidencias de que IG Farben participó directamente en la financiación del partido Nazi. También existen evidencias de un plan de 4 años elaborado en 1936 (3 años antes de la II Guerra mundial) por parte de los ejecutivos de la empresa para invadir Europa, Inglaterra y sus colonias y posteriormente EE.UU. Con cada invasión [IG Farben se quedaría con las fábricas][^ref Profit-over-life]
 - IG Farben cooperó estrechamente con los funcionarios nazis y decidió qué plantas químicas de los países ocupados debían ser aseguradas y entregadas a IG Farben
 - fue la única compañía alemana con su propio campo de concentración, donde murieron al menos 30.000 personas
@@ -88,7 +88,7 @@ Por otro lado, visto que los tribunales estaba únicamente formados por los pais
 10. El **"juicio a los Einsatzgruppen"**, contra 24 oficiales de las brigadas de la muerte de las SS que practicaban el exterminio local de los judíos por medio de los Einsatzgruppen.
 	- 14 acusados fueron condenados a pena de muerte (por ahorcameinto), 2 cadenas perpetuas y 5 a prisión entre 10-20 años. No obstante, 4 penas de muerte fueron conmutadas por cadenas perpetuas y 6 penas de prisión fueron reducidas. 4 ejecuciones se llevaron a cabo el 7 de junio de 1951. Los últimos 3 presos salieron de la cárcel en mayo de 1958. 
 
-{: .notice--info}
+{: .notice-info}
 **Nota:** El número de víctimas asesinadas por los Einsatzgruppen entre junio de 1941 y 1943 en la Unión Soviética ha sido estimado en, por lo menos, 600.000 o, de acuerdo a otros datos, en más de un millón de personas.2​ La acusación se hizo sobre la base de los informes de los Einsatzgruppen que sumaron más de un millón de víctimas.
 
 11. El **"juicio Krupp"**, contra los dirigentes del famoso grupo industrial, por su participación en la preparación de la guerra y la utilización de trabajo esclavo durante la guerra.

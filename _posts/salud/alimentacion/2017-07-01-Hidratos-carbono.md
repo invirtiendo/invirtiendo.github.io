@@ -54,7 +54,7 @@ Adicionalmente se pueden encontrar:
 La digestión comienza en la boca, donde se segrega saliva que contiene las enzimas ptialina y amilasa proveniente de la gándula paratiroide. Estas enzima hidrolizan el Almidón en Maltosa (disacárido) y otros en menores cantidades. Terminado el proceso de masticado y mezcla con jugos gástricos, entre 15-30 minutos, el 30-40% del almidón ha sido hidrolizado.
 
 *NOTA:* De ahí la importancia de masticar bien, ya que esta enzyma se desactiva con PH < 4, es decir no continúa la digestión una vez el bolo alimenticio se mezcla con los jugos gástricos.
-{: .notice--warning}
+{: .notice-warning}
 
 Una vez en el intestino delgado, la secreción del pánccreas termina por hidrolizar el 100% de los carbohidratos.
 

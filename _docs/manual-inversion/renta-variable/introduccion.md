@@ -333,7 +333,7 @@ Si la volatilidad aumenta por un rally, entonces lo más probable es que las opo
   * puede ayudarnos en la optimización cuando las condiciones del mercado empeoran. No obstante como se dijo anteriormente, esto resulta muy complicado e incluso puede resultar contraproducente.
 
 Si se invierte en empresas/activos similares hay que ser consciente que hay un componente de riesgo compartido al emplear modelos de negocio similares y pertenecer al mismo sector.
-{: .notice--warning}
+{: .notice-warning}
 
 ## Estrategia de cartera
 

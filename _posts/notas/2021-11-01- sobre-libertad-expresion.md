@@ -9,7 +9,7 @@ Estas anotaciones vienen inspiradas por la siguiente podcast, donde se trata las
 {% include /media/podcast-ivoox-player.html id=76599303 %}
 
 **NOTA:** Sin duda es un tema complejo. Me he querido centrar en las cuestiones debatidas en el podcast, pero existen muchas otras, como el riesgo que suponen los sesgos cognitivos y su explotación por algunos individuos o grupos, consiguiendo su máxima eficacia empleando las nuevas tecnologías como el big data y la inteligencia artificial.
-{: .notice--warning}
+{: .notice-warning}
 
 ## Introducción
 

@@ -17,7 +17,7 @@ Sociedades occidentales llevan años reduciendo su población, y parece que esto
 
 Es posible, que en las próximas décadas se inicie un cambio de tendencia, que a largo plazo nos lleve a lo opuesto a la superpoblación y que nuestra extinción como especie debido a ineficacia reproductiva sea un riesgo que pase de ser posible a probable.
 
-{: .notice--warning}
+{: .notice-warning}
 **Nota**: Lo cierto es que otras especies animales e insectos están teniendo el mismo problema por lo que en realidad este no sólo es un problema global, en el sentido de que afecta a toda la población humana, sino porque que afecta a la biodiversidad del planeta en general.
 
 #### Causas

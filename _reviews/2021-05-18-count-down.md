@@ -14,7 +14,7 @@ Una cuenta inferior a 40 millones/litro es el límite inferior a partir del cual
 
 Una vez estos químicos penetran en nuestro organismo, afectan a nuestro equilibrio hormonal. Una mujer embarazada, transmite dichos químicos al feto, lo que afecta directamente a su desarrollo. Parece que a los niños estos químicos afectan especialmente, reduciendo su exposición a la testosterona, cuando deben estarlo reduciendo su "masculinidad".
 
-{: .notice--info}
+{: .notice-info}
 **Info**: Existre una medida fisiológica, o morfológica si se prefiere, que consiste en la distancia entre el ano y los genitales (AGD - Anal Genitals Distance) que es especialmente útil porque es la que mayores diferencias muestra entre el sexo femenino y el masculino - en un factor de 50 a 100%. Las niñas más expuestas durante su desarrollo esta distancia es mayor, y en los niños menor. Sirve de manera muy eficaz para predecir la capacidad reproductiva del hombre.
 
 Parece que si somos capaces de reducir nuestra exposición a estos químicos durante 3 generaciones podríamos volver a los niveles de cuenta espermática equivalente al de muchas generaciones pasadas.

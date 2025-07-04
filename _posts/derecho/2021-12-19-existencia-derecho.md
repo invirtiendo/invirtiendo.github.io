@@ -41,7 +41,7 @@ Por otro lado, no hay que confundir los hábitos individuales con los usos socia
 En cuanto a los hechos sociales, cabe aclarar que no se trata de hechos naturales (independiente a los seres humanos, como la lluvia), sino que a diferencia de estos requieren de intencionalidad, es decir, un sistema de creencias, deseos o actitudes para que se consideren ciertos. Por ejemplo, la existencia de una serie de personas alineadas en cola, esperando a ser atendidas, es un hecho objetivo comprobable. No obstante, la existencia de una "cola" como hecho social implica que existen una serie de reglas (derechos y deberes) que regulan nuestro comportamiento en ella. En este sentido un hecho social, sería similar a lo que llamo un [artefacto social](/notas/artefactos-sociales). 
 
 *NOTA:* Lo definido como artefacto social en mi otro artículo implicaba la existencia de conocimiento o consciencia mutua como si fueran sinónimos pero no lo son. La visión de un sistema jurídico como artefacto o hecho social **convencional**, quizás sea incompleta porque aunque su reconocimiento mutuo si es necesario para su establecimiento inicial, no lo es en la práctica, y mucho menos su conocimiento (al menos en los sistemas más complejos), en el sentido de saber el contenido de **todas** las reglas existentes.
-{: .notice--warning}
+{: .notice-warning}
 
 Un **hecho social** en referencia a los comportamientos, actitudes y creencias de las personas en una sociedad, es *convencional* si se dan las siguientes condiciones:
 1. La mayoría de los individuos de un grupo muestran una conducta determinada bajo ciertas circustancias.
@@ -60,7 +60,7 @@ La visión generalizada es que se tienen que cumplir dos condiciones:
 2. Que las reglas existentes sean cumplidas por la mayoría de la población
 
 *NOTA:* Lo anterior, en concreto el primer punto, ayuda a identificar la diferencia entre moral y derecho. La moral no tiene un elemento institucional, mientras que el derecho sí.
-{: .notice--info}
+{: .notice-info}
 
 El derecho tiene un caracter convencionalista, entendiendo como tal que 
 

@@ -20,7 +20,7 @@ La Carta se divide en cuatro apartados:
 
 4. Por último se cierra con una previsión relativa a su **eficacia**, proclamando su exigibilidad a todas las partes involucradas, es decir, Jueces y Magistrados (letrados), Fiscales, Secretarios Judiciales, Abogados, Procuradores y demás personas e Instituciones que cooperen con la Administración de Justicia, recomendando a la Comisión de Justicia e Interior del Congreso de los Diputados el seguimiento y evaluación del desarrollo y cumplimiento de sus postulados.
 
-{: .notice--warning}
+{: .notice-warning}
 **Nota**: resulta evidente, que resulta complicado realizar un seguimiento del desarrollo y cumplimiento de estos postulados, cuando no se ha llegado a desarrollar una ley que los recoja
 
 ## Contenido de la Carta
@@ -59,7 +59,7 @@ Asimismo se encomienda a la Comisión de Justicia e Interior del Congreso de los
 3. El ciudadano tiene derecho a conocer el contenido actualizado de las leyes españolas y de la Unión Europea mediante un sistema electrónico de datos fácilmente accesible.
 
 
-{: .notice--info}
+{: .notice-info}
 **Nota:** no conozco ninguna fuente de información jurídica más cómoda y eficaz que [Noticias Jurídicas](https://noticias.juridicas.com)
 
 4. El ciudadano tiene derecho a conocer el contenido y estado de los procesos en los que tenga interés legítimo de acuerdo con lo dispuesto en las leyes procesales.
@@ -212,7 +212,7 @@ Asimismo se encomienda a la Comisión de Justicia e Interior del Congreso de los
 40. El ciudadano tiene derecho a ser asesorado y defendido gratuitamente por un Abogado suficientemente cualificado y a ser representado por un Procurador cuando tenga legalmente derecho a la asistencia jurídica gratuita.
 	- Los Colegios respectivos velarán por el correcto de sarrollo de su función por parte del profesional designado.
 
- {: .notice--warning}
+ {: .notice-warning}
  **Duda:** Cuando se tiene derecho a asistencia jurídica gratuita?
  
 41. El ciudadano tiene derecho a exigir una formación de calidad al profesional designado por el turno de oficio en los supuestos de asistencia jurídica gratuita.
@@ -226,5 +226,5 @@ Asimismo se encomienda a la Comisión de Justicia e Interior del Congreso de los
 
 3. El Congreso de los Diputados, a través de la Comisión de Justicia e Interior, llevará a cabo un seguimiento y evaluación permanente del desarrollo y cumplimiento de esta Carta, a cuyo efecto será regularmente informado por el Gobierno y los Organos del Estado e Instituciones públicas a los que se solicite. La me moria anual elevada por el CGPJ a las Cortes Generales incluirá una ref erencia específica y suficientemente detallada a las quejas, reclamaciones y sugerencias formuladas por los ciudadanos sobre el funcionamiento de la Administración de Justicia.
 
- {: .notice--warning}
+ {: .notice-warning}
  **Duda:** Porqué se ha creado una Carta de derechos en forma de proposición NO de ley? De esta manera n inguno de los derechos ni exigencias u obligaciones son, en realidad,  tales porque no tienen base legal.

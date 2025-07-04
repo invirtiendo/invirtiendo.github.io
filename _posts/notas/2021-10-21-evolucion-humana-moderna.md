@@ -21,7 +21,7 @@ Del mismo modo, otros cambios culturales y avances tecnológicos han supuesto y 
 
 El caso de la población afroamericana, heredera del tráfico de esclavos por las potencias europeas, es quizás el ejemplo más evidente y moderno de dicha "Selección Artificial". Evidentemente, fue un proceso no premeditado y fortuito. Independientemente de la intencionalidad evolutiva, lo cierto es que los esclavistas seleccionaban los individuos del África subsahariana con unas características determinadas para las tareas que se les obligaría realizar en las colinias de americanas. En todo caso, debían ser suficientemente fuertes y sanos para sobrevivir la larga y en pésimas condiciones. Posteriormente, los esclavos tendrían que ser sobrevivir a una vida dura, repleta de maltratos, trabajo exhaustivo, malnutrición, enfermedades, etc... Como resultado, los Afroamericanos en poco se parecen a sus parientes que nunca abandonaron el continente.
 
-{: .notice--warning}
+{: .notice-warning}
 **Nota**: No he repasado ni recopilado la evidencia científica para emitir estas afirmaciones, simplemente me apoyo en lo que recuerdo haber leído en el pasado. Queda pendiente por tanto hacer una revisión bibliográfica suficientemente exhaustiva como para soportarlas sin género de duda y a ser posible detallar más dichas diferencias poblacionales.
 
 ## Actualidad

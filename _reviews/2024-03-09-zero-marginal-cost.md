@@ -24,7 +24,7 @@ En su opinión, el sistema económico descrito por Adam Smith [^adam_smith] ha f
 Sin embargo, considera que dicho economista no fue capaz de comprender completamente la dinámica de los mercados. En su opinión los individuos generalmente no pretenden promover el bien general sino su propio beneficio. Aún así, siguiendo su propio interés consiguen el beneficio social sin pretenderlo. No se da cuenta que, en realidad, el empresario tiene una relación directa con el cliente. Busca su propio beneficio mediante la oferta de productos y servicios que beneficien al segundo. Es decir, cualquier emprendedor debe de ser sensible al bien general para poder tener éxito. 
 
 **NOTA:** El problema es que lo que las personas consideran el bien general no necesariamente resulta serlo, especialmente, cuando se trata de productos y servicios. Frecuentemente los hábitos de consumo de las personas no son coherentes con sus propias creencias de lo bueno y lo malo.
-{: .notice--warning }
+{: .notice-warning }
 
 Tanto Hume [^Hume] como Bentham [^Bentham] si entendieron dicha relación a través de su visión utilitarista de la economía. Estos reconocieron también que la economía es dinámica, variable, porque no surge de una ley natural, sino de una convención humana. La acumulación de capital y propiedad privada descrita por ambos economistas nunca fue una verdad inmutable. Simplemente era la descripción de las fuerzas económicas en un periodo de tiempo determinado (durante la primera y segunda revolución industrial) que variarán en el futuro (durante la tercera revolución industrial).
 
@@ -57,14 +57,14 @@ Según el autor nos encontramos en los primeros tiempos de un cambio de paradigm
 - Se está desarrollando una nueva plataforma tecnológica, a partir de la que permitió la Segunda Revolución Industrial. Se está incubando lo que el autor llama "Internet de las cosas" o "Internet of Things (IoT)" que permitirá una Tercera Revolución Industrial que permitirá confrontar tanto las contradicciones del capitalismo como el problema ecológico. 
 
 **NOTA:** El problema ecológico se basa en un trio: el consumo energético, el uso de materias primas y la contaminación. El consumismo es el motor actual de la economía. Luego la solución pasa por reducir el consumo, pero también en mejorar la eficiencia de los procesos productivos y resto de actividades humanas. Las EERR permiten hasta cierto punto, mantener los altos niveles de consumo energético que requiere una sociedad "smart", reduciendo el problema de la contaminación, haciéndola más sostenible. La cuestión de las materias primas, en cierto modo se soluciona con un uso más eficiente de los recursos naturales (mediante procesos productivos más eficientes) y que generen menos residuos.
-{: .notice--info}
+{: .notice-info}
 
 Dicha plataforma se basa en las redes inteligentes IoT (comunicaciones, transporte y energía), Big Data, Inteligencia Artificial (IA), Robótica y Energías Renovables (EERR). Con ello se creará una sociedad inteligente o "smart"; creando smart cities, smart roads,  smart homes, smart logistics, smart farms, smart factories, smart forests, etc. 
 
 Esto supone un cambio disruptivo porque dichas tecnologías nos permitirán organizar la actividad económica de manera mucho más eficiente (desde un punto de vista energético) incrementando la productividad sin comprometer los sistemas ecológicos de la biosfera.
 
 **NOTA:** El autor promueve la idea de que dicha tercera revolución industrial basada en tecnologías "inteligentes" creará una especie de "red global" basada en diseños abiertos, colaborativos, permitiendo a todas las partes el uso de los datos. Esto requiere, en mi opinión, una regulación por parte de las autoridades para evitar lo que ha estado ocurriendo hasta el momento, es decir, la proliferación de protocolos y sistemas privativos que dificultan la interoperatividad, además de la mercantilización de los datos, lo que incentiva que no sean compartidos libremente.
-{: .notice--warning}
+{: .notice-warning}
 
 Junto a dichas innovaciones tecnológicas existen tendencias que indican un cambio en los hábitos de consumo. El nuevo paradigma por venir es la **Economía circular**.
 
@@ -77,10 +77,10 @@ Para que esto sea posible se requieren tres infraestructuras, en cierto modo ya 
 La clave es la disponibilidad de energía eléctrica en abundancia y a bajo coste. Sin la electricidad nada de lo anterior sería posible.
 
 **NOTA:** Las tres redes requieren de innovaciones aún por llegar, pero que ya se están desarrollando. Me refiero por ejemplo, a tecnologías de generación renovable y tecnologías de almacenamiento eléctrico más eficientes y limpias, combustibles y vectores energéticos sostenibles, drones y vehículos autónomos, inteligencia Artificial competente, impresión 3D eficaz. Las infraestructuras actuales también requieren mejoras y modernización, como la instalación de sensores o mejora de la resiliencia. Además, la centralización actual debe dar paso a una arquitectura más distribuida, me refiero, especialmente en lo relativo a la generación eléctrica y centros logísticos. 
-{: .notice--warning}
+{: .notice-warning}
 
 **NOTA:** Me llama la atención que el autor no menciona en todo el libro el papel que juega en todo esto la vivienda. En mi opinión si continúa la tendencia de concentración de la población en ciudades esto tiene impactos positivos tanto en el impacto ecológico, como en el modo de producción y logística de productos y servicios. Sin embargo, es posible que dicha tendencia se esté debilitando y que más adelante parte de la población retorne al medio rural. ¿Es real esta posibilidad? y, de ser así ¿Que implicaría?
-{: .notice--info}
+{: .notice-info}
 
 ### Del capitalismo a la colaboración de los comunes
 
@@ -91,7 +91,7 @@ Esta nueva economía se basa en el capital social, porque depende en mayor medid
 Un ejemplo de ello es el fenómeno conocido como "prosumers" (la combinación de "producers" y "consumers"), en la que un mismo individuo es tanto consumidor como productor. Esto ocurre en sectores como la información, energía, entretenimiento, educación, turismo, e incluso, potencialmente en el industrial. Un mismo individuo puede realizar diseños que se publican en internet y a la vez emplear diseños de otros para fabricar in-situ los productos que necesite mediante impresión 3D. Airb&b y couchsharing entre otros han supuesto una revolución, al igual que el uso compartido de vehículos, cooperativas productoras, software libre, MOOCs (Massive open online courses), y mercados online de artículos de segunda mano. Incluso negocios típicamente capitalistas se ven beneficiados de este fenómeno de democratización a través de la financiación por medio del "crowdfunding". 
 
 **NOTA:** Otro ejemplo es el caso de las cryptomonedas, que tienen el potencial de desplazar a los bancos tradicionales, privados y gubernamentales en el control monetario.
-{: .notice--info}
+{: .notice-info}
 
 En definitiva, el "valor de cambio" ("exchange value") en los mercados es, cada vez más, remplazado por el "valor de intercambio" ("shared value").
 
@@ -104,7 +104,7 @@ En el libro se recuerda que el Producto Interior Bruto (PIB o GDP en inglés), e
 Desde un punto de vista de los individuos, el efecto inmediato de la IA será negativo en las personas cuyos empleos se verán afectados (aunque previsiblemente será positivo más a largo plazo) mientras que el de los CC será positivo. Este último tiene el potencial de reducir los costes y beneficios de las empresas, y a la vez lograr mayor abundancia de productos y servicios y mejorar la sostenibilidad. Paradójicamente, en ambos casos el efecto en el PIB es negativo.
 
 **NOTA:** Por ejemplo, el PIB no discrimina entre crecimiento económico "bueno" y "malo". Lo que importa es la suma total de la actividad económica. No resta las actividades económicas secundarias que mitigan los efectos negativos de otras. De este modo, si tras un vertido tóxico en un rio se gastan 100M€ en la actividad de limpieza, el PIB se incrementaría en 100M€, cuando en realidad debería ser justo lo contrario. Lo mismo ocurre con gastos médicos (que aumentan si la salud de la población se reduce), policiales (que deberían aumentar si también lo hace la delincuencia), es decir, tampoco tiene en cuenta el estado de salud y bienestar de la población. Si bien es cierto que existe una clara correlación directa entre incremento de PIB y de calidad de vida, esto solo sucede en la fracción más pobre de la población. Una vez llegado a un nivel determinado, dicha correlación desaparece.
-{: .notice--info}
+{: .notice-info}
 
 Por eso, defiende que se necesitan distintas métricas, que también tengan en cuanta el nuevo capital, el social yq eu pongan el foco en la calidad de vida y medioambiental, frente al incremento puramente económico. 
 
@@ -164,7 +164,7 @@ A partir de aquí, el autor comienza a entrar en mayor detalle sobre su previsi�
 Viene a defender que en la actualidad ya estamos en proceso de cambio de fase, de una 3ª Revolución Industrial porque el sector de las comunicaciones y la porción de las renovables en el sector energético ya presentan constes marginales cercanos a cero. Lo mismo ocurre con los costes de formación a través de los MOOCs, plataformas como youtube y los libros electrónicos.
 
 **NOTA:** El sector de la educación tiene aún muchos problemas de infradotación de personal docente en las escuelas y el acceso a la educación superior de calidad no resulta ni barata ni abundante. Si bien es cierto que el acceso a cualquier tipo de información es casi gratis, no así cuando se requiere de información de calidad. Hay mucha información accesible buena y mala, por lo que hay que invertir mucho tiempo en la tarea de discriminación y selección, por ejemplo.
-{: .notice--warning}
+{: .notice-warning}
 
 Además argumenta que con la aparición de la IA y el avance de la automatización cada vez será necesaria menos mano de obra, reduciendo aún más su coste.
 

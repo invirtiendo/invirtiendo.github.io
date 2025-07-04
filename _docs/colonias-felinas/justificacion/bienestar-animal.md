@@ -57,7 +57,7 @@ En España existe diversa legislación relativa al bienestar animal, a continuac
 - Ley Orgánica 4/2015, de 30 de marzo, de protección de la seguridad ciudadana [^ley11]. Esta ley también tiene en cuenta el abandono de los animales, concretamente en su Artículo 37 apartado 16 la ley dice que "dejar sueltos o en condiciones de causar daños animales feroces o dañinos, así como abandonar animales domésticos en condiciones en que pueda peligrar su vida" es una infracción leve.
 
   **Reflexión:** Además del abandono, se podría interpretar que el mismo artículo hace referencia a la protección del medio ambiente cuando dice "dejar sueltos o en condiciones de causar daños animales feroces o dañinos". Sin embargo, esta interpretación creemos se escapa del alcance de la ley si tenemos en cuenta su objeto, que no es más que la protección de personas y bienes y el mantenimiento de la tranquilidad ciudadana.
-  {: .notice--warning}
+  {: .notice-warning}
 
 - Ley 17/2021, de 15 de diciembre, de modificación del Código Civil, la Ley Hipotecaria y la Ley de Enjuiciamiento Civil, sobre el régimen jurídico de los animales [^ley12]. Se modifica el Código Civil para adaptarlo a la verdadera naturaleza de los animales y a las relaciones de convivencia que se establecen entre ellos y los seres humanos. Así los animales dejan de ser cosas a efectos jurídicos. La normativa también modifica la Ley de Enjuiciamiento Civil y la Ley Hipotecaria para impedir el embargo o la extensión de las hipotecas sobre los animales de compañía. 
 
@@ -84,12 +84,12 @@ Además de la legislación actualmente vigente, resulta útil analizar los proye
   La elaboración de una Estadística de Protección Animal, incluyendo un sistema de indicadores, «con objeto de conocer el estado de la protección animal en el conjunto de la sociedad española, y tomar decisiones para su evaluación y mejora».
 
   **Reflexión:** Aunque tiene en cuenta para la elaboración de dicha estadística a agentes del sector como Veterinarios, no incluye la posibilidad de entidades colaboradoras del ámbito de la ciencia e investigación.
-  {: .notice--warning}
+  {: .notice-warning}
 
   Se crearía también un Plan Nacional de Protección Animal que incluiría un Plan Nacional Contra el Abandono, «que determinará un diagnóstico de la situación del abandono animal en España, objetivos a alcanzar durante su periodo de vigencia y medidas específicas a adoptar para la consecución de los objetivos marcados». A partir de dicho plan, se obliga a las administraciones territoriales la implementación de programas de gestión ética de colonias felinas.
 
   **Reflexión:** En relación con las colonias felinas, se establece que los gatos pertenecientes a una no serán calificados como gatos abandonados. No obstante, no se detallan los requisitos y condiciones que se deben cumplir para que las colonias sean consideradas legalmente como tales. Esto es de especial importancia, ya que las obligaciones de recogida y alojamiento que se imponen a los municipios, ayuntamientos y CCAA únicamente aplica en el caso de «gatos abandonados».
-  {: .notice--warning}
+  {: .notice-warning}
 
   En cuanto a los centros públicos de acogida se establece que «las comunidades autónomas deberán contar, al menos, con un Centro de protección animal propio» y que «a falta de otra previsión en la legislación autonómica, los municipios de más de cinco mil habitantes deberán contar con centros de protección animal, propios o concertados». Esto quizás supondría una disminución de la presión que ahora mismo soportan las Protectoras de Animales y el voluntariado.
 
@@ -104,7 +104,7 @@ Además de la legislación actualmente vigente, resulta útil analizar los proye
   - Salvo en transmisiones entre responsables de cría, «los animales de compañía deberán ser esterilizados con carácter previo a su transmisión en los casos que se establezcan reglamentariamente. Cuando la transmisión sea previa a la edad aconsejada para la esterilización el adquirente deberá suscribir un compromiso de esterilización posterior.» 
 
     **Reflexión:** ¿Quién será responsable de establecer los casos en que se requieren esterilización? ¿Qué criterios comunes se emplearán?
-    {: .notice--warning}
+    {: .notice-warning}
 
   Sobre las prohibiciones destacamos:
   - «Se prohíbe el sacrificio público de animales[...] Asimismo, la autoridad competente podrá establecer excepciones debidamente motivadas cuando sea necesario dar muerte a un animal en situaciones de emergencia por motivos [...] medioambientales.»
@@ -115,12 +115,12 @@ Además de la legislación actualmente vigente, resulta útil analizar los proye
   - «Queda prohibida la transmisión de animales no identificados» (Art. 67)
 
   **Reflexión:** Nos preocupa que, aunque el sentido de las obligaciones y prohibiciones comparten objetivos con lo que proponemos, en la práctica resulten inútiles por la dificultad de forzar su cumplimiento. Su eficacia queda, en realidad, supeditada a la concienciación y voluntad ciudadana. Creemos, por ejemplo, que dado que la venta o cesión de animales queda muy restringida, en los casos de venta profesional se establezca obligatoriamente el requisito previo de esterilización en animales que hayan superado una edad determinada, o el compromiso legal por medio de contrato de llevar a cabo dicha esterilización una vez alcanzada la edad necesaria. El costo de dicha esterilización debería ser abonado en el momento de la venta, de modo que no exista un factor económico desincentivador en casos de la esterilización diferida.
-  {: .notice--warning} 
+  {: .notice-warning} 
 
   Se produce el Listado de especies que pueden ser objeto de tenencia como animales de compañía. Las especies incluidas en el Listado positivo no tendrán la consideración de exóticas invasoras en los términos definidos en el Real Decreto 630/2013, de 2 de agosto, por el que se regula el Catálogo español de especies exóticas invasoras [^ley22], ni podrán ser objeto de control de población con resultado de muerte o de aprovechamiento cinegético.
 
   **Importante:** Esto nos parece una absoluta barbaridad. Entendemos que existen especies animales, actualmente consideradas exóticas invasoras, con las que estamos acostumbrados a convivir y mantenemos habitualmente una relación especial. Admitir de este fenómeno no es incompatible con el reconocimiento de otro hecho objetivo, como es el riesgo ecológico que suponen en caso de proliferación en los hábitats naturales. Su condición de animales de compañía no elimina el riesgo ambiental. Más bien todo lo contrario, el riesgo aumenta porque se perpetúa la introducción de animales alóctonos y se incrementan las probabilidades de que una fracción de ellos acaben asilvestrados, por huida o abandono, y se reproduzcan sin control. La protección del medio ambiente debe ser un principio superior al de la libertad individual sin limitación. Por ello consideramos que si no se prohíbe la tenencia de estas especies, al menos deberían establecerse unos requisitos y condiciones especiales que reduzcan el riesgo de impacto ambiental negativo en los casos de huida o abandono.
-  {: .notice--danger} 
+  {: .notice-danger} 
   
   Nos llama la atención que el Art. 46 relativo a los criterios generales y específicos para la inclusión de una especie en el Listado positivo suponga una contradicción con el apartado anterior. Concretamente en lo referente al medio ambiente dispone que «sólo se incluirán en el Listado especies para las cuales no haya indicios o evidencias de que, en caso de escape, puedan sobrevivir en la naturaleza, suponiendo así un riesgo ecológico». Algo similar ocurre con el Art. 49 relativo a gatos urbanos donde se especifica que «se prohíbe el sacrificio de animales urbanos, salvo que esté debidamente justificado por la autoridad sanitaria o por motivos de seguridad o medioambientales» y que «toda especie que haya sido comercializada como compañía y se incluya en el catálogo nacional de especies invasoras contará con un plan municipal de prevención y control para evitar el daño a la biodiversidad. Estos planes deberán usar métodos no letales.»
 
@@ -129,13 +129,13 @@ Además de la legislación actualmente vigente, resulta útil analizar los proye
   En cuanto a las colonias felinas, se reconoce que la existencia del gato feral es consecuencia «de la tenencia irresponsable de gatos [...] sin esterilizar y de las camadas procedentes de estos». Por eso esta ley tiene como uno de sus objetivos «el control ético poblacional de todos los gatos ferales, con el fin de reducir progresivamente su población manteniendo su protección como animales de compañía». Así, los «gatos ferales que establezcan su territorio fuera de suelo urbano serán sometidos al control ético poblacional mediante el sistema de captura, esterilización y retorno (CER), con el objetivo de evitar el aumento descontrolado de su población».
 
   **Importante:** El modelo de «gestión **ética** de colonias felinas» que establece la ley no permite otro procedimiento distinto al retorno. Esto significa que incluso si se logra evitar el aumento poblacional descontrolado no se reduzca el impacto ambiental hasta que la colonia desaparezca (si llega a hacerlo). Hay que tener en cuenta la prolongación en el tiempo de una colonia, entre otros factores, depende de la esperanza de vida de los gatos (que puede superar 15 años). 
-  {: .notice--danger}
+  {: .notice-danger}
 
   **Reflexión:** ¿Qué pasa con los gatos que aún encontrándose en espacios urbanizados también afecten al medio ambiente?. ¿Se les podrá considerar gatos ferales no urbanos?. En el Art. 54 se prohíben la reubicación de gatos urbanos, su confinamiento en centros de protección animal, residencias o similares y su sacrificio (sin posibilidad de excepción por cuestiones medioambientales). En cualquier caso, incluso en los no urbanos el Art. 56 prohíbe su reubicación y su confinamiento de gatos ferales en albergues, residencias o similares
-  {: .notice--warning}
+  {: .notice-warning}
 
   **Reflexión:** Resulta paradójico que se permita el sacrificio de estos animales cuando «esté debidamente justificado por la autoridad sanitaria o por motivos de seguridad o medioambientales» (Art. 49), pero no se permita un procedimiento intermedio que mejore la eficacia del control medioambiental sin la necesidad de sacrificar. Algunas alternativas pueden ser la puesta en cautividad mediante la perimetración de la colonia, el traslado de la colonia a una ubicación con menor importancia ecológica o el traslado de los gatos a unas instalaciones preexistentes adecuadas.
-  {: .notice--warning}
+  {: .notice-warning}
 
 - Proyecto de Real Decreto por el que se establecen normas básicas de ordenación de los núcleos zoológicos de animales de compañía [^ley24].
 
@@ -160,7 +160,7 @@ Dado que las competencias son de las Comunidades Autónomas la legislación (aú
   En lo relacionado con el abandono y centros de acogida, en el Art. 17 se establece que «corresponderá a los Ayuntamientos la competencia de recogida de animales abandonados» y que «los centros de recogida de animales abandonados, una vez transcurrido el plazo legal para su posible recuperación (10 días), podrán apropiárselos, sacrificarlos o cederlos a un tercero». Finalmente, «corresponderá a los Ayuntamientos o, en su caso, a los Cabildos Insulares [en caso de cesión de competencias] [...] recoger, donar, esterilizar o sacrificar, cuando fuera preciso, los animales domésticos vagabundos, abandonados o entregados por su dueño o poseedor, directamente o mediante convenios con asociaciones de protección y defensa de los animales».
 
   **Nota:** Resulta llamativo que no se establecen condición alguna para determinar el sacrificio eutanásico.
-  {: .notice--info}
+  {: .notice-info}
 
   Se considera infracción muy grave el abandono de un animal doméstico o de compañía.
 

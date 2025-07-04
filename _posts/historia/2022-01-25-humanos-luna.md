@@ -107,7 +107,7 @@ Para entonces la II Guerra Mundial ya había resultado en grandes avances tecnol
 En cierto modo, la "Carrera Espacial", fue un subcapítulo de la "Guerra Fría" y consecuencia de los avances alemanes en misiles de largo alcance que agregaron a los clásicos dominios militares, tierra, mar y aire, el espacial. Fueron los Alemanes, durante la II Guerra Mundial, los que desarrollaron los cohetes con la única finalidad que la de realizar ataques a larga distancia contra sus enemigos. El misil V1 se empleaba para atacar ciudades inglesas desde territorio francés [^wiki2]. El cohete V2, sucesor del V1 y desarrollado por Wernher von Braun fue el último y mayor desarrollo alemán en este campo, tenía un alcance de 300 km. Con esta tecnología, los Alemanes fueron los primeros en alcanzar el espacio, que por convención se considera comienza pasada la [Línea de Karmán](https://es.wikipedia.org/wiki/L%C3%ADnea_de_K%C3%A1rm%C3%A1n) a 100 km de altitud. El segundo misil balístico en alcanzar el espacio fue el R-7, en 1959, desarrollado por los soviéticos ya durante la Guerra Fría [^5]. 
 
 **Nota:** En la actualidad el ciberespacio se considera el quinto dominio bélico.
-{: .notice--info}
+{: .notice-info}
 
 La "Carrera espacial" se considera se inició a finales de 1957, tras el conocimiento de EE.UU. del lanzamiento Soviético de las Sputnik 1 y 2. La noticia del éxito del Sputnik I, creó un efecto "Pearl Harbor", los ciudadanos se sintieron indefensos ya que se creía que el satélite servía para mejorar la precisión telemétrica de los misiles rusos, poniendo en riesgo la seguridad nacional. Hay que tener en cuenta que el miedo de un ataque nuclear ruso estaba muy presente, y el hecho de que , teoricamente, fueran capaces de atacar desde el espacio ponía a EE.UU. en una posición de indefensión absoluta. De hecho, la existencia del Sputnik I no se detectó por los equipos de vigilancia americanos hasta pasados varios días.
 
@@ -117,7 +117,7 @@ El final, por su parte, se considera tuvo lugar a mediados de 1975, cuando ambos
 
 **Nota:** Puedes ampliar información y ver imágenes relacionadas con la perra y los Sputniks [aquí](https://historycollection.com/heartbreaking-photographs-laika-soviet-space-dog/). La fecha del Sputnik 1, por cierto, coincidió con el 40 aniversario de la Revolución Bolchevique, también conocida como la Revolución de Octubre, puedes ver imágenes relacionadas con dicha revolución [aquí](https://elpais.com/elpais/2017/11/03/album/1509709268_807469.html#foto_gal_2).
 Tras Laika, la URSS envió ocho perros más al espacio, de los cuales seis regresaron con vida a la Tierra. 
-{: .notice--info}
+{: .notice-info}
 
 ## Historia del programa Apollo
 
@@ -147,7 +147,7 @@ La historia oficial muestra que sí **se volvió otras 5 veces**. Todos los alun
 Mi opinión personal es que básicamente la Luna tenía y tiene un valor bajo, tanto desde el punto de vista científico como socioeconómico. En su momento se desarrolló el programa Apollo porque fue la manera con la que se buscó contrarrestar la ventaja Soviética (que también tenía planes para ir a la Luna). Las motivaciones fueron puramente geo-políticas, no económicas ni científicas. No obstante, y quizás de manera imprevisible por parte de la sociedad de la época, se aceleraron las innovaciones y esto tuvo un gran impacto real en la economía y sociedad actuales. En la actualidad, en el contexto de una nueva carrera espacial, creo que la Luna sigue teniendo un valor limitado, los objetivos parecen enfocarse en la conolización de Marte y la minería de asteroides. La Luna es el paso intermedio para lograr dichos objetivos. 
 
 **Fé de erratas:** Durante la redacción de este artículo, he comprobado que me encontraba equivocado en cuanto a la importancia que ha tenido y sigue teniendo la Luna. En la wikipedia existe un listado bastante exhaustivo del [histórico de misiones lunares](https://es.wikipedia.org/wiki/Anexo:Misiones_espaciales_lanzadas_a_la_Luna#Misiones_lunares) que ilustra la cantidad de misiones que se han realizado en el contexto de la Guerra fría y muy posteriormente. Se muestran tanto misiones tripuladas como no tripuladas, la **cantidad de misiones es sorprendente**.
-{: .notice--warning}
+{: .notice-warning}
 
 ## ¿Por qué algún gobierno, institución o individuo defendería una mentira así?
 1. Desde mi punto de vista parece evidente que en el contexto de la Guerra Fría, todo valía. Había que superar al "enemigo" bajo cualquier circustancia y mentir, haciendo creer a la opinión pública que se había logrado, era una manera de lograrlo. Existen infinidad de antecedentes previos a la historia de EE.UU. y del propio estado, para manupular la opinión pública. Nada hace pensar que no se intentara también en esta ocasión. 

@@ -32,7 +32,7 @@ La Unión Europea ha creado un complejo entramado de estrategias, protocolos, pr
   La estrategia establece cuatro pilares, dos de los cuales son relevantes para la gestión de colonias felinas el primero, *Proteger la naturaleza* y el segundo, *restaurar los ecosistemas degradados*, centrándose en los factores clave de la pérdida de biodiversidad.
 
     **Nota:** En la actualidad la Red Natura cubre un 18% del suelo europeo y un 8% del sus mares. Mientras que solo el 3% y el 1% respectivamente están estrictamente protegidos. Con esta estrategia se pretende conseguir un 30% de la superficie terrestre y marítima y que el 10% esté estrictamente protegido [^link7].
-  {: .notice--info}
+  {: .notice-info}
 
 Dentro de este marco normativo descrito, como Parte en el Convenio sobre la Diversidad Biológica [^ley12], en las consideraciones previas del Reglamento (UE) Nº 1143/2014 [^ley10], se señala que: (17) Para el logro de los objetivos del presente Reglamento conviene tener en cuenta la situación específica de las regiones ultra periféricas, y en particular su lejanía, insularidad y el carácter único de sus respectivas biodiversidades. Por su parte, el artículo 6.2 establece que cada Estado miembro que cuente con ultra periféricas deberá adoptar para cada una de ellas una lista de especies exóticas invasoras preocupantes específica.
 

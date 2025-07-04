@@ -74,18 +74,18 @@ El concepto de sociedad no se puede definir de modo definitorio porque contiene 
 La sociedad «socializada»  no es sólo un contexto de funciones entre individuos socializados, sino que está determinada esencialmente por el **intercambio**, lo cual es una precondicón de la sociedad. Lo que hace que una sociedad sea algo realmente socializado, a través de lo cual se constituye tanto conceptual como realmente es dicha relación de intercambio. Y esto es un concepto esencialmente burgués o del tercer estadio, es decir, un producto de la industrialización. El intercambio es, por tanto, el hecho social fundamental a través del cual se produce la socialización.
 
 **Nota:** El concepto del tercer estadio se refiere a la pueblo llano o plebe, uno de los tres estratos de una sociedad estamental, organizada de manera inflexible y basada en la desigualdad de condiciones, como la feudal. Los otros dos serían la nobleza y el clero [^5]. En el contexto de la sociología que Adorno describe, se refiere a la burguesía en un sentido moderno tras la revolución industrial, una clase social próspera por su aumento de capacidad económica a través del capitalismo y de poder político tras las revoluciones burguesas [^6].
-{:.notice--info}
+{:.notice-info}
 
 **Nota:** No confunir lo anterior con la teoría de los tres estados de Comte [^4]. En este caso se afirma que la humanidad pasa por tres estados de progreso teóricos o mentales:
 1. Teológico (ficticio). Es un estado en el que se trata de dar respuestas absolutas a cuestiones en realidad desconocidas, a través de razones sobrenaturales. Domina la imaginación.
 1. Metafísico (abstracto). Es un estado en el que trata de encontrase el porqué a las cuestiones de la naturaleza de las cosas. Se continúa con el carácter teológico pero con explicaciones razonadas. Es un estado de crítica y destrucción de la autoridad teológica necesaria para alcanzar el siguiente estado.
 1. Científico (positivo). Es la última fase de desarrollo No se busca el porqué de las cosas sino el cómo de los fenómenos. La imaginación pierde frente a la observación, la experimentación y la comparación. 
-{:.notice--info}
+{:.notice-info}
 
 La naturaleza misma del propio intercambio, se basa en la equivalencia dineraria para intercambiar objetos. Dicha equivalencia se establece, según Marx en base al tiempo de «trabajo social» empleado. Desde el punto de vista de Adorno, y en línea con Marx, el propio intercambio lleva en consecuencia la «destrucción de la sociedad» y que si esta ha de continuar deberá de superarlo. Para Adorno este tipo de intercambio es ingenuo e irreflexivo (viene dado a los individuos por la sociedad). Dice, que el capitalismo ignora la naturaleza cualitativa tanto del que produce como del que consume, que lo principal es la ganancia y que la humanidad es la clientela. Se basa en una estratificación de la sociedad con el dominio de lo general sobre lo particular, de la sociedad sobre sus miembros. No es neutral, auqnue sus abtracciones sigan la lógica científica de reducción de unidades. Una de esas reducciones es la de los seres humanos que pasan a ser agentes y portadores de intercambio de bienes, lo que esconde el dominio del hombre sobre el hombre porque todos han de obedecer la ley del intercambio para no perecer.
 
 **Reflexión personal:** Creo que el tiempo de trabajo de un especialista no puede equivaler directamente a la misma cantidad de trabajo de otro profesional menos especializado. Quizás Marx, cuando se refiere a «trabajo social» ya introduce en el concepto cierto factor corrector en base a la utilidad social del trabajo realizado (no lo sé). Quizás por trabajo social ya se tenga en cuenta también el trabajo previo realizado para la obtención de las partes necesarias o materias primas, por ejemplo. En cualquier caso, ni antes ni ahora se ha tenido en cuenta en tal equivalencia dineraria los «costes sociales indirectos» relativos a la explotación de los recursos naturales empleados ni la contaminación liberada al medio. Es decir, que los precios en realidad son artificialmente bajos al ignorar dichos costes que quedan descubiertos. Por coste social indirecto me refiero a que la actividad humana tiene unas consecuencias sobre el medio ambiente con efectos negativos en el equilibrio natural y la vida humana. Estas consecuencias para ser mitigadas requieren de unos recursos (económicos, mano de obra, energía, etc.) que no pueden ser financiados con parte del precio del producto o servicio, sino que, tal y como funciona actualmente el sistema, estos costes tendrán que ser soportados por la sociedad en general y no por los responsables del daño concreto (productores y consumidores particulares). Desde luego estoy de acuerdo, aunque seguramente por razones distintas, de que este intercambio por equivalencia dineraria, tal y como se sigue dando hoy en día, es absolutamente ingenuo e irreflexivo; y está poniendo en peligro la supervivencia de la humanidad.
-{:.notice--warning}
+{:.notice-warning}
 
 De lo anterior se extrae que la sociedad se puede entender como un concepto relacional o funcional. No se puede concebir la sociedad como el agregado de todos los seres humanos que vivene n un cierto período. Un concepto así, meramente cuantitativo, no correspondería a la sociedad como tal. En necesario determinar el «vínculo interno», tal y como lo denominó Marx. Los seres humanos están determinados socialmente por lo que hacen (su trabajo social) y por su relación entre ellos, es decir, el propio itnercambio.
 
@@ -144,7 +144,7 @@ Históricamente se ha pasado por alto la importancia de las relaciones de produc
 Por irracional se refiere a que, si uno considera que la **meta de la sociedad** es la conservación y liberación de los individuos que la componen, lo que uno se encuentra es que ésta se opone a su propia meta.
 
 **reflexión personal:** Resulta interesante esta reflexión porque presupone una meta particular y que esta, de existir, es fija. Es cierto que todo sistema, tiene al menos un objetivo, pero este no necesariamente tiene que ser el que el sociólogo cree subjetivamente.
-{:.notice--warning}
+{:.notice-warning}
 
 
 ## Objeciones a la sociología
@@ -209,7 +209,7 @@ Ambas escuelas, la alemana y la francesa son igualmente positivistas, es decir, 
 La tarea de una teoría dialéctica sería reunir esos dos momentos claramente conflictivos de la sociedad: por un lado, su incomprensibiolidad, su opacidad; y por otro, su carácter reducible a lo humano, y por tanto, comprensible.
 
 **reflexión personal:** ¿No es el carácter distintivo de las instituciones que, a diferencia de los individuos, estas siguen unas costumbres y normas establecidas de arriba a abajo? Dichas directrices siguen razonamientos distintos a los que las personas que las ejecutan desde dentro tienen para sí.
-{:.notice--warning}
+{:.notice-warning}
 
 ### Estudio de la cultura
 Los seres humanos son portadores de ideas e ideologías. Estas ideologías que son inmediatas a las personas, no tienen su origen social entre estas personas y el consenso, sino que se les vienen dadas, ya sea por imposición de tradiciones o creadas por medio de la industria cultural, altamente concentrada y organizada. Las ideologías son en gran medida una función de los efectos que se ejercen sobre el individuo a través de productos intelectuales reales o aparentes.

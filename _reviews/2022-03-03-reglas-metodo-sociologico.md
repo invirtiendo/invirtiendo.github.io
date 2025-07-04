@@ -30,7 +30,7 @@ En el contexto de esta misión política de reforma educativa en torno al métod
 Durkeim se ocuparía en demostrar que el estudio de la sociedad es un campo propio de la ciencia. Dada la urgencia del momento, en vez de tomar el camino habitual, y largo, del método científico, es decir, ir paulatinamente adquiriendo conocimiento, Durkheim decide elaborar un método completo que acomodara la Sociología a lo que en la época se entendía por ciencia. En ese sentido, debía cumplir los requisitos de la epistemología positivista.
 
 **Nota:** La epistemología es la parte de la filosofía que estudia los principios, fundamentos, extensión y métodos del conocimiento humano [^3].
-{: .notice--info}
+{: .notice-info}
 
 El positivismo, es una epistemología híbrida que combina el
 racionalismo con el empirismo y la lógica deductiva con la
@@ -44,7 +44,7 @@ De acuerdo a lo anterior la Sociología, para existir, debía de:
 - Diferenciación con respecto a otras ciencias afines dando una orientación empirica (para diferenciarse de la filosofía) y sobre unos hechos sociales (para diferenciarse de la psicología).
 
 **Nota:** El *positivismo clásico* tiene origen en Francia durante el siglo XIX siendo Augusto Comte (1798 a 1857), que había sido secretario de Saint - Simon, su principal referente. Sus principales influencias provienen del movimiento empirista representado por Bacon (1561–1626) y Hume (1711-1776) respecto a la determinación de factores y sus relaciones, y de Locke (1632-1704) y Condillac (1715-1780) en relación con el conocimiento de los factores mediante la experiencia de los sentidos [^3].
-{: .notice--info}
+{: .notice-info}
 
 Finalmente, Durkheim creía que la ciencia sociológica tenía una vocación interventora, es decir, su aplicación debe de tener un uso práctico para solventar los problemas existentes.
 
@@ -126,10 +126,10 @@ Quizás la dificultad radica en que los fenómenos sociales son en realidad cons
 Como, por regla general, se nos escapan los detalles, las formas concretas y particulares, las representaciones más generales y esquemáticas son las pre-nociones de las que nos podemos servir inicialmente. 
 
 **Nota**: La Sociología previa, trataba más de conceptos (ideas) que de cosas (hechos). En el caso de [Comte](https://es.wikipedia.org/wiki/Auguste_Comte), cuya sociología se basa principalmente en la idea de progreso de la humanidad en el tiempo, si definió los fenómenos sociales como hechos naturales sujetos a las leyes naturales, pero en la aplicación de la ciencia toma la «humanidad» como objeto de estudio en vez de las cosas. [Spencer](https://es.wikipedia.org/wiki/Herbert_Spencer) por su parte, la sustituye por las «sociedades», pero dando de ellas una definición basada en su propia visión, estableciendo dos clases según su modo de cooperación. Resulta imposible, sin embargo, comprobar si es la cooperación es el todo de la vida social. Luego su afirmación no es cientificamente legítima, pues no define la «sociedad» sino su noción de ella.
-{: .notice--info}
+{: .notice-info}
 
 **Nota**: Análogamente no se puede saber con certeza que es el Estado, la soberanía, la libertad política, la democracia, el socialismo, el comunismo, etc. Se suelen tratar como cosas conocidas y bien definidas, pero no son más que nociones. Dichas nociones plagan la sociología. En la Economía ocurre algo similar, se basa en la lógica y trata básicamente de conceptos, como el Valor o la producción, mientras que las pocas leyes existentes, como la de oferta y demanda, no tienen como objeto describir la realidad sino lo que debería ser (si cada individuo supiera identificar correctamente sus intereses).
-{: .notice--warning}
+{: .notice-warning}
 
 Si los hechos sociales son cosas que son observables, entonces los tenemos que tratar en calidad de datos. Estos serán el punto de partida de la ciencia. No se necesita tener pre-nociones de lo que a *priori* hace que las cosas sean como son. Serán los propios datos los que confirmen o desmientan si lo que se ha considerado y estudiado como hechos sociales son realmente tal cosa, es decir, si son externos al individuo o no.  
 
@@ -140,7 +140,7 @@ Dicho lo anterior las reglas que Durkheim define son:
 	En muchos casos la sociología trata cosas sobre las que hablamos y tenemos contacto a diario.  Cosas muy familiares, como el crimen, la familia, la democracia, etc. Por eso se suele cometer el error de no darles una definición previa y rigurosa científicamente. La noción común de las cosas suele ser ambigua, lo que hace que reunamos bajo una misma explicación cosas que en realidad son muy diferentes.
 
 	**Ejemplos**: No es lo mismo la monogamia de hecho (que se da en muchas especies animales) que la monogamia de derecho, la obligatoria (que sólo se da en ciertas sociedades). Análogamente, no es lo mismo la Democracia en las sociedades primitivas que la de las actuales.
-	{: .notice--info }
+	{: .notice-info }
 
 	La definición además no debe contener una clasificación pues de ser así se corre el riesgo de obtener resultados subjetivos y truncados. A menos que se pueda negar objetivamente el principio de causalidad, es decir, que un mismo fenómeno pueda deberse tanto a una causa como a otra, no se podrá dar un signo distintivo de una acción que produzca normalmente el mismo efecto que otra. Para evitar este error, hay que definir desde la base, lo esencial de las cosas y no al revés. Por ejemplo, no es la pena lo que hace al crimen sino que esta nos revela su caracter externo.
 
@@ -182,7 +182,7 @@ No obstante de lo anterior si las condiciones cambian es posible que lo que se c
 Esto presenta una gran dificultad al sociólogo pues en condiciones cambiantes desaparece toda referencia que permita saber si un fenómeno es normal o no. Del mismo modo, que lo normal cambio, también lo hará lo patológico.
 
 **Ejemplo**: Lo que se considera ahora un crimen en la antigüedad no se consideraba tal cosa, así como en la antigüedad eran normales ciertas prácticas que ahora se considerarían conductas criminales.
-{: .notice--info}
+{: .notice-info}
 
 Dicho esto, se debe proceder de la siguiente manera para mantener la rigurosidad científica:
 1. Determinar la generalidad de un fenómeno, en una fase determinada del desarrollo de la especie.
@@ -194,7 +194,7 @@ Dicho esto, se debe proceder de la siguiente manera para mantener la rigurosidad
 En ciertos casos se podría pensar que lo útil es normal. No obstante, solo sería así si además resulta necesario. Pues no hay razón alguna para creer que lo que se considera normal, es la forma más útil y que no pueden existir nuevas formas mejores aún por descubrir. 
 
 **Nota**: El último apartado de este capítulo se defiende que al cambiar lo normal, también cambia lo que no lo es. Ahora bien, como lector no comparto que lo «no normal» sea considerado como patológico. Se emplea el crimen como argumento a modo de ejemplo y me resulta confuso pues creo que se entremezclan dos conceptos distintos, los comportamientos  considerados criminales y el código que así lo determina. Aunque en una fase determinada algo se considera patológico, igualmente puede considerarse necesario si se evalúa como se ha cristalizado la siguiente fase. Dicho esto ¿Qué es **lo que no debe ser*, el comportamiento o el código? 
-{: .notice--warning}
+{: .notice-warning}
 
 Continuando con el ejemplo de la criminalidad se rebate si lo patólógico es sinónimo de crimen.
 
@@ -217,14 +217,14 @@ En cualquier caso, la absoluta uniformidad del supuesto anterior resulta imposib
 En definitiva, lo que confiere el carácter criminal, no es la importancia intrínseca del acto, sino la que le atribuye la *conciencia común*. El crimen es por tanto, necesario y útil porque esas condiciones de las que es solidario son indispensables para la evolución normal de la moral y el derecho.
 
 *Nota**: Para comprender estas conclusiones resulta útil hacerse las siguientes preguntas. ¿Es «inevitable» sinónimo de «necesario» y de «útil»?. ¿El crimen es necesario para la existencia de una sociedad? ¿No puede existir una sociedad muy heterogenea con distintas percepciones de lo criminal o sin código moral? ¿Que no hayan existido previamente significa que no puedan existir en el futuro?. Además ¿No puede existir evolución moral colectiva si no existen crímenes? ¿Es el crimen el que fuerza dicho cambio?. En cualquier caso, esto es un egercicio de razonamiento lógico, y en nada sirve para la obtención de conclusiones científicamente rigurosas.
-{: .notice--warning}
+{: .notice-warning}
 
 Para que exista dicho cambio, es necesario que la *conciencia colectiva* no tenga tal fuerza como para impedirlo, debe tener una energía moderada. Toda disposición es un obstáculo a la redisposición. Se necesita que la *originalidad individual* tenga cabida en la sociedad. 
 
 Si el crimen es visto como una enfermedad, entonces la pena es su cura. Pero si el crimen no tuviera tal carácter, entonces el objeto de la pena sería otro.
 
 **Nota**: ¿Si fuera una enfermedad entonces el establecimiento de penas evitaría la existencia de crímenes?. Esto no parece reflejar la realidad.
-{: .notice--warning}
+{: .notice-warning}
 
 ## 4. Reglas relativas a la constitución de los tipos sociales
 
@@ -287,12 +287,12 @@ Tradicionalmente se han pretendido explicar los hechos sociales por medio del ro
 Sin embargo, explicar para que sería útil un hecho no explica como ha nacido ni como es lo que es. Se suponen las propiedades específicas que lo caracterizan, pero no lo crean. Por otro lado, ya que cada hecho social tiene naturaleza propia y es una fuerza que domina al individuo, no es suficiente que exista cierta voluntad. Es por tanto preciso remontar a las causas y efectos hasta encontrar el punto de acción donde el ser humano tiene capacidad.
 
 **Ejemplo:** Para reanimar el espíritu de familia allí en donde se ha debilitado, no es suficiente con que todo el mundo comprenda sus ventajas; es preciso hacer actuar a las causas que son suceptibles de engendrarlo.
-{: .notice--info }
+{: .notice-info }
 
 Además, cabe la posibilidad de que existan hechos que no sirvan para nada, ya sea porque nunca tuvieron utilidad o porque después de tenerla la haya perdido y el hecho haya continuado su existencia por fuerza de la costumbre. También hay casos en los que una práctica o institución social, cambien de función sin por ello cambiar de naturaleza.
 
 **Ejemplo:** Los dogmas religiosos del cristianismo han permanecido invariantes durante siglos, mientras que el rol que juegan en nada se parecen en la actualidad a con la Edad Media.
-{: .notice--info }
+{: .notice-info }
 
 Es decir, el fenómeno es independiente de la función; las causas que lo hacen ser son independientes de los fines a los que sirve. Esto no quiere decir, que las necesidades, los deseos no puedan intervenir de manera activa en la evolución social; estos pueden actuar en las condiciones de las que depende un hecho, apurando o conteniendo su desarrollo. La única razón de la existencia de un hecho es la realización de las condiciones necesarias de las que depende.
 
@@ -301,7 +301,7 @@ Por todo ello, para explicar un fenómeno social, hay que buscar de manera separ
 Si bien es natural buscar la causa de un fenómeno antes que intentar determinar sus efectos, no se puede obviar que existe cierta reciprocidad entre ambos que las mantiene ligadas. Por eso la segunda también es necesaria para la explicación del hecho social.
 
 **Ejemplo:** La reacción social que constituye la pena se debe a la intensidad de los sentimientos colectivos que el crimen ofende, pero tiene como función la de mantener los sentimientos en el mismo grado de intensidad, ya que no tardarían en debilitarse si las ofensas padecidas no fueran castigadas.
-{: .notice--info }
+{: .notice-info }
 
 ### Método de explicación
 
@@ -316,17 +316,17 @@ Un todo no es idéntico a la suma de sus partes. El sistema formado por la asoci
 Si se parte de los individuos para explicar los hechos sociales, no se podrá entender nada de lo que ocurre en el grupo. A una explicación puramente psicológica de los hechos sociales necesariamente se le escapa todo lo que tienen de específico, es decir, de social. Así que, descartada la parte individual, solo queda la sociedad para explicar los fenómenos sociales.
 
 **Nota:** En consecuencia, toda explicación de un fenómeno social a través de otro psíquico es falsa.
-{: .notice--warning }
+{: .notice-warning }
 
 Los fenómenos psicológicos solo pueden tener consecuencias sociales cuando están íntimamente relacionados a la acción de individuos con fuerza social especialmente grande, como los funcionarios, personas de estado u autoridades intelectuales con gran capacidad de influencia.
 
 **Nota personal:** Incluso en esos casos dichos individuos no escapan enteramente a la presión social.
-{: .notice--warning }
+{: .notice-warning }
 
 El hecho de asociación es el más obligatorio de todos; porque es la fuente de todas las demás obligaciones. No puede concernir al pasado, que no pudo ser consentido y que sin embargo determina el presente y futuro. Puedo no haber querido la nacionalidad o educación que he recibido; y no obstante son, ante toda causa, las que me fija en la sociedad.
 
 **Ejemplo:** Como consecuencia de mi nacimiento, estoy obligatoriamente ligado a un pueblo determinado. Se suele decir, que luego, una vez adulto, se acepta esta obligación por el solo hecho de continuar viviendo en la mi país. Pero, en realidad, esto no le quita el caracter imperativo, pues una presión aceptada y padecida de buena gana no deja de ser una presión. Y, por otro lado, dicha adhesión es forzada tanto en cuanto, en la mayoría de casos, es material y moralmente imposible despojarnos de nuestra nacionalidad. 
-{: .notice--info }
+{: .notice-info }
 
 Se llega entonces a las siguientes reglas:
 - La causa determinante de un hecho social debe ser buscada entre los hechos sociales precedentes (que tienen caracter causal y de utilidad) y no entre los estados de conciencia individual.
@@ -349,7 +349,7 @@ Sin descartar otros, Durkheim identifica dos:
 Como buen indicador de la *densidad dinámica*, está la *densidad material*. Que además del número de habitantes por unidad de superficie también ha de tener en cuenta el desarrollo de las vías de comunicación y transmisión como las infraestructuras de transporte, mecanismos de comercio, etcétera.
 
 **Nota:** La *densidad material* no es infalible, pues es posible que dichas vías no se usen como medio de unión de las poblaciones sino como medios de negocio y transporte de mercancías.
-{: .notice--info }
+{: .notice-info }
 
 Esta concepción del medio social es de máxima importancia pues si no se tiene en cuenta se pierde toda posibilidad de establecer cualquier relación de causalidad.
 

@@ -66,7 +66,7 @@ En caso de carecer de regla general, hurgamos en nuestra memoria o volvemos la v
 En un argumento por analogía decimos que: X es B porque es como A, y los A son B.
 
 Con este razonamiento, nuestras conclusiones solamente pueden ser probables. La mera semejanza no permite afirmaciones categóricas. Siempre cabe que existan diferencias no percibidas que den al traste con nuestra conclusión.
-{: .notice--warning}
+{: .notice-warning}
 
 En resumen, cuando nos encontramos ante un caso dudoso, oscuro o difícil de entender porque carecemos de una regla que lo considere, tratamos de compararlo con algo que forme parte de nuestra experiencia más familiar. El argumento analógico salta de un caso a otro. Prueba un suceso particular con otro también particular. De lo observado y conocido inferimos lo no observado y desconocido apoyados en la semejanza que percibimos entre uno y otro.
 
@@ -145,7 +145,7 @@ Se puede subrayar tanto una cosa como la otra porque en los argumentos por analo
 {: .notice}
 
 El problema de los políticos es tener que proponer cosas muy parecidas a las de sus adversarios de modo que parezcan completamente distintas.
-{: .notice--info}
+{: .notice-info}
 
 **¡No negamos las semejanzas!** Existen, sin duda, pero no son relevantes. Nos limitamos a señalar que hay diferencias significativas, por lo que deben ser considerados casos distintos a los que no se puede juzgar con el mismo criterio. Tratar del mismo modo situaciones desiguales es tan injusto como juzgar situaciones iguales de modo diferente.
 >Ej: Ha robado, pero no es lo mismo robar a un rico que a un pobre.
@@ -231,7 +231,7 @@ Si algo ha ocurrido con anterioridad, puede ocurrir de nuevo por la misma razón
 Con frecuencia recurrimos a las comparaciones, no como argumento, sino como ilustración. Explicamos cosas que no son conocidas comparándolas con las más familiares (reales o ficticias, como ocurre en las fábulas). 
 
 Cualquier exposición oral está plagada de comparaciones ilustrativas. Conviene no caer en el error de tomarlas como argumento. Una cosa es rechazar una metáfora inadecuada y otra muy distinta, refutar un argumento. Con frecuencia se mezclan: al argumento sigue el adorno de las metáforas.
-{: .notice--warning}
+{: .notice-warning}
 
 >Ej: Si los profesores más insignes se hallan perplejos ¿qué aciertos se pueden esperar de los médicos comunes? 
 

@@ -54,7 +54,7 @@ Por supuesto, existen otras actividades humanas que no emiten gases y también t
 
   Nota: Con respecto al CO2 el CH4 tiene un potencial de efecto invernadero xx veces superior. El NOx por su parte Y veces y el SF6 Z veces. Por eso, no solo es importante los niveles de emisiones totales (las del CO2 es muy superior al resto) sino su capacidad para retener calor. Aunque el CH4, NOX, SF6, etc... se emitan en menores cantidades su potencial es tan alto que su impacto es comparable.
 
-  {: .notice--warning}
+  {: .notice-warning}
 
 - Reducción de masa vegetal que absorbe los gases emitidos. La deforestación terrestre y marina se dan principalmente por la reducción de suelo disponible para la vegetación salvaje, principalmente por:
 

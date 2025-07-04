@@ -52,7 +52,7 @@ En la actualidad estos registros disfrutan de gran confianza por nuestra parte. 
 Teoricamente, las cadenas de bloques pueden solucionar todas y cada una de estas desventajas sin reducir la confiabilidad.
 
 **Nota:** Ya existen proyectos en los que los propios bancos y empresas de energía están adoptando esta tecnología para gestionar y certificar sus propias transacciones con mayor transparencia y eficacia que sus sistemas clásicos reduciendo además los costes. Existen también iniciativas democráticas como la de Estonia. En este país han conseguido, con el apoyo de esta tecnología, que el [99% de sus servicios públicos estén disponibles de manera online](https://e-estonia.com/solutions/e-governance/), incluso las votaciones.
-{: .notice--warning}
+{: .notice-warning}
 
 ## Como activo no fungible
 Este caso de uso se conoce por NFT. Básicamente lo que significa es que cualquier artículo no fungible, susceptible de ser digitalizado, puede ser guardado en una cadena de bloques. Posteriormente la titularidad de dicho activo puede ser transferida.
@@ -71,7 +71,7 @@ El ecosistema de Ethereum fue el que popularizó con su desarrollo esta idea. B�
 Un ejemplo real, es el de las DAO, organizaciones capaces de operar de manera autónoma, donde se gestionan sus recursos a través de dichos contratos.
 
 **Nota:** Existe un caso de éxito muy llamativo, en el que se ha usado la moneda XX.
-{: .notice--warning}
+{: .notice-warning}
 
 # Consecuencias indeseables
 ## Medioambientales
@@ -126,16 +126,16 @@ Queda patente que el impacto medioambiental de todo el ecosistema de criptomoned
  Existen innovaciones en otras criptomonedas en las que dicho algoritmo se basa en PoS, que ya no requieren complejos cálculos, sino que se apoyan 
 
 **PoW:** Este método someramente significa que la validación de transacciones requieren un complejo y costoso cálculo criptográfico, que todos los mineros tratan de hacer simultáneamente y sólo uno "gana". Luego el consumo eléctrico está directamente relacionado con el número de transacciones y el número de nodos mineros.
-{: .notice--info}
+{: .notice-info}
 
 **PoS:** La diferencia con respecto a PoW radica en que se elije a quién debe hacer la validación de la transacción en base a su nivel de participación en el sistema. La consecuencia es que se excluye automáticamente al resto de competencia, y sólo un "nodo" es el responsable de relizar este costoco cálculo, reduciendo el consumo eléctrico en varios órdenes de magnitud. El consumo sigue siendo proporcional al número de transacciones, pero ya no al número de nodos mineros. Por tanto, el consumo se mantiene constante por cada transacción y ya no aumentaría aceleradamente a medida que aumente la adopción de la tecnología.
-{: .notice--info}
+{: .notice-info}
 
 ## Socio-económicos y Derechos humanos
 Uno de los problemas evidentes es que este sistema, al ser totalmente transparente pero encriptado es que imposibilita a los gobiernos su regularización, abriendo la puerta al uso delictivo con cierta impunidad de la cibermoneda. Esto resultó ser el caso, cuando desde muy temprano se evidenciaron casos de uso para el menudeo de drogas, armas y demás productos ilegales en mercados negros establecidos en la "Darknet". 
 
 **Nota:**Uno de los casos más famosos fue el de "Silkroad" que no pudo ser desmantelada por el FBI hasta varios años de actividad impune, entre otras razones porque el medio de pago habitual era Bitcoin.
-{: .notice--warning}
+{: .notice-warning}
 
 Por su naturaleza, resulta difícil determinar el uso primordial que se le da a la moneda virtual, muy probablemente las mafias, contrabandistas y blanqueadores de moneda encuentran en Bitcoin un medio sin parangón para esquivar al control gubernamental. Es de esperar por tanto, que su uso sea generalizado por estos colectivos.
 
@@ -148,15 +148,15 @@ La corrupción generalmente busca aumentar el poder y/o la riqueza, de la que mu
 Los efectos negativos, no obstante, no se limitan a paises menos desarrollados. En occidente ya se emplean las criptomonedas como medio para el blanqueo de capital y evasión fiscal. ¿Que pasaría si su uso se generalizara? No me cabe duda, de que si la mayoría tenemos acceso a dinero opaco, sin que nadie sepa cuánto tenemos, cuánto gastamos, en dónde y cómo; nuestro comportamiento económico y fiscal no se vería tan condicionado por los valores morales. Hay infinidad de ejemplos análogos que ilustran perfectamente que el comportamiento humano se desvía de los cánones morales cuando no está sujeto a "control" por el resto. Cuanto menos veríamos, probablemente, una caída en la recaudación de impuestos que son básicos para costear servicios públicos y, en teoría, costruir sociedades menos desiguales. 
 
 **Ejemplos:** Los casos de corrupción "suave", como malversación de fondos públicos, el cobro de suplementos en tarjetas black o sobres, e incluso el pago y cobro de servicios sin factura son ejemplos de ello. Cuando pensamos que nadie nos ve, tenemos comportamientos reprobables. Todo ello son ejemplos que pueden representar a la gran mayoría de la población. Todos nos quejamos de la corrupción pero pocos somos capaces de evitar la tentación de pagar alguna que otra factura sin impuestos. Otro gran ejemplo es internet y su efecto anonimizador, las personas cuando interactuan con otras sabiendo que no pueden conocer su identidad se suelen comportar de manera muy diferente. 
-{: .notice--info}
+{: .notice-info}
 
 **Nota:** No estoy suficientemente informado sobre el campo regulatorio, desconozco si ya se han dado avances en ese campo, ni cuales serían sus límites impuestos por la propia tecnología.
-{: .notice--warning}
+{: .notice-warning}
 
 Otra consecuencia indeseable es que, como resultado de la especulación, el valor de estas monedas suele ser muy volátil. Este hecho dicifulta enermomente a aquellos usuarios que quieran darle un uso cotidiano y típico de una moneda estandar. No me imagino a nadie usando Bitcoins para comprar una alimentos, ya lo que en un momento resulta un precio razonable, al poco puede ser irrisorio o carísimo. Esto implica también, que para cualquier mortal sus ahorros almacenados en forma de criptomoneda, pueden pasar de tener cierto valor a prácticamente nada en cualquier momento. La incertidumbre económica que genera frena su adopción como dinero real.
 
 **Nota:**en el pasado ya se compró una pizza de este modo y no mucho después se convirtió en [la pizza mas cara del mundo](https://platzi.com/blog/la-pizza-mas-cara-de-la-historia-bitcoin-pizza-day/).
-{: .notice--warning}
+{: .notice-warning}
 
 Existe un gran número de "Altcoins" que relacionan su valor directamente con cualquier otra moneda fiat como el USD o EUR. De este modo se pretende evitar la mencionada volatilidad y reducir la incertidumbre. Hasta que no se generalice su uso, es posible que el potencial democratizador de las criptomonedas sólo sea eso, un potencial beneficio que nunca llega a materializarse.  
 

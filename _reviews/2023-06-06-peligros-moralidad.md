@@ -59,10 +59,10 @@ Se trata de una tensión continua entre libertad-opresión y autoridad-sumisión
 No se trata simplemente de altruismo recíproco (de justicia o equidad) sino de dominancia inversa.
 
 **Nota:** Esta es la matriz moral básica de comportamientos revolucionarios y luchadores por la libertad. La acumulación y el abuso del poder o el acaparamiento de la riqueza desencadenan este mecanismo.
-{:.notice--info}
+{:.notice-info}
 
 **Nota:** En términos políticos modernos, el odio a la opresión existe en ambos lados del espectro político. La diferencia parece que la izquierda es más universalista, se pone al servicio de los pobres, víctimas y oprimidos de todo el mundo. Los conservadores se preocupan más por sus propios grupos. Favorecen la libertad frente a la igualdad, al contrario que la izquierda.
-{:.notice--info}
+{:.notice-info}
 
 ## Teorías evolucionistas de la moral
 El instinto moral es universal como el del lenguaje. Aparece en todas las culturas, al igual que el lenguaje. De hecho aparece de manera muy temprana en los bebés.
@@ -162,7 +162,7 @@ Existen dos fenómenos interesantes que dieron lugar a la formulación de la teo
 1. Encasillamiento moral: La gente es catalogada como agente moral (con responsabilidad) o paciente moral (con derechos y capacidad de sufrir). No como ambas cosas a la vez. Esto dificulta la posibilidad de ver a alguien que previamente ha sido calificado como villano previamente se le pueda ver como víctima posteriormente o viceversa. Esto es un sesgo que puede ser explotado para manipular nuestra opinión. Quien se presente como víctima o mostramos nuestras virtudes dificultamos que se nos vea de la manera contraria.
 
 **Nota:** Planteamientos como el feminismo que presenta a las mujeres como victimas de los hombres dificulta que los hombres puedan ser percibidos como víctimas de discriminación y de serlo sería causado por ellos mismos.
-{:.notice--info}
+{:.notice-info}
 
 ## Dilemas morales
 Como resultado de las teorías anteriores podemos concluir que la moral es múltiple. Que las decisiones morales so tomadas por diferentes «voces morales» dentro de nosotros o por diferentes mecanismos de cooperación. Es habitual que unos principios choquen con otros en situaciones complejas que crean «dilemas morales». Dichos dilemas existen porque distintos sistemas psicológicos dan diferentes respuestas al mismo problema o porque la importancia de unos principios prevalecen sobre otros de manera difusa. En cualquier caso, una parte de nosotros nunca queda satisfecha con la opción que escojamos.
