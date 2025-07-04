@@ -150,6 +150,7 @@ defaults:
       layout: document
       comments: false
       sections: true
+      sidebar: true
       toc: true
       toc_levels: 2
 
