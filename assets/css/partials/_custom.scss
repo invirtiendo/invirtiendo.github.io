@@ -35,6 +35,11 @@
 	gap: 1.5rem;
 }
 
+.bd-toc {
+  position: sticky;
+  top: 4rem;
+}
+
 .bd-main {
 	grid-template-areas: "toc   intro" "toc content";
 	grid-template-rows: 1fr auto;
