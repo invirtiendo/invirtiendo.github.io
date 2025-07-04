@@ -41,6 +41,16 @@
 	grid-template-columns: 2fr 5fr;
 }
 
+.bd-sidebar {
+  position: sticky;
+  top: 4rem;
+}
+
+.bd-tocS {
+  position: sticky;
+  top: 4rem;
+}
+
 .summary {
   position: relative;
   text-align: justify;
