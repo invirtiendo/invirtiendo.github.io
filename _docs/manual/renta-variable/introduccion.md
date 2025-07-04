@@ -1,6 +1,5 @@
 ---
-title: Renta Variable
-permalink: /docs/invest/manual/renta-variable/
+title: Introducción
 lastmod: 2025-07-03T18:09:27.237Z
 ---
 
