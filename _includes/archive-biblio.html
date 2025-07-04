@@ -63,14 +63,14 @@
                 {% elsif item.type == 'paper' %}
                     <div class="list-text">
                         {% if item.url %}
-                        <a href="{{item.url}}" target="_blank">{{ item.title}}</a>
+                        <a href="{{item.url}}" >{{ item.title}}</a>
                         {% else %}
-                        <a href="https://sci-hub.se/{{ item.id}}" target="_blank">{{ item.title}}</a>
+                        <a href="https://sci-hub.se/{{ item.id}}" >{{ item.title}}</a>
                         {% endif %}
                     </div>
                 {% elsif item.type == 'article' %}
                     <div class="list-text">
-                        <a href="{{ item.id}}" target="_blank">{{ item.title}}</a>
+                        <a href="{{ item.id}}" >{{ item.title}}</a>
                     </div>
 
                 {% elsif item.type == 'book' %}

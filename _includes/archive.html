@@ -63,9 +63,9 @@
                         <div class="list-text">
                         {% if include.type == "docs" %}
                             {% assign title = item.url | split:"/" %}
-                            <a href="{{ item.url}}" target="_blank">{{ title[2]}}</a>
+                            <a href="{{ item.url}}" >{{ title[2]}}</a>
                         {% else %}
-                            <a href="{{ item.url}}" target="_blank">{{ item.title}}</a>
+                            <a href="{{ item.url}}" >{{ item.title}}</a>
                         {% endif %}
                         </div>
 

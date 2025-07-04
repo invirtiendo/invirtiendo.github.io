@@ -1,6 +1,6 @@
 {% if page.data_type == 'bookmarks' %}
     <div class="list__item">
-        <a href="{{ item.url}}" target="_blank">{{ item.title}}</a>
+        <a href="{{ item.url}}" >{{ item.title}}</a>
         <p class="page__meta">
             <span class="page__meta-date">
                 <strong>Consultado:</strong>
@@ -41,9 +41,9 @@
 {% elsif page.data_type == 'articles' %}
     <div class="list__item">
     {% if item.type == 'paper' %}
-        <a href="https://sci-hub.se/{{ item.doi}}" target="_blank">{{ item.title}}</a>
+        <a href="https://sci-hub.se/{{ item.doi}}" >{{ item.title}}</a>
     {% else %}
-        <a href="{{ item.url}}" target="_blank">{{ item.title}}</a>
+        <a href="{{ item.url}}" >{{ item.title}}</a>
     {% endif %}
         <p class="page__meta">
             <span class="page__meta-date">
