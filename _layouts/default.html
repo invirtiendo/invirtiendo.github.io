@@ -5,30 +5,26 @@
         {% include head.html %}
 
     </head>
-    <body class="bg-light">
+    <body data-bs-spy="scroll" data-bs-target="#TableOfContents" class="bg-light">
 
         {% include navbar.html %}
+
+        {% if site.search == true %}
+            {% include search/search_form.html %}
+        {% endif %}
+
         {% include /tweaks/back_to_top.html %}  
 
-        <main class="container-xxl">
-            <div class="initial-content">
-                {% if page.updates or site.updates %}
-                    {% include updates.html %}
-                {% endif %}
+        {% if page.updates or site.updates %}
+            {% include updates.html %}
+        {% endif %}
 
-                {{ content }}
+        {{ content }}
 
-                {% if site.comments.active and page.comments %}
-                    {% include comments.html %}
-                {% endif %}
-            </div>
+        {% if site.comments.active and page.comments %}
+            {% include comments.html %}
+        {% endif %}
 
-            {% if site.search == true %}
-            <div class="search-content">
-                {% include search/search_form.html %}
-            </div>
-            {% endif %}
-        </main>
         {% include footer.html %}
 
         <!-- delay scripts load until cookies are accepted -->
