@@ -14,23 +14,20 @@ layout: default
                 </div>
             {% endif %}
         </div>
-
         <div class="d-md-flex">
-            {% if page.sidebar == true %}
-                <div class="d-none d-lg-flex">
-                    {% include sidebar.html %}
-                </div>
-            {% endif %}
             <div class="d-flex flex-column flex-fill">
                 <div class="bd-content ps-lg-2" id="mainContent" data-bs-spy="scroll" data-bs-target="#tocContents" data-bs-offset="100" tabindex="0">
                     {{ content }}
                 </div>
             </div>
-            {% if page.toc == true %}
-                {% include table-of-contents.html %}
-            {% endif %}
         </div>
     </main>
+    {% if page.sidebar == true %}
+        {% include sidebar.html %}
+    {% endif %}
+    {% if page.toc == true %}
+        {% include table-of-contents.html %}
+    {% endif %}
 </div>
 
 <script>
