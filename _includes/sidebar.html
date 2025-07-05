@@ -1,36 +1,10 @@
-<!-- Sidebar offcanvas para móvil/tablet -->
-<div class="bd-sidebar sticky text-body-secondary offcanvas-md offcanvas-start" tabindex="-1" id="bdSidebar" aria-labelledby="bdSidebarOffcanvasLabel">
+<div class="bd-toc sticky col-md-2 mt-3 mb-5 my-lg-0 mb-lg-5 px-sm-1 text-body-secondary offcanvas-md offcanvas-start" tabindex="-1" id="bdSidebar" aria-labelledby="bdSidebarOffcanvasLabel">
     <div class="offcanvas-header border-bottom">
         <h5 class="offcanvas-title py-2" id="bdSidebarOffcanvasLabel">Documento completo</h5>
-        <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close" data-bs-target="#bdSidebar"></button>
+        <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close" data-bs-target="#bdSidebar">Contenido</button>
     </div>
-    <strong class="d-none d-md-block h6 my-2 ms-3 px-2">INDICE</strong>
-    <hr class="d-none d-md-block my-2 ms-3">
     <div class="offcanvas-body">
         <nav class="bd-links w-100" id="bd-docs-nav" aria-label="Docs navigation">
-            <ul class="bd-links-nav list-unstyled mb-0 pb-3 pb-md-2 pe-lg-2">
-                {% assign doc = page.relative_path | split:'/' %}
-                {% assign doc_id = doc[0] | append: "/" | append: doc[1] | append: "/" %}
-                {% assign docs = site.docs | where_exp: 'item', 'item.relative_path contains doc_id' %}
-                {% for d in docs %}
-                    {% assign current = d.relative_path | split:'/' | shift | shift %}
-                    {% assign prev = d.previous.relative_path | split:'/' | shift | shift %}
-                    {% if forloop.first %}
-                        {% include docs-navigation-loop.html data=d current=current %}
-                    {% else %}
-                        {% include docs-navigation-loop.html data=d current=current prev=prev %}
-                    {% endif %}                                
-                {% endfor %}
-            </ul>
-        </nav>
-    </div>
-</div>
-<!-- Sidebar fijo solo escritorio -->
-<div class="d-none d-md-block col-md-2">
-    <div class="bd-sidebar sticky text-body-secondary mt-3 mb-5 my-lg-0 mb-lg-5 px-sm-1">
-        <strong class="d-none d-md-block h6 my-2 ms-3 px-2">INDICE</strong>
-        <hr class="d-none d-md-block my-2 ms-3">
-        <nav class="bd-links w-100" id="bd-docs-nav-desktop" aria-label="Docs navigation">
             <ul class="bd-links-nav list-unstyled mb-0 pb-3 pb-md-2 pe-lg-2">
                 {% assign doc = page.relative_path | split:'/' %}
                 {% assign doc_id = doc[0] | append: "/" | append: doc[1] | append: "/" %}
