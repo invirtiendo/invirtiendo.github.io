@@ -21,7 +21,8 @@ layout: default
 
         <div class="d-md-flex">
             <div class="d-flex flex-column flex-fill">
-                <div id="mainContent" data-bs-spy="scroll" data-bs-target="#tocContents" data-bs-root-margin="-60px 0px 0px 0px" tabindex="0" class="bd-content ps-lg-2">
+
+                <div class="bd-content ps-lg-2" id="mainContent" data-bs-spy="scroll" data-bs-target="#TableOfContents" data-bs-offset="100" tabindex="0">
                     {{ content }}
                 </div>
             </div>
@@ -33,15 +34,4 @@ layout: default
 </div>
 
 <script>
-  document.addEventListener('DOMContentLoaded', function () {
-    if (window.bootstrap && bootstrap.ScrollSpy) {
-      new bootstrap.ScrollSpy(document.getElementById('mainContent'), {
-        target: '#tocContents',
-        rootMargin: '-60px 0px 0px 0px'
-      });
-    }
-  });
-</script>
-
-
 
