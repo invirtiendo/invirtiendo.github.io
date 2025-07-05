@@ -3,10 +3,6 @@ layout: default
 ---
 
 <div class="container-xxl bd-gutter mt-3 my-md-4 bd-layout d-flex">
-    {% if page.sidebar == true %}
-        {% include sidebar.html %}
-    {% endif %}
-
     <main class="bd-main order-1 flex-grow-1">
         <div class="bd-intro pt-2 ps-lg-2">
             {% if page.subtitle %}
@@ -20,15 +16,32 @@ layout: default
         </div>
 
         <div class="d-md-flex">
+            {% if page.sidebar == true %}
+                <div class="d-none d-lg-flex">
+                    {% include sidebar.html %}
+                </div>
+            {% endif %}
             <div class="d-flex flex-column flex-fill">
                 <div class="bd-content ps-lg-2" id="mainContent" data-bs-spy="scroll" data-bs-target="#tocContents" data-bs-offset="100" tabindex="0">
                     {{ content }}
                 </div>
             </div>
             {% if page.toc == true %}
-                {% include table-of-contents.html %}
+                <div class="d-none d-lg-flex">
+                    {% include table-of-contents.html %}
+                </div>
             {% endif %}
         </div>
+        {% if page.sidebar == true %}
+            <div class="d-lg-none">
+                {% include sidebar.html %}
+            </div>
+        {% endif %}
+        {% if page.toc == true %}
+            <div class="d-lg-none">
+                {% include table-of-contents.html %}
+            </div>
+        {% endif %}
     </main>
 </div>
 <script>
