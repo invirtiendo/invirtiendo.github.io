@@ -31,34 +31,34 @@ Hay dos maneras bien diferenciadas de invertir en bolsa:
 
 - **Inversión pasiva** → es una estrategia en la que se busca replicar el rendimiento de un índice o mercado en lugar de intentar superarlo, generalmente mediante la compra y mantenimiento de activos a largo plazo. Se caracteriza por una gestión más sencilla, con menor inversión de tiempo y esfuerzo por parte del inversor. Para ello se invierte en ETFs, índices y fondos.
 
-<div class="col-md-6" markdown="1">
-**Ventajas**
-- Menor esfuerzo y conocimientos
-- Mayor diversificación
-- Menor riesgo
-- Mayor facilidad de gestión
-</div>
+  <div class="col-md-6" markdown="1">
+  **Ventajas**
+  - Menor esfuerzo y conocimientos
+  - Mayor diversificación
+  - Menor riesgo
+  - Mayor facilidad de gestión
+  </div>
 
-<div class="col-md-6" markdown="1">
-**Desventajas**
-- La rentabilidad está limitada al rendimiento del índice que se está replicando.
-- Puede no superar la rentabilidad de las estrategias activas en momentos de crecimiento acelerado
-</div>
+  <div class="col-md-6" markdown="1">
+  **Desventajas**
+  - La rentabilidad está limitada al rendimiento del índice que se está replicando.
+  - Puede no superar la rentabilidad de las estrategias activas en momentos de crecimiento acelerado
+  </div>
 
 - **Inversión activa** → es una estrategia en la que un inversor, o un gestor de inversiones, toma decisiones de compra y venta de activos con el objetivo de superar el rendimiento de un índice de referencia o del mercado en general. Implica una gestión dinámica de la cartera, donde se analizan constantemente las tendencias del mercado, el desempeño de las empresas y otros factores para tomar decisiones de inversión con la esperanza de obtener mayores rendimientos que los que se obtendrían con una estrategia pasiva.
 
-<div class="col-md-6" markdown="1">
-**Ventajas**
-- Menores costos que la inversión pasiva si no se emplean intermediarios ni fondos gestionados activamente | - puede implicar mayores costos debido a comisiones de los gestores
-- Posibilidad de mayores retornos
-</div>
+  <div class="col-md-6" markdown="1">
+  **Ventajas**
+  - Menores costos que la inversión pasiva si no se emplean intermediarios ni fondos gestionados activamente | - puede implicar mayores costos debido a comisiones de los gestores
+  - Posibilidad de mayores retornos
+  </div>
 
-<div class="col-md-6" markdown="1">
-**Desventajas**
-- puede implicar mayores costos debido a comisiones de los gestores
-- Mayor riesgo
-- Mayor esfuerzo si se invierte directamente
-</div>
+  <div class="col-md-6" markdown="1">
+  **Desventajas**
+  - puede implicar mayores costos debido a comisiones de los gestores
+  - Mayor riesgo
+  - Mayor esfuerzo si se invierte directamente
+  </div>
 
 Si en algún momento se considera la opción de invertir directa y activamente es recomendable adquirir los conocimientos necesarios, para maximizar las posibilidades de éxito. En este caso caben distintos tipos de estrategias, que pueden o no combinarse, esto es:
 
