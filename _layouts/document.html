@@ -32,6 +32,10 @@ layout: default
         </div>
     </main>
 </div>
-
 <script>
-
+    document.addEventListener('DOMContentLoaded', function () {
+        var scrollSpy = new bootstrap.ScrollSpy(document.getElementById('mainContent'), {
+            target: '#TableOfContents',
+            offset: 100
+        });
+    });
