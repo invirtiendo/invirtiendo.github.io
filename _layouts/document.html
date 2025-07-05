@@ -30,23 +30,9 @@ layout: default
                 {% include table-of-contents.html %}
             {% endif %}
         </div>
-        {% if page.sidebar == true %}
-            <div class="d-lg-none">
-                {% include sidebar.html %}
-            </div>
-        {% endif %}
-        {% if page.toc == true %}
-            <div class="d-lg-none">
-                {% include table-of-contents.html %}
-            </div>
-        {% endif %}
     </main>
 </div>
-{% if page.toc == true %}
-    <button class="btn btn-outline-secondary d-lg-none mb-3" type="button" data-bs-toggle="offcanvas" data-bs-target="#tocContents" aria-controls="tocContents">
-        Mostrar índice
-    </button>
-{% endif %}
+
 <script>
     document.addEventListener('DOMContentLoaded', function () {
         var scrollSpy = new bootstrap.ScrollSpy(document.getElementById('mainContent'), {
