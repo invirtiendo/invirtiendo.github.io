@@ -44,6 +44,11 @@ layout: default
         {% endif %}
     </main>
 </div>
+{% if page.toc == true %}
+    <button class="btn btn-outline-secondary d-lg-none mb-3" type="button" data-bs-toggle="offcanvas" data-bs-target="#tocContents" aria-controls="tocContents">
+        Mostrar índice
+    </button>
+{% endif %}
 <script>
     document.addEventListener('DOMContentLoaded', function () {
         var scrollSpy = new bootstrap.ScrollSpy(document.getElementById('mainContent'), {
