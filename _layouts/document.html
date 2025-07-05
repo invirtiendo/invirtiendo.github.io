@@ -16,21 +16,17 @@ layout: default
         </div>
 
         <div class="d-md-flex">
-            <div class="d-flex">
-                {% if page.sidebar == true %}
-                    {% include sidebar.html %}
-                {% endif %}
-            </div>
+            {% if page.sidebar == true %}
+                {% include sidebar.html %}
+            {% endif %}
             <div class="d-flex flex-column flex-fill w-100">
                 <div class="bd-content ps-lg-2 w-100" id="mainContent" data-bs-spy="scroll" data-bs-target="#tocContents" data-bs-offset="100" tabindex="0">
                     {{ content }}
                 </div>
             </div>
-            <div class="d-flex">
-                {% if page.toc == true %}
-                    {% include table-of-contents.html %}
-                {% endif %}
-            </div>
+            {% if page.toc == true %}
+                {% include table-of-contents.html %}
+            {% endif %}
         </div>
     </main>
 </div>
