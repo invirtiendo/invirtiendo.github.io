@@ -17,9 +17,7 @@ layout: default
 
         <div class="d-md-flex">
             {% if page.sidebar == true %}
-                <div class="d-none d-lg-flex">
-                    {% include sidebar.html %}
-                </div>
+                {% include sidebar.html %}
             {% endif %}
             <div class="d-flex flex-column flex-fill">
                 <div class="bd-content ps-lg-2" id="mainContent" data-bs-spy="scroll" data-bs-target="#tocContents" data-bs-offset="100" tabindex="0">
