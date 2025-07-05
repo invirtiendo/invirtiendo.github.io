@@ -27,9 +27,7 @@ layout: default
                 </div>
             </div>
             {% if page.toc == true %}
-                <div class="d-none d-lg-flex">
-                    {% include table-of-contents.html %}
-                </div>
+                {% include table-of-contents.html %}
             {% endif %}
         </div>
         {% if page.sidebar == true %}
