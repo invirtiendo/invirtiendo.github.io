@@ -12,25 +12,25 @@ El presente manual tiene un objetivo educativo, de adquisición de los conocimie
 - Aportar los conocimientos suficientes para que pueda comenzar a experimentar, mientras paralelamente continúa con el aprendizaje.
 
 <div class="container" markdown="1">
-  <div class="row" markdown="1">
-    <div class="col-md-6" markdown="1">
-    La perseverancia, constancia, sistematización y mejora continua son, en nuestra opinión, claves para el éxito, en cualquier actividad.
+<div class="row" markdown="1">
+<div class="col-md-6" markdown="1">
+La perseverancia, constancia, sistematización y mejora continua son, en nuestra opinión, claves para el éxito, en cualquier actividad.
 
-    La sistematización nos ayuda a crear planes de ejecución (cuanto más simples mejor), a evaluar el desempeño y, con ello, a aprender eficazmente de nuestra experiencia.
+La sistematización nos ayuda a crear planes de ejecución (cuanto más simples mejor), a evaluar el desempeño y, con ello, a aprender eficazmente de nuestra experiencia.
 
-    Por eso, mostramos de manera esquemática un ejemplo de los pasos que toda persona debería seguir en su aventura de inversión, partiendo desde cero. Sigue una secuencia Top-down (de arriba a abajo), desde lo general a lo concreto.  
+Por eso, mostramos de manera esquemática un ejemplo de los pasos que toda persona debería seguir en su aventura de inversión, partiendo desde cero. Sigue una secuencia Top-down (de arriba a abajo), desde lo general a lo concreto.  
 
-    Este manual, no obstante, no sigue el mismo orden porque no es la manera más eficaz de aprender.
+Este manual, no obstante, no sigue el mismo orden porque no es la manera más eficaz de aprender.
 
-    Primero nos enfocamos en conceptos financieros y de contabilidad básicos útiles para el análisis y valoración de empresas.
+Primero nos enfocamos en conceptos financieros y de contabilidad básicos útiles para el análisis y valoración de empresas.
 
-    Luego, mostramos una metodología para obtener una visión más completa, teniendo en cuenta además de la propia empresa, sus competidores, el sector en el que opera y la economía en general.
-  </div>
+Luego, mostramos una metodología para obtener una visión más completa, teniendo en cuenta además de la propia empresa, sus competidores, el sector en el que opera y la economía en general.
+</div>
 
-  <div class="col-md-6" markdown="1">
-  ![alt text](/assets/images/manual-inversion/pasos_inversion.png){: .image-right}
-  </div>
-  </div>
+<div class="col-md-6" markdown="1">
+![alt text](/assets/images/manual-inversion/pasos_inversion.png){: .image-right}
+</div>
+</div>
 </div>
 
 ## Tipos de inversión
@@ -39,39 +39,39 @@ Hay dos maneras bien diferenciadas de invertir en bolsa:
 
 - **Inversión pasiva** → es una estrategia en la que se busca replicar el rendimiento de un índice o mercado en lugar de intentar superarlo, generalmente mediante la compra y mantenimiento de activos a largo plazo. Se caracteriza por una gestión más sencilla, con menor inversión de tiempo y esfuerzo por parte del inversor. Para ello se invierte en ETFs, índices y fondos.
   <div class="container" markdown="1">
-    <div class="row" markdown="1">
-      <div class="col-md-6" markdown="1">
-      **Ventajas**
-      - Menor esfuerzo y conocimientos
-      - Mayor diversificación
-      - Menor riesgo
-      - Mayor facilidad de gestión
-      </div>
-
-      <div class="col-md-6" markdown="1">
-      **Desventajas**
-      - La rentabilidad está limitada al rendimiento del índice que se está replicando.
-      - Puede no superar la rentabilidad de las estrategias activas en momentos de crecimiento acelerado
-      </div>
+  <div class="row" markdown="1">
+    <div class="col-md-6" markdown="1">
+    **Ventajas**
+    - Menor esfuerzo y conocimientos
+    - Mayor diversificación
+    - Menor riesgo
+    - Mayor facilidad de gestión
     </div>
+
+    <div class="col-md-6" markdown="1">
+    **Desventajas**
+    - La rentabilidad está limitada al rendimiento del índice que se está replicando.
+    - Puede no superar la rentabilidad de las estrategias activas en momentos de crecimiento acelerado
+    </div>
+  </div>
   </div>
 
 - **Inversión activa** → es una estrategia en la que un inversor, o un gestor de inversiones, toma decisiones de compra y venta de activos con el objetivo de superar el rendimiento de un índice de referencia o del mercado en general. Implica una gestión dinámica de la cartera, donde se analizan constantemente las tendencias del mercado, el desempeño de las empresas y otros factores para tomar decisiones de inversión con la esperanza de obtener mayores rendimientos que los que se obtendrían con una estrategia pasiva.
   <div class="container" markdown="1">
-    <div class="row" markdown="1">
-      <div class="col-md-6" markdown="1">
-      **Ventajas**
-      - Menores costos que la inversión pasiva si no se emplean intermediarios ni fondos gestionados activamente | - puede implicar mayores costos debido a comisiones de los gestores
-      - Posibilidad de mayores retornos
-      </div>
+  <div class="row" markdown="1">
+  <div class="col-md-6" markdown="1">
+  **Ventajas**
+  - Menores costos que la inversión pasiva si no se emplean intermediarios ni fondos gestionados activamente | - puede implicar mayores costos debido a comisiones de los gestores
+  - Posibilidad de mayores retornos
+  </div>
 
-      <div class="col-md-6" markdown="1">
-      **Desventajas**
-      - puede implicar mayores costos debido a comisiones de los gestores
-      - Mayor riesgo
-      - Mayor esfuerzo si se invierte directamente
-      </div>
-    </div>
+  <div class="col-md-6" markdown="1">
+  **Desventajas**
+  - puede implicar mayores costos debido a comisiones de los gestores
+  - Mayor riesgo
+  - Mayor esfuerzo si se invierte directamente
+  </div>
+  </div>
   </div>
 
 Si en algún momento se considera la opción de invertir directa y activamente es recomendable adquirir los conocimientos necesarios, para maximizar las posibilidades de éxito. En este caso caben distintos tipos de estrategias, que pueden o no combinarse, esto es:
@@ -232,68 +232,68 @@ En términos de beneficios, además de lo anterior, también afecta la dilución
 Son aquellos en que se cumplen algunas de las siguientes características:
 
 <div class="container" markdown="1">
-  <div class="row" markdown="1">
-    <div class="col-md-6" markdown="1">
-      * Ventajas competitivas sostenibles
-        * Elevada cuota de mercado (local si son small caps)
-        * Elevadas barreras de entrada (MOATs)
-        * Elevada capacidad de competir en precio y/o calidad
-      * Predictibilidad
-        * Evolución Estable de ingresos, gastos y márgenes
-      * Rentabilidad
-        * Generación de caja positiva o tendencia positiva
-        * Elevados márgenes
-      * Crecimiento
-        * Oportunidad de crecimiento
-        * Apalancamiento operativo (incremento de márgenes)
-        * Crecimiento orgánico (requisito necesario) e inorgánico
-      * Resiliencia
-        * Demanda poco elástica
-        * Protegido contra inflación
-        * Protegido contra incremento tasas de interés
-        * Bajos costes fijos
-        * Bajos costes en R&D y CAPEX o flexibilidad para adaptarlos
-        * Caja neta
-        * Deuda sostenible
-          * Deuda dentro de los márgenes habituales del sector
-          * Deuda e intereses bajos para soportar crisis
-      * Distribución de capital inteligente
-        * Reducción de deuda
-        * SBC razonable
-        * Adquisiciones a valoraciones razonables
-        * Recompra de acciones a precios bajos
-        * Dividendos
-      * Creación valor al accionista
-        * Dividendos
-        * Poca dilución de acciones
-    </div>
-    <div class="col-md-6" markdown="1">
-      * Directiva
-        * Experiencia contrastada
-        * Histórico de resultados
-        * Histórico de honestidad
-        * Alineada con los intereses del accionista
-      * Cultura
-        * Hacia los empleados
-        * Responsabilidad social
-        * Responsabilidad medioambiental
-      * Accionariado
-        * Equilibrio entre poder insiders y resto accionistas
-        * Influencia de grandes inversores
-        * Influencia de pequeños inversores
-        * Existencia de accionariado activista
-      * Desempeño histórico
+<div class="row" markdown="1">
+<div class="col-md-6" markdown="1">
+* Ventajas competitivas sostenibles
+  * Elevada cuota de mercado (local si son small caps)
+  * Elevadas barreras de entrada (MOATs)
+  * Elevada capacidad de competir en precio y/o calidad
+* Predictibilidad
+  * Evolución Estable de ingresos, gastos y márgenes
+* Rentabilidad
+  * Generación de caja positiva o tendencia positiva
+  * Elevados márgenes
+* Crecimiento
+  * Oportunidad de crecimiento
+  * Apalancamiento operativo (incremento de márgenes)
+  * Crecimiento orgánico (requisito necesario) e inorgánico
+* Resiliencia
+  * Demanda poco elástica
+  * Protegido contra inflación
+  * Protegido contra incremento tasas de interés
+  * Bajos costes fijos
+  * Bajos costes en R&D y CAPEX o flexibilidad para adaptarlos
+  * Caja neta
+  * Deuda sostenible
+    * Deuda dentro de los márgenes habituales del sector
+    * Deuda e intereses bajos para soportar crisis
+* Distribución de capital inteligente
+  * Reducción de deuda
+  * SBC razonable
+  * Adquisiciones a valoraciones razonables
+  * Recompra de acciones a precios bajos
+  * Dividendos
+* Creación valor al accionista
+  * Dividendos
+  * Poca dilución de acciones
+</div>
+<div class="col-md-6" markdown="1">
+* Directiva
+  * Experiencia contrastada
+  * Histórico de resultados
+  * Histórico de honestidad
+  * Alineada con los intereses del accionista
+* Cultura
+  * Hacia los empleados
+  * Responsabilidad social
+  * Responsabilidad medioambiental
+* Accionariado
+  * Equilibrio entre poder insiders y resto accionistas
+  * Influencia de grandes inversores
+  * Influencia de pequeños inversores
+  * Existencia de accionariado activista
+* Desempeño histórico
 
-      En cuanto a elementos externos:
-      * Sector de calidad
-        * Poco cíclico
-        * Concentrado
-        * No regulado
-        * En crecimiento
-      * Existencia de catalizadores de crecimiento
-      * Ausencia de disruptores (o ventaja en caso de existir)
-    </div>
-  </div>
+En cuanto a elementos externos:
+* Sector de calidad
+  * Poco cíclico
+  * Concentrado
+  * No regulado
+  * En crecimiento
+* Existencia de catalizadores de crecimiento
+* Ausencia de disruptores (o ventaja en caso de existir)
+</div>
+</div>
 </div>
 
 ## Riesgo vs Volatilidad
