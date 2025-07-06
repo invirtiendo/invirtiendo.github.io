@@ -12,22 +12,24 @@ El presente manual tiene un objetivo educativo, de adquisición de los conocimie
 - Aportar los conocimientos suficientes para que pueda comenzar a experimentar, mientras paralelamente continúa con el aprendizaje.
 
 <div class="container" markdown="1">
-  <div class="col" markdown="1">
-  La perseverancia, constancia, sistematización y mejora continua son, en nuestra opinión, claves para el éxito, en cualquier actividad.
+  <div class="row" markdown="1">
+    <div class="col-md-6" markdown="1">
+    La perseverancia, constancia, sistematización y mejora continua son, en nuestra opinión, claves para el éxito, en cualquier actividad.
 
-  La sistematización nos ayuda a crear planes de ejecución (cuanto más simples mejor), a evaluar el desempeño y, con ello, a aprender eficazmente de nuestra experiencia.
+    La sistematización nos ayuda a crear planes de ejecución (cuanto más simples mejor), a evaluar el desempeño y, con ello, a aprender eficazmente de nuestra experiencia.
 
-  Por eso, mostramos de manera esquemática un ejemplo de los pasos que toda persona debería seguir en su aventura de inversión, partiendo desde cero. Sigue una secuencia Top-down (de arriba a abajo), desde lo general a lo concreto.  
+    Por eso, mostramos de manera esquemática un ejemplo de los pasos que toda persona debería seguir en su aventura de inversión, partiendo desde cero. Sigue una secuencia Top-down (de arriba a abajo), desde lo general a lo concreto.  
 
-  Este manual, no obstante, no sigue el mismo orden porque no es la manera más eficaz de aprender.
+    Este manual, no obstante, no sigue el mismo orden porque no es la manera más eficaz de aprender.
 
-  Primero nos enfocamos en conceptos financieros y de contabilidad básicos útiles para el análisis y valoración de empresas.
+    Primero nos enfocamos en conceptos financieros y de contabilidad básicos útiles para el análisis y valoración de empresas.
 
-  Luego, mostramos una metodología para obtener una visión más completa, teniendo en cuenta además de la propia empresa, sus competidores, el sector en el que opera y la economía en general.
+    Luego, mostramos una metodología para obtener una visión más completa, teniendo en cuenta además de la propia empresa, sus competidores, el sector en el que opera y la economía en general.
   </div>
 
-  <div class="col" markdown="1">
+  <div class="col-md-6" markdown="1">
   ![alt text](/assets/images/manual-inversion/pasos_inversion.png){: .image-right}
+  </div>
   </div>
 </div>
 
