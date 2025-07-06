@@ -38,39 +38,43 @@ El presente manual tiene un objetivo educativo, de adquisición de los conocimie
 Hay dos maneras bien diferenciadas de invertir en bolsa:
 
 - **Inversión pasiva** → es una estrategia en la que se busca replicar el rendimiento de un índice o mercado en lugar de intentar superarlo, generalmente mediante la compra y mantenimiento de activos a largo plazo. Se caracteriza por una gestión más sencilla, con menor inversión de tiempo y esfuerzo por parte del inversor. Para ello se invierte en ETFs, índices y fondos.
+  <div class="container" markdown="1">
+    <div class="row" markdown="1">
+      <div class="col-md-6" markdown="1">
+      **Ventajas**
+      - Menor esfuerzo y conocimientos
+      - Mayor diversificación
+      - Menor riesgo
+      - Mayor facilidad de gestión
+      </div>
 
-  <div class="col-md-6" markdown="1">
-  **Ventajas**
-  - Menor esfuerzo y conocimientos
-  - Mayor diversificación
-  - Menor riesgo
-  - Mayor facilidad de gestión
-  </div>
-
-  <div class="col-md-6" markdown="1">
-  **Desventajas**
-  - La rentabilidad está limitada al rendimiento del índice que se está replicando.
-  - Puede no superar la rentabilidad de las estrategias activas en momentos de crecimiento acelerado
+      <div class="col-md-6" markdown="1">
+      **Desventajas**
+      - La rentabilidad está limitada al rendimiento del índice que se está replicando.
+      - Puede no superar la rentabilidad de las estrategias activas en momentos de crecimiento acelerado
+      </div>
+    </div>
   </div>
 
 - **Inversión activa** → es una estrategia en la que un inversor, o un gestor de inversiones, toma decisiones de compra y venta de activos con el objetivo de superar el rendimiento de un índice de referencia o del mercado en general. Implica una gestión dinámica de la cartera, donde se analizan constantemente las tendencias del mercado, el desempeño de las empresas y otros factores para tomar decisiones de inversión con la esperanza de obtener mayores rendimientos que los que se obtendrían con una estrategia pasiva.
-<div class="container" markdown="1">
-  <div class="col-md-6" markdown="1">
-  **Ventajas**
-  - Menores costos que la inversión pasiva si no se emplean intermediarios ni fondos gestionados activamente | - puede implicar mayores costos debido a comisiones de los gestores
-  - Posibilidad de mayores retornos
-  </div>
+  <div class="container" markdown="1">
+    <div class="row" markdown="1">
+      <div class="col-md-6" markdown="1">
+      **Ventajas**
+      - Menores costos que la inversión pasiva si no se emplean intermediarios ni fondos gestionados activamente | - puede implicar mayores costos debido a comisiones de los gestores
+      - Posibilidad de mayores retornos
+      </div>
 
-  <div class="col-md-6" markdown="1">
-  **Desventajas**
-  - puede implicar mayores costos debido a comisiones de los gestores
-  - Mayor riesgo
-  - Mayor esfuerzo si se invierte directamente
+      <div class="col-md-6" markdown="1">
+      **Desventajas**
+      - puede implicar mayores costos debido a comisiones de los gestores
+      - Mayor riesgo
+      - Mayor esfuerzo si se invierte directamente
+      </div>
+    </div>
   </div>
-</div>
 
 Si en algún momento se considera la opción de invertir directa y activamente es recomendable adquirir los conocimientos necesarios, para maximizar las posibilidades de éxito. En este caso caben distintos tipos de estrategias, que pueden o no combinarse, esto es:
-
 - *Value investing*
 - *Growth investing*
 - *Trading*
@@ -79,12 +83,12 @@ Si en algún momento se considera la opción de invertir directa y activamente e
 
 Dependiendo del las preferencias individuales, el capital disponible y los objetivos establecidos se elija una estrategia de inversión acorde. Puede ser útil pensar en términos relativos comparando el capital dispuesto a ser invertido frente a los ingresos anuales disponibles que se obtienen por otras vías, como rentas o trabajo.
 
-- Estrategia conservadora → Útil si se prefiere asumir poco riesgo. Se <u>prioriza evitar la pérdida de capital y mantener liquidez para casos de necesidad</u>. Se suele emplear cuando el capital gestionado es elevado, porque aunque devuelva poca rentabilidad relativa el retorno puede ser suficiente.
+- **Estrategia conservadora** → Útil si se prefiere asumir poco riesgo. Se <u>prioriza evitar la pérdida de capital y mantener liquidez para casos de necesidad</u>. Se suele emplear cuando el capital gestionado es elevado, porque aunque devuelva poca rentabilidad relativa el retorno puede ser suficiente.
   - Seleccionar valores seguros y de calidad.
   - Adoptar una visión a largo plazo y mantener las posiciones durante el máximo de tiempo posible.
   - Elevada diversificación en activos con poco peso relativo individualmente.
   - Idealmente elegir sectores descorrelacionados entre sí para reducir la volatilidad.
-- Estrategia agresiva → Útil si se prioriza el <U>incremento de capital más rápidamente, asumiendo mayor riesgo</u>.
+- **Estrategia agresiva** → Útil si se prioriza el <U>incremento de capital más rápidamente, asumiendo mayor riesgo</u>.
   - Concentrar la cartera con un máximo de 12 posiciones
   - Ser muy selectivo, maximizar asimetría positiva (riesgo vs beneficio).
   - Idealmente al menos 6 sectores diferentes.
@@ -96,7 +100,6 @@ Dependiendo del las preferencias individuales, el capital disponible y los objet
   - Se adopta una visión más especulativa y cortoplacista, en cuestión de meses o trimestres, con elevada rotación de cartera.
 
 En cualquiera de los casos, se debe mantener una elevada disciplina y cumplir con los siguientes criterios generales básicos:
-
 - Estudiar muy bien los activos antes de invertir.
 - Mantener liquidez en torno al 20% para poder aprovechar oportunidades
 - Siempre buscar situaciones de asimetría positiva; a mayor concentración más importante para reducir el riesgo y/o el coste de oportunidad.
@@ -106,7 +109,6 @@ En cualquiera de los casos, se debe mantener una elevada disciplina y cumplir co
 ## Inversión vs Especulación
 
 Dicho lo anterior, cabe describir cuales son, en nuestra opinión, las diferencias entre INVERSIÓN y ESPECULACIÓN:
-
 - Entendemos como **inversión** como la materialización de un compromiso con empresas que consideramos se merecen nuestra confianza, y por tanto, nuestro dinero. Visto de este modo la inversión suele ser:
   - A medio (meses) y largo plazo (años)
   - En empresas de calidad y/o crecimiento
@@ -129,7 +131,6 @@ Para eso es necesario conocer el negocio y el entorno en el que opera, de modo q
 Desde la filosofía de value investing sólo resulta interesante invertir si el precio de una acción es inferior a su valor intrínseco. Contando además con un margen de seguridad (MOS) suficiente para reducir el riesgo en caso de haber sobreestimado el valor o subestimado los riesgos y debilidades de la empresa.
 
 El desempeño de una empresa depende de tres factores principales:
-
 * Propios del negocio
 * Relacionados con el sector
 * Macroeconómicos y políticos
@@ -145,14 +146,12 @@ Por eso, usaremos los datos macroeconómicos únicamente con fines estratégicos
 Nuestros esfuerzos deben centrarse en comprender el modelo de negocio y las dinámicas propias del sector. Seguiremos una filosofía de inversión centrada en el ***value investing*** en ***negocios de calidad***.
 
 El trabajo de investigación y análisis a llevar a cabo (tanto del negocio como del sector) es teóricamente de dos tipos distintos:
-
 * Objetivo (cuantitativo)
 * Subjetivo (cualitativo)
 
 Esta es una distinción teórica. En la práctica ambas cosas están relacionadas y el estudio se realiza paralelamente, tratando de obtener una visión holística de la situación.
 
 ## Value Investing
-
 Empleando una definición muy somera Value Investing o inversión en valor, es una filosofía de inversión que **se basa en la compra de activos a bajo precio**, se buscan gangas.
 
 Para determinar si el precio de una acción es bajo o no, se analiza se determina su valor intrínseco. Si el precio de la acción es menor, que dicho valor, entonces está a buen precio. Es decir, existe cierta asimetría positiva.
@@ -170,7 +169,6 @@ Análogamente, el tipo de estrategia a seguir (más o menos agresiva, uso o no d
 En resumidas cuentas, el valor intrínseco de una empresa es el valor actual de los flujos de caja futuros.
 
 Por ello, se suele emplear una visión a largo plazo en el análisis y se requiere conocer:
-
 * el estado financiero de la empresa
 * su modelo de negocio y gestión
 * sus competidores y el sector en el que opera
@@ -183,15 +181,12 @@ Precisamente por esta razón, una vez invertido quizás sea necesario mantener l
 Además, si la empresa resulta ser de calidad y se prevé más crecimiento, quizás no interese vender pronto aunque ya se puedan obtener ganancias.
 
 Infinidad de inversores siguen esta filosofía de inversión, siendo los más conocidos:
-
 * Benjamin Graham
 * Warren Buffet y Charlie Munger (Berkshire Hathaway)
 * Peter Lynch
 
 ## Calidad vs Crecimiento
-
 En términos muy simples, un **negocio calidad**:
-
 * ofrece un producto/servicio demandado
 * ofrece un producto/servicio de calidad
 * ofrece un producto/servicio a un precio asequible
@@ -200,7 +195,6 @@ En términos muy simples, un **negocio calidad**:
 Si todo esto se cumple, lo más probable que la empresa crezca. Por eso, aunque se suele diferenciar entre empresas de calidad y de crecimiento, lo cierto es que ambas características no están reñidas. Ciertamente, hay distintos tipos de crecimiento, unos más deseables que otros.
 
 Afinando un poco más, es posible diferenciar entre:
-
 * Crecimiento estable
 * Crecimiento extraordinario → debido a eventos fuera del control de la empresa.
 
@@ -215,7 +209,6 @@ Hay también casos en los que las empresas continúan en una especie de crecimie
 A continuación se detallan las fuentes de crecimiento. Cada caso puede tener implicaciones diferentes, que será necesario analizar.
 
 El crecimiento puede originarse:
-
 * orgánicamente
   * por incremento de ventas por unidad de negocio
   * por expansión del negocio
@@ -224,7 +217,6 @@ El crecimiento puede originarse:
 * inorgánicamente (por adquisición de otras empresas)
 
 Hay variables externas que afectan a dicho crecimiento, como pueden ser:
-
 * Fase del ciclo económico
   * Inflación
   * Coste de la deuda (tasas de interés)
@@ -237,76 +229,72 @@ Hay variables externas que afectan a dicho crecimiento, como pueden ser:
 En términos de beneficios, además de lo anterior, también afecta la dilución de las acciones y compensación de la directiva.
 
 ## Negocio de Calidad
-
 Son aquellos en que se cumplen algunas de las siguientes características:
 
-* Ventajas competitivas sostenibles
+<div class="container" markdown="1">
+  <div class="row" markdown="1">
+    <div class="col-md-6" markdown="1">
+      * Ventajas competitivas sostenibles
+        * Elevada cuota de mercado (local si son small caps)
+        * Elevadas barreras de entrada (MOATs)
+        * Elevada capacidad de competir en precio y/o calidad
+      * Predictibilidad
+        * Evolución Estable de ingresos, gastos y márgenes
+      * Rentabilidad
+        * Generación de caja positiva o tendencia positiva
+        * Elevados márgenes
+      * Crecimiento
+        * Oportunidad de crecimiento
+        * Apalancamiento operativo (incremento de márgenes)
+        * Crecimiento orgánico (requisito necesario) e inorgánico
+      * Resiliencia
+        * Demanda poco elástica
+        * Protegido contra inflación
+        * Protegido contra incremento tasas de interés
+        * Bajos costes fijos
+        * Bajos costes en R&D y CAPEX o flexibilidad para adaptarlos
+        * Caja neta
+        * Deuda sostenible
+          * Deuda dentro de los márgenes habituales del sector
+          * Deuda e intereses bajos para soportar crisis
+      * Distribución de capital inteligente
+        * Reducción de deuda
+        * SBC razonable
+        * Adquisiciones a valoraciones razonables
+        * Recompra de acciones a precios bajos
+        * Dividendos
+      * Creación valor al accionista
+        * Dividendos
+        * Poca dilución de acciones
+    </div>
+    <div class="col-md-6" markdown="1">
+      * Directiva
+        * Experiencia contrastada
+        * Histórico de resultados
+        * Histórico de honestidad
+        * Alineada con los intereses del accionista
+      * Cultura
+        * Hacia los empleados
+        * Responsabilidad social
+        * Responsabilidad medioambiental
+      * Accionariado
+        * Equilibrio entre poder insiders y resto accionistas
+        * Influencia de grandes inversores
+        * Influencia de pequeños inversores
+        * Existencia de accionariado activista
+      * Desempeño histórico
 
-  * Elevada cuota de mercado (local si son small caps)
-  * Elevadas barreras de entrada (MOATs)
-  * Elevada capacidad de competir en precio y/o calidad
-* Predictibilidad
-
-  * Evolución Estable de ingresos, gastos y márgenes
-* Rentabilidad
-
-  * Generación de caja positiva o tendencia positiva
-  * Elevados márgenes
-* Crecimiento
-
-  * Oportunidad de crecimiento
-  * Apalancamiento operativo (incremento de márgenes)
-  * Crecimiento orgánico (requisito necesario) e inorgánico
-* Resiliencia
-
-  * Demanda poco elástica
-  * Protegido contra inflación
-  * Protegido contra incremento tasas de interés
-  * Bajos costes fijos
-  * Bajos costes en R&D y CAPEX o flexibilidad para adaptarlos
-  * Caja neta
-  * Deuda sostenible
-    * Deuda dentro de los márgenes habituales del sector
-    * Deuda e intereses bajos para soportar crisis
-* Distribución de capital inteligente
-
-  * Reducción de deuda
-  * SBC razonable
-  * Adquisiciones a valoraciones razonables
-  * Recompra de acciones a precios bajos
-  * Dividendos
-* Creación valor al accionista
-
-  * Dividendos
-  * Poca dilución de acciones
-* Directiva
-
-  * Experiencia contrastada
-  * Histórico de resultados
-  * Histórico de honestidad
-  * Alineada con los intereses del accionista
-* Cultura
-
-  * Hacia los empleados
-  * Responsabilidad social
-  * Responsabilidad medioambiental
-* Accionariado
-
-  * Equilibrio entre poder insiders y resto accionistas
-  * Influencia de grandes inversores
-  * Influencia de pequeños inversores
-  * Existencia de accionariado activista
-* Desempeño histórico
-
-En cuanto a elementos externos:
-
-* Sector de calidad
-  * Poco cíclico
-  * Concentrado
-  * No regulado
-  * En crecimiento
-* Existencia de catalizadores de crecimiento
-* Ausencia de disruptores (o ventaja en caso de existir)
+      En cuanto a elementos externos:
+      * Sector de calidad
+        * Poco cíclico
+        * Concentrado
+        * No regulado
+        * En crecimiento
+      * Existencia de catalizadores de crecimiento
+      * Ausencia de disruptores (o ventaja en caso de existir)
+    </div>
+  </div>
+</div>
 
 ## Riesgo vs Volatilidad
 
