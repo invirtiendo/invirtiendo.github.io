@@ -57,23 +57,23 @@ Hay dos maneras bien diferenciadas de invertir en bolsa:
 </div>
 
 - **Inversión activa** → es una estrategia en la que un inversor, o un gestor de inversiones, toma decisiones de compra y venta de activos con el objetivo de superar el rendimiento de un índice de referencia o del mercado en general. Implica una gestión dinámica de la cartera, donde se analizan constantemente las tendencias del mercado, el desempeño de las empresas y otros factores para tomar decisiones de inversión con la esperanza de obtener mayores rendimientos que los que se obtendrían con una estrategia pasiva.
-  <div class="container" markdown="1">
-  <div class="row" markdown="1">
-  <div class="col-md-6" markdown="1">
-  **Ventajas**
-  - Menores costos que la inversión pasiva si no se emplean intermediarios ni fondos gestionados activamente
-  - puede implicar mayores costos debido a comisiones de los gestores
-  - Posibilidad de mayores retornos
-  </div>
+<div class="container" markdown="1">
+<div class="row" markdown="1">
+<div class="col-md-6" markdown="1">
+**Ventajas**
+- Menores costos que la inversión pasiva si no se emplean intermediarios ni fondos gestionados activamente
+- puede implicar mayores costos debido a comisiones de los gestores
+- Posibilidad de mayores retornos
+</div>
 
-  <div class="col-md-6" markdown="1">
-  **Desventajas**
-  - puede implicar mayores costos debido a comisiones de los gestores
-  - Mayor riesgo
-  - Mayor esfuerzo si se invierte directamente
-  </div>
-  </div>
-  </div>
+<div class="col-md-6" markdown="1">
+**Desventajas**
+- puede implicar mayores costos debido a comisiones de los gestores
+- Mayor riesgo
+- Mayor esfuerzo si se invierte directamente
+</div>
+</div>
+</div>
 
 Si en algún momento se considera la opción de invertir directa y activamente es recomendable adquirir los conocimientos necesarios, para maximizar las posibilidades de éxito. En este caso caben distintos tipos de estrategias, que pueden o no combinarse, esto es:
 - *Value investing*
@@ -239,15 +239,18 @@ Son aquellos en que se cumplen algunas de las siguientes características:
   * Elevada cuota de mercado (local si son small caps)
   * Elevadas barreras de entrada (MOATs)
   * Elevada capacidad de competir en precio y/o calidad
+
 * **Predictibilidad**
   * Evolución Estable de ingresos, gastos y márgenes
+
 * **Rentabilidad**
   * Generación de caja positiva o tendencia positiva
-  * Elevados márgenes
+  * Elevados márgenes (idealmente en crecimiento)
 * **Crecimiento**
   * Oportunidad de crecimiento
   * Apalancamiento operativo (incremento de márgenes)
   * Crecimiento orgánico (requisito necesario) e inorgánico
+
 * **Resiliencia**
   * Demanda poco elástica
   * Protegido contra inflación
@@ -258,12 +261,14 @@ Son aquellos en que se cumplen algunas de las siguientes características:
   * Deuda sostenible
     * Deuda dentro de los márgenes habituales del sector
     * Deuda e intereses bajos para soportar crisis
+
 * **Distribución de capital inteligente**
   * Reducción de deuda
   * SBC razonable
   * Adquisiciones a valoraciones razonables
   * Recompra de acciones a precios bajos
   * Dividendos
+
 * **Creación valor al accionista**
   * Dividendos
   * Poca dilución de acciones
@@ -274,15 +279,18 @@ Son aquellos en que se cumplen algunas de las siguientes características:
   * Histórico de resultados
   * Histórico de honestidad
   * Alineada con los intereses del accionista
+
 * **Cultura**
   * Hacia los empleados
   * Responsabilidad social
   * Responsabilidad medioambiental
+
 * **Accionariado**
   * Equilibrio entre poder insiders y resto accionistas
   * Influencia de grandes inversores
   * Influencia de pequeños inversores
   * Existencia de accionariado activista
+
 * **Desempeño histórico**
 
 En cuanto a elementos externos:
