@@ -114,16 +114,15 @@ Finalmente se nos presentan tres vías principales de acción para abordar la so
 
 Es incluso posible una cuarta vía, la manipulación climática que permita de manera artificial mantener localmente condiciones climáticas aceptables, algo así como islas climáticas artificiales. 
 
-## Descubrimiento del cambio climático
+### Descubrimiento del cambio climático
 
-## Historia del clima
+### Historia del clima
 
-## Evidencias científicas actuales sobre el cambio climático
+### Evidencias científicas actuales sobre el cambio climático
 
 ## Estimación de impactos
 
-## Posibles vías de acción
-
+## Posibles estrategias
 ### Sobre las causas
 #### Reducción de emisiones
 - Descarbonización de la economía (industria, transporte) 
