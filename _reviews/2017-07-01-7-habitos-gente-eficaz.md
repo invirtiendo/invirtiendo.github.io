@@ -11,9 +11,9 @@ lastmod: 2025-07-13T10:54:26.633Z
 duration: 7 min
 ---
 
-## Los hábitos
-In these blinks, you’ll learn about all seven of these habits:
-
+## Resumen
+### Los hábitos
+All seven of these habits are:
 - **Sharpen the saw**: Don’t work yourself to death. Strive for a sustainable lifestyle that affords you time to recuperate and recharge, so that you can stay effective in the long-term.
 - **Be proactive**: You have a natural need to wield influence on the world around you, so don’t spend your time just reacting to external events and circumstances. Take charge and assume responsibility for your life.
 - **Begin with an end in mind**: Don’t spend your life working aimlessly, tackling whatever job is at hand. Have a vision for the future and align your actions accordingly to make it into a reality.
@@ -21,6 +21,29 @@ In these blinks, you’ll learn about all seven of these habits:
 - **Think win-win**: When negotiating with others, don’t try to get the biggest slice of the cake, but rather find a division that is acceptable to all parties. You will still get your fair share, and build strong positive relationships in the process.
 - **Seek first to understand, then to be understood**: When someone presents us with a problem, we often jump right to prescribing a solution. This is a mistake. We should first take time to really listen to the other person and only then make recommendations.
 - **Synergize**: Adopt the guiding principle that in a group, the contributions of many will far exceed those of any individual. This will help you to achieve goals you could never have reached on your own. 
+
+**The key message of this book**:
+Being truly effective means being clear about what it is you want to achieve, and being proactive in putting your goals into action. This is best achieved by striving to synergize with others, to invest in lasting relationships and to maintain a balanced lifestyle.
+{: .notice-info}
+
+How can you make lasting changes to yourself and stay productive on a long-term basis?
+> In order to change, you have to address your character and not your behavior.
+> Working on character involves aligning personal paradigms with universal principles.
+> “Sharpen the saw” if you want to keep sawing.
+
+How can you achieve great things and shape the world around you effectively?
+
+> “Be proactive" and take control of your own fate.
+> “Begin with the end in mind" – if you want to achieve something, you need long-term goals and a mission statement.
+> In order to attain your goals, you need to visualize the outcome of every action as clearly as possible before doing it.
+> If you want to be truly effective, always “put first things first.”
+
+How can you integrate and synergize successfully with others?
+
+> “Think win-win” to get your share of the cake and build lasting relationships at the same time.
+> Forming stable relationships with others means investing in emotional bank accounts.
+> If you want to be able to influence others, “seek first to understand, then to be understood.”
+> “Synergize” by treating others with openness and respect.
 
 ### Como cambiar
 In order to change, you have to address your character and not your behavior.
@@ -53,7 +76,6 @@ Since the majority of people agree upon these principles, we can see them as nat
 It is possible to measure all human behavior against these universal principles. The more we are able to align our behavior with them, the more effectively we will be able to integrate into the world around us.
 
 ### Como obtener resultados
-
 Visualize the outcome of every action as clearly as possible before doing it.
 {: .notice-info}
 
@@ -69,7 +91,8 @@ This kind of visual anticipation works in all possible situations. Most competit
 The same principle is true for an office. First you need a clear mental picture, which can then be translated into concrete actions.
 And as the saying goes, "Better to ask twice than to lose your way once." It’s much more productive to devote time to anticipating an action and visualizing the desired outcome than just plowing on too hastily.
 
-## Sharpen the saw
+## Los hábitos
+### Sharpen the saw
 If you spend the whole day sawing away and yet never find time to actually sharpen your saw, you are doing something fundamentally wrong.
 Taking care of your most vital resources is crucial if you want to be lastingly effective: these resources are your own workforce.
 
@@ -82,7 +105,7 @@ It is essential to be proactive in this regard, and this applies to all areas of
 
 This way of thinking applies to all those areas of life in which productivity has a role to play: businesses should also think not only of the product they want to produce, but also of the well-being of its producers (in this case, their staff).
 
-## “Be proactive” 
+### “Be proactive” 
 take control of your own fate.
 
 Within each of us exists the basic human need to try to influence the world around us, or, in other words, to be proactive.
@@ -97,7 +120,7 @@ People who are proactive, on the other hand, determine their own weather. They a
 This manifests itself most clearly in their use of language: people who are reactive place the responsibility for their fate on external circumstances. They say things like "It wasn’t my fault," or "It’s out of my hands."
 Proactive people take control of their own fate: the decisions they took yesterday have made them what they are today. They say things like "I’ve decided to…" or "Let’s try and find a solution to this problem."
 
-## Begin with the end in mind
+### Begin with the end in mind
 If you want to achieve something, you need long-term goals and a mission statement
 
 Many people work towards meaningless goals. They worry about being efficient rather than effective.
@@ -122,7 +145,7 @@ This requires a significant degree of time management. Most time-management tech
 
 Most of the time it is sufficient simply to remember the little maxim: "first things first."
 
-## First things first 
+### First things first 
 This means rigorously prioritizing: the important things are taken care of, the less important things are put to one side and then delegated or dealt with later.
 
 How can we tell which things are important? 
@@ -133,7 +156,7 @@ This therefore does not include those numerous pressing little tasks we are face
 
 In order to be able to dedicate yourself to these crucial tasks, you have to learn when to say yes, and when to say no. Even if we have a burning desire to say yes, we should also be able to say no when the thing we’ve been asked to do contributes nothing to the achievement of our long-term goals.
 
-## Think win-win
+### Think win-win
 to get your share of the cake and build lasting relationships at the same time.
 Most people are intrinsically shaped by the "win-lose" paradigm. They see every situation as a competition, and others as competitors in the battle for the biggest slice of the cake.
 
@@ -160,7 +183,7 @@ That's why, in everyday life, it is vitally important to always keep promises, a
 
 If it happens that you make a withdrawal from the account one time, you should apologize sincerely. People are more than happy to forgive a repentant sinner. Plucking up the courage to admit you were wrong is therefore always worthwhile.
 
-## seek first to understand, then to be understood
+### seek first to understand, then to be understood
 If you want to be able to influence others. 
 How much would we trust a doctor who very quickly gave a diagnosis without having really listened to us at all?
 
@@ -178,7 +201,7 @@ Empathetic listening means active listening: repeating back to the person what t
 
 It takes time and effort to master this skill at the beginning, but the rewards will be numerous later on. If you learn to listen in a truly empathetic way, you will notice that many people are quite prepared to open up and to consider your opinions and advice. They merely require a good, appreciative listener to be able to do so.
 
-## Synergize 
+### Synergize 
 by treating others with openness and respect.
 
 Examples of synergy can be seen all around us in nature. The contributions of many add up to a total which far exceeds the contribution of any individual.
@@ -193,28 +216,5 @@ When people really synergize, they listen to each other, they put themselves in 
 For this atmosphere of cooperation and trust to exist, the individuals in a group have to be very mature, prepared to treat each other with respect and to invest in their working relationships.
 The results are almost impossible to predict, and synergetic work can often come close to chaos. But you mustn’t let yourself be discouraged by this. Instead, you must focus on the fact that, by the end, you will have reached a result which would have been unachievable by an individual.
 
-## Final summary
-The key message of this book:
-Being truly effective means being clear about what it is you want to achieve, and being proactive in putting your goals into action. This is best achieved by striving to synergize with others, to invest in lasting relationships and to maintain a balanced lifestyle.
-{: .notice-info}
 
-How can you make lasting changes to yourself and stay productive on a long-term basis?
-
-> In order to change, you have to address your character and not your behavior.
-> Working on character involves aligning personal paradigms with universal principles.
-> “Sharpen the saw” if you want to keep sawing.
-
-How can you achieve great things and shape the world around you effectively?
-
-> “Be proactive" and take control of your own fate.
-> “Begin with the end in mind" – if you want to achieve something, you need long-term goals and a mission statement.
-> In order to attain your goals, you need to visualize the outcome of every action as clearly as possible before doing it.
-> If you want to be truly effective, always “put first things first.”
-
-How can you integrate and synergize successfully with others?
-
-> “Think win-win” to get your share of the cake and build lasting relationships at the same time.
-> Forming stable relationships with others means investing in emotional bank accounts.
-> If you want to be able to influence others, “seek first to understand, then to be understood.”
-> “Synergize” by treating others with openness and respect.
 
