@@ -92,6 +92,15 @@
   border-radius: .25rem;
 }
 
+.toc-level-2 {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.toc-level-3 {
+  text-decoration: underline;
+}
+
 .summary {
   position: relative;
   text-align: justify;
