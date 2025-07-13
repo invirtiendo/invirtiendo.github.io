@@ -12,21 +12,9 @@ layout: default
   <main class="bd-main d-md-flex">
 
       <!-- TOC -->
-      <div class="bd-toc col-md-2 me-2 text-body-secondary offcanvas-md offcanvas-start" tabindex="-1" id="tocContents" aria-labelledby="tocContentsOffcanvasLabel">
-        <div class="offcanvas-header border-bottom">
-            <h5 class="offcanvas-title py-2" id="tocContentsOffcanvasLabel">Contenido</h5>
-            <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close" data-bs-target="#tocContents"></button>
-        </div>
-        <strong class="d-none d-md-block h6 my-2 ms-3 px-2">Contenido</strong>
-        <hr class="d-none d-md-block my-2 ms-3">
-        <div class="offcanvas-body"id="tocContents">
-            <nav id="TableOfContents">
-                <ul>
-                    {% include toc.html sanitize=true html=content h_min=1 h_max=6 class="toc__menu" skip_no_ids=true %}                
-                </ul>
-            </nav>
-        </div>
-    </div>
+      {% if page.toc == true %}
+        {% include table-of-contents.html %}
+      {% endif %}
 
       <div class="d-flex flex-column flex-fill">
           <!-- INTRO -->
