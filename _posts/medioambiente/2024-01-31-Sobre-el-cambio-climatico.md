@@ -1,18 +1,22 @@
 ---
 title: Revisión y reflexiones sobre el cambio climático
-excerpt: Revisión de las evidencias que acompañan al cambio climático y sus posibles efectos, así como el análisis de las lagunas de conocimiento científico actual y el debate político y social, pasado y presente, en relación al calentamiento global.
-date: 2024-01-31
+excerpt: >-
+  Revisión de las evidencias que acompañan al cambio climático y sus posibles
+  efectos, así como el análisis de las lagunas de conocimiento científico actual
+  y el debate político y social, pasado y presente, en relación al calentamiento
+  global.
+date: 2024-01-31T00:00:00.000Z
 draft: true
 categories:
   - Medioambiente
 tags:
   - Cambio climático
-videos:
-  - Wp-WiNXH6hI
-bibliography:
-  - title: null
-    url: null
-lastmod: 2024-02-06T11:04:38.570Z
+biblio:
+  - type: media
+    id: Wp-WiNXH6hI
+    platform: youtube
+lastmod: 2025-07-13T09:03:36.391Z
+duration: 8 min
 ---
 
 ## Introducción

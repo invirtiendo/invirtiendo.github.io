@@ -1,10 +1,14 @@
---- 
-title: "The Precipice: Existential Risk and the Future of Humanity"
+---
+title: 'The Precipice: Existential Risk and the Future of Humanity'
 biblio_id: 9780316484916
-date: 2021-06-21
-excerpt: "Sobre los riesgos para la supervivencia de la humanidad."
-book-link: https://theprecipice.com/
-podcasts: [49203422]
+date: 2021-06-21T00:00:00.000Z
+excerpt: Sobre los riesgos para la supervivencia de la humanidad.
+book-link: 'https://theprecipice.com/'
+biblio:
+  - type: podcast
+    id: 49203422
+lastmod: 2025-07-13T08:52:32.422Z
+duration: 2 min
 ---
 
 ## Resumen

@@ -1,8 +1,19 @@
 ---
-title: "Riesgos"
-date: 2021-05-18
-podcasts: [69434687]
-books: [9781797114613]
+title: Riesgos
+date: 2021-05-18T00:00:00.000Z
+biblio:
+  - type: podcast
+    id: 69434687
+  - type: book
+    id: 9781797114613
+  - title: The public health company
+    url: 'https://www.thepublichealthco.com/'
+  - title: Global Challenges Organisation
+    url: 'https://globalchallenges.org/'
+  - title: International Crisis Group
+    url: 'https://www.crisisgroup.org/'
+lastmod: 2025-07-13T08:57:34.288Z
+duration: 1 min
 ---
 
 El apartado **Riesgos** es una forma de recoger de manera iterativa aquellos casos que ponen en riesgo, si no nuestra supervivencia como especie, al menos las sociedades actuales.
@@ -24,11 +35,6 @@ Es posible, que en las próximas décadas se inicie un cambio de tendencia, que 
 ##### Exposición a quimicos
 Ver [Count down por Shanna H. Swan, PhD](/libros/reviews/count-down/)
 
-## Recursos 
-- [Count down por Shanna H. Swan, PhD](/libros/reviews/count-down/)
-- [The public health company](https://www.thepublichealthco.com/)
-- [Global Challenges Organisation](https://globalchallenges.org/)
-- [International Crisis Group](https://www.crisisgroup.org/)
 
 
 

@@ -1,13 +1,15 @@
 ---
 title: Las 10 reglas de oro para la reforestación
-date: 2021-05-18
+date: 2021-05-18T00:00:00.000Z
 categories:
   - Medio Ambiente
 tags:
   - Reforestación
-podcasts:
-  - 65324888
-lastmod: 2023-05-20T17:20:12.482Z
+biblio:
+  - type: podcast
+    id: 65324888
+lastmod: 2025-07-13T08:49:09.376Z
+duration: 1 min
 ---
 
 # Las "10 reglas de oro para la reforestación"

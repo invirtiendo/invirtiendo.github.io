@@ -5,7 +5,7 @@ draft: true
 categories:
   - Política
   - Historia
-bibliography:
+biblio:
   - title: "Wikipedia: Comisión Peel"
     url: https://es.wikipedia.org/wiki/Comisi%C3%B3n_Peel
   - title: "Wikipedia: Husayn ibn Ali"

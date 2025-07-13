@@ -1,8 +1,20 @@
 ---
-title: "Riesgos para la humanidad"
-date: 2021-06-17
-categories: [Riesgos]
+title: Riesgos para la humanidad
+categories:
+  - Riesgos
 tags: []
+biblio:
+  - type: book
+    id: 9781529373783
+  - type: book
+    id: 9781137278463
+  - type: book
+    id: 9781797114613
+  - type: podcast
+    id: 69434687
+date: 2021-06-17T00:00:00.000Z
+lastmod: 2025-07-13T08:54:52.832Z
+duration: 7 min
 ---
 
 ## Introducción

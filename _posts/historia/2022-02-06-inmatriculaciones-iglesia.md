@@ -1,15 +1,20 @@
 ---
-title:  "Inmatriculaciones de la Iglesia Católica"
-date:   2022-02-06
-categories: [Política]
+title: Inmatriculaciones de la Iglesia Católica
+date: 2022-02-06T00:00:00.000Z
+categories:
+  - Política
 tags: []
 serie: cagadas-politicos
-podcasts: [68109264]
+biblio:
+  - type: podcast
+    id: 68109264
 header:
-  overlay_color: "#333"
+  overlay_color: '#333'
   actions:
-    - label: "Serie: Las cagadas de la política española"
-      url: "/blog/series/cagadas-politicos/"
+    - label: 'Serie: Las cagadas de la política española'
+      url: /blog/series/cagadas-politicos/
+lastmod: 2025-07-13T08:48:32.304Z
+duration: 3 min
 ---
 
 # Introducción

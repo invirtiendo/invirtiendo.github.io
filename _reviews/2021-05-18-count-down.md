@@ -1,10 +1,18 @@
---- 
-title: "Count Down: How Our Modern World Is Threatening Sperm Counts..."
-book-link: https://www.goodreads.com/book/show/50892327-count-down
+---
+title: 'Count Down: How Our Modern World Is Threatening Sperm Counts...'
+book-link: 'https://www.goodreads.com/book/show/50892327-count-down'
 biblio_id: 9781797114613
-date: 2021-05-18
-excerpt: "Chemicals and lifestyle changes are disrupting our hormonal balance. In the past forty years, human male sperm count has dropped by more than fifty percent. Female fertility also has declined precipitously in the same period. If this rate continues, then the human species could become extinct."
-podcasts: [69434687]
+date: 2021-05-18T00:00:00.000Z
+excerpt: >-
+  Chemicals and lifestyle changes are disrupting our hormonal balance. In the
+  past forty years, human male sperm count has dropped by more than fifty
+  percent. Female fertility also has declined precipitously in the same period.
+  If this rate continues, then the human species could become extinct.
+biblio:
+  - type: podcast
+    id: 69434687
+lastmod: 2025-07-13T08:51:55.585Z
+duration: 2 min
 ---
 
 ## Notas prelectura

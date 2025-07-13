@@ -4,7 +4,7 @@ description: Descripción de las principales funciones del tribunal.
 draft: true
 categories:
   - Política
-bibliography:
+biblio:
   - title: Competencias del Tribunal Constitucional
     url: https://www.tribunalconstitucional.es/es/tribunal/Composicion-Organizacion/competencias/Paginas/default.aspx
 lastmod: 2024-02-02T17:25:20.383Z

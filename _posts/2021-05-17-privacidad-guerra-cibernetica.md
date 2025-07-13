@@ -1,7 +1,11 @@
 ---
-title: "Privacidad digital y guerra cibernética"
-date: 2021-05-18
-podcasts: [59905384]
+title: Privacidad digital y guerra cibernética
+date: 2021-05-18T00:00:00.000Z
+biblio:
+  - type: podcast
+    id: 59905384
+lastmod: 2025-07-13T08:47:47.622Z
+duration: 2 min
 ---
 
 ### Privacidad digital y guerra cibernética
