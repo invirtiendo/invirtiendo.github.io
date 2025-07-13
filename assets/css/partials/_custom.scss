@@ -67,6 +67,11 @@
   list-style: none;
 }
 
+.section-nav ul,
+.section-nav ol {
+  padding-left: 0.5rem;
+}
+
 .bd-toc .section-nav .toc-entry {
   display: block;
 }
