@@ -1,9 +1,14 @@
---- 
-title: "The 7 Habits of Highly Effective People"
-book-link: https://www.goodreads.com/book/show/36072.The_7_Habits_of_Highly_Effective_People
+---
+title: The 7 Habits of Highly Effective People
+book-link: >-
+  https://www.goodreads.com/book/show/36072.The_7_Habits_of_Highly_Effective_People
 biblio_id: 0743250974
-date: 2017-07-01
-excerpt: "Sobre siete hábitos o principios a partir de los cuales lograr el cambio personal y lograr ser más efectivos personal y profesionalmente."
+date: 2017-07-01T00:00:00.000Z
+excerpt: >-
+  Sobre siete hábitos o principios a partir de los cuales lograr el cambio
+  personal y lograr ser más efectivos personal y profesionalmente.
+lastmod: 2025-07-13T10:54:26.633Z
+duration: 7 min
 ---
 
 ## Los hábitos
@@ -30,8 +35,8 @@ If you really want to change, you need to work from the inside out. Only once yo
 If you want to be seen as a trustworthy person, it is no good working on your communication skills – you have to work instead on actually becoming a more trustworthy person.
 Instead of scratching the surface, you have to really address your inner character.
 
+**Working on character involves aligning personal paradigms with universal principles.**
 
-#### Working on character involves aligning personal paradigms with universal principles.
 Paradigms
 : are the building blocks of our character. They are our fundamental principles – the glasses through which we see the world.
 
@@ -47,7 +52,7 @@ If you want to achieve true effectiveness, it is useful to align your personal p
 Since the majority of people agree upon these principles, we can see them as natural laws of lasting validity, almost as a yardstick by which we can measure our own values.
 It is possible to measure all human behavior against these universal principles. The more we are able to align our behavior with them, the more effectively we will be able to integrate into the world around us.
 
-#### Como obtener resultados
+### Como obtener resultados
 
 Visualize the outcome of every action as clearly as possible before doing it.
 {: .notice-info}
@@ -64,7 +69,7 @@ This kind of visual anticipation works in all possible situations. Most competit
 The same principle is true for an office. First you need a clear mental picture, which can then be translated into concrete actions.
 And as the saying goes, "Better to ask twice than to lose your way once." It’s much more productive to devote time to anticipating an action and visualizing the desired outcome than just plowing on too hastily.
 
-## “Sharpen the saw” if you want to keep sawing.
+## Sharpen the saw
 If you spend the whole day sawing away and yet never find time to actually sharpen your saw, you are doing something fundamentally wrong.
 Taking care of your most vital resources is crucial if you want to be lastingly effective: these resources are your own workforce.
 
@@ -77,7 +82,9 @@ It is essential to be proactive in this regard, and this applies to all areas of
 
 This way of thinking applies to all those areas of life in which productivity has a role to play: businesses should also think not only of the product they want to produce, but also of the well-being of its producers (in this case, their staff).
 
-## “Be proactive” and take control of your own fate.
+## “Be proactive” 
+take control of your own fate.
+
 Within each of us exists the basic human need to try to influence the world around us, or, in other words, to be proactive.
 This is what distinguishes us from animals: an animal simply acts according to the way it is programmed. An external stimulus triggers a particular reaction. Humans, by contrast, "program" themselves. We are able to reflect in the time between receiving a stimulus and reacting. The ability to "externally" observe ourselves and our actions allows us to actively decide how we react to outside influences.
 
@@ -90,7 +97,9 @@ People who are proactive, on the other hand, determine their own weather. They a
 This manifests itself most clearly in their use of language: people who are reactive place the responsibility for their fate on external circumstances. They say things like "It wasn’t my fault," or "It’s out of my hands."
 Proactive people take control of their own fate: the decisions they took yesterday have made them what they are today. They say things like "I’ve decided to…" or "Let’s try and find a solution to this problem."
 
-## “Begin with the end in mind” – if you want to achieve something, you need long-term goals and a mission statement
+## Begin with the end in mind
+If you want to achieve something, you need long-term goals and a mission statement
+
 Many people work towards meaningless goals. They worry about being efficient rather than effective.
 
 Being efficient, i.e., getting the maximum amount done in the shortest amount of time, is pointless if you don’t know why you’re doing it. Not knowing what’s really important to you and what you’re working towards is like climbing a ladder which is set against the wrong wall.
@@ -113,7 +122,9 @@ This requires a significant degree of time management. Most time-management tech
 
 Most of the time it is sufficient simply to remember the little maxim: "first things first."
 
-## "First things first" means rigorously prioritizing: the important things are taken care of, the less important things are put to one side and then delegated or dealt with later.
+## First things first 
+This means rigorously prioritizing: the important things are taken care of, the less important things are put to one side and then delegated or dealt with later.
+
 How can we tell which things are important? 
 
 The things which are important are those which bring us closer to our final goals, and those which are consistent with our mission statement – our values and our norms.
@@ -122,7 +133,8 @@ This therefore does not include those numerous pressing little tasks we are face
 
 In order to be able to dedicate yourself to these crucial tasks, you have to learn when to say yes, and when to say no. Even if we have a burning desire to say yes, we should also be able to say no when the thing we’ve been asked to do contributes nothing to the achievement of our long-term goals.
 
-## “Think win-win” to get your share of the cake and build lasting relationships at the same time.
+## Think win-win
+to get your share of the cake and build lasting relationships at the same time.
 Most people are intrinsically shaped by the "win-lose" paradigm. They see every situation as a competition, and others as competitors in the battle for the biggest slice of the cake.
 
 The majority of situations in life, however, don’t need to be a competition. There is usually enough cake for everyone, and it is far better when all parties work towards a "win-win" solution.
@@ -148,7 +160,8 @@ That's why, in everyday life, it is vitally important to always keep promises, a
 
 If it happens that you make a withdrawal from the account one time, you should apologize sincerely. People are more than happy to forgive a repentant sinner. Plucking up the courage to admit you were wrong is therefore always worthwhile.
 
-## “seek first to understand, then to be understood.” If you want to be able to influence others. 
+## seek first to understand, then to be understood
+If you want to be able to influence others. 
 How much would we trust a doctor who very quickly gave a diagnosis without having really listened to us at all?
 
 How helpful would it be for an optician to merely hand us his own glasses, claiming that since he can see fine with them, they should work for us too?
@@ -165,7 +178,9 @@ Empathetic listening means active listening: repeating back to the person what t
 
 It takes time and effort to master this skill at the beginning, but the rewards will be numerous later on. If you learn to listen in a truly empathetic way, you will notice that many people are quite prepared to open up and to consider your opinions and advice. They merely require a good, appreciative listener to be able to do so.
 
-## “Synergize” by treating others with openness and respect.
+## Synergize 
+by treating others with openness and respect.
+
 Examples of synergy can be seen all around us in nature. The contributions of many add up to a total which far exceeds the contribution of any individual.
 A person who is truly effective will make use of this principle in their personal and work life.
 
