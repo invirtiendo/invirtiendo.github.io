@@ -7,12 +7,11 @@ date: 2017-07-01T00:00:00.000Z
 excerpt: >-
   Sobre siete hábitos o principios a partir de los cuales lograr el cambio
   personal y lograr ser más efectivos personal y profesionalmente.
-lastmod: 2025-07-13T10:54:26.633Z
+lastmod: 2025-07-13T11:18:26.102Z
 duration: 7 min
 ---
 
 ## Resumen
-### Los hábitos
 All seven of these habits are:
 - **Sharpen the saw**: Don’t work yourself to death. Strive for a sustainable lifestyle that affords you time to recuperate and recharge, so that you can stay effective in the long-term.
 - **Be proactive**: You have a natural need to wield influence on the world around you, so don’t spend your time just reacting to external events and circumstances. Take charge and assume responsibility for your life.
@@ -27,23 +26,21 @@ Being truly effective means being clear about what it is you want to achieve, an
 {: .notice-info}
 
 How can you make lasting changes to yourself and stay productive on a long-term basis?
-> In order to change, you have to address your character and not your behavior.
-> Working on character involves aligning personal paradigms with universal principles.
-> “Sharpen the saw” if you want to keep sawing.
+- In order to change, you have to address your character and not your behavior.
+- Working on character involves aligning personal paradigms with universal principles.
+- “Sharpen the saw” if you want to keep sawing.
 
 How can you achieve great things and shape the world around you effectively?
-
-> “Be proactive" and take control of your own fate.
-> “Begin with the end in mind" – if you want to achieve something, you need long-term goals and a mission statement.
-> In order to attain your goals, you need to visualize the outcome of every action as clearly as possible before doing it.
-> If you want to be truly effective, always “put first things first.”
+- “Be proactive" and take control of your own fate.
+- “Begin with the end in mind" – if you want to achieve something, you need long-term goals and a mission statement.
+- In order to attain your goals, you need to visualize the outcome of every action as clearly as possible before doing it.
+- If you want to be truly effective, always “put first things first.”
 
 How can you integrate and synergize successfully with others?
-
-> “Think win-win” to get your share of the cake and build lasting relationships at the same time.
-> Forming stable relationships with others means investing in emotional bank accounts.
-> If you want to be able to influence others, “seek first to understand, then to be understood.”
-> “Synergize” by treating others with openness and respect.
+- “Think win-win” to get your share of the cake and build lasting relationships at the same time.
+- Forming stable relationships with others means investing in emotional bank accounts.
+- If you want to be able to influence others, “seek first to understand, then to be understood.”
+- “Synergize” by treating others with openness and respect.
 
 ### Como cambiar
 In order to change, you have to address your character and not your behavior.
