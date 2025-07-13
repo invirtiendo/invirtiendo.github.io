@@ -164,7 +164,7 @@ $active-color: mix(#fff, $primary-color, 80%) !default;
 Typography
 ========================================================================== */
 
-$doc-font-size: 16 !default;
+$doc-font-size: 14 !default;
 
 /* paragraph indention */
 $paragraph-indent: false !default; // true, false (default)
@@ -192,30 +192,30 @@ $header-font-family: $sans-serif !default;
 $caption-font-family: $serif !default;
 
 /* type scale */
-$type-size-1: 2.441em !default; // ~39.056px
-$type-size-2: 1.953em !default; // ~31.248px
-$type-size-3: 1.563em !default; // ~25.008px
-$type-size-4: 1.25em !default; // ~20px
-$type-size-5: 1em !default; // ~16px
-$type-size-6: 0.75em !default; // ~12px
-$type-size-7: 0.6875em !default; // ~11px
-$type-size-8: 0.625em !default; // ~10px
+$type-size-1: 1.5em !default; // ~39.056px
+$type-size-2: 1.4em !default; // ~31.248px
+$type-size-3: 1.3em !default; // ~25.008px
+$type-size-4: 1.2em !default; // ~20px
+$type-size-5: 1.1em !default; // ~16px
+$type-size-6: 1em !default; // ~12px
+$type-size-7: 0.9em !default; // ~11px
+$type-size-8: 0.8em !default; // ~10px
 
 /* headline scale */
-$h-size-1: 1.563em !default; // ~25.008px
-$h-size-2: 1.25em !default; // ~20px
-$h-size-3: 1.125em !default; // ~18px
-$h-size-4: 1.0625em !default; // ~17px
-$h-size-5: 1.03125em !default; // ~16.5px
+$h-size-1: 1.5em !default; // ~25.008px
+$h-size-2: 1.4em !default; // ~20px
+$h-size-3: 1.3em !default; // ~18px
+$h-size-4: 1.2em !default; // ~17px
+$h-size-5: 1.1em !default; // ~16.5px
 $h-size-6: 1em !default; // ~16px
 
 $font-size-base:              1rem; // Assumes the browser default, typically
-$h1-font-size:                $font-size-base * 2;
-$h2-font-size:                $font-size-base * 1.75;
-$h3-font-size:                $font-size-base * 1.5;
-$h4-font-size:                $font-size-base * 1.35;
-$h5-font-size:                $font-size-base * 1.25;
-$h6-font-size:                $font-size-base * 1.15;
+$h1-font-size:                $font-size-base * 1.5;
+$h2-font-size:                $font-size-base * 1.4;
+$h3-font-size:                $font-size-base * 1.3;
+$h4-font-size:                $font-size-base * 1.2;
+$h5-font-size:                $font-size-base * 1.1;
+$h6-font-size:                $font-size-base;
 
 $border-color:                $gray-300 !default;
 $border-radius:               .25rem !default;
