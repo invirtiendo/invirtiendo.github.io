@@ -53,7 +53,7 @@ He aquí el mayor riesgo de esperar a actuar demasiado tiempo. Al no tratarse de
 
 Por la evidente importancia de todo lo comentado hasta ahora, he considerado oportuno tratar de revisar los hechos y evidencias de manera honesta y exhaustiva. Aunque personalmente estoy convencido del riesgo que supone para la conservación de los hábitats y la continuidad de nuestra civilización, estoy dispuesto a poner en tela de juicio todo tipo de creencias que no logren un sustento científico.
 
-## Fundamentos sobre el cambio climático
+## Fundamentos
 
 Antes de comenzar la revisión bibliográfica de la literatura científica, política y económica más relevante creo que debería comenzar por lo que entiendo en que consiste el cambio climático. Aún pudiendo errar en inexactitudes u omisiones servirá para, por un lado exponer mis creencias a modo de ejercicio de transparencia para el lector y, por el otro, para ponerlo a prueba frente a los hechos.
 
@@ -114,11 +114,11 @@ Finalmente se nos presentan tres vías principales de acción para abordar la so
 
 Es incluso posible una cuarta vía, la manipulación climática que permita de manera artificial mantener localmente condiciones climáticas aceptables, algo así como islas climáticas artificiales. 
 
-### Descubrimiento del cambio climático
+### Descubrimiento
 
 ### Historia del clima
 
-### Evidencias científicas actuales sobre el cambio climático
+### Evidencias científicas
 
 ## Estimación de impactos
 
